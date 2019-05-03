@@ -79,7 +79,7 @@ All that is left is to calculate the Craig Zeta.
 
 I will quickyl demonstrate why you should trust these methods and consider most frequent words to adequately capture features of authorship by building a **bootstrapping consensus tee** from my documents. Bootstrapping consesus trees are consensus trees built using a distance metric, where a consesus tree is a way of estimating the level of "support" for claudes in a tree, clusters of nodes of the tree.
 
-<img src="https://bitbucket.org/JesseRP/analyticstyle/src/master/ConsensusTreeDiagram.jpg" alt="consensus tree" width="658" height="514"> 
+![Consensus Tree]("https://bitbucket.org/JesseRP/analyticstyle/src/master/ConsensusTreeDiagram.jpg"){:class="img-responsive"} 
 
 Consensus trees work by taking multiple different tree diagrams/ cladograms, where the have all the same nodes, but have them grouped differently, and producing the tree that has groupings that *best approximate* the two alternative groupings for each grouping of nodes in each tree.
 
