@@ -6,10 +6,10 @@ This repository contains files for my stylometric analysis of a corpus I created
   1. German Idealism, British Idealism, and Romanticism. 
   2. The critics of metaphysics and "masters of suspicion" including Feuerbach, Marx, Nietzsche,                 Freud, Bergson, and so on. 
   3. Germanophone phenomenology and existential philosophy, (Husserl, Max Scheler, Karl Jaspers, and             Heidegger). 
-  4. French phenomenology, Hegelianism, and anti-Hegelianism (some of whome are also called                      "Existentialists") including Kojève, Sartre, Merleau-Pont, Levinas, Bataille, and Simon de Beauvoir,        among others. 
+  4. French phenomenology, Hegelianism, and anti-Hegelianism (some of whome are also called                      "Existentialists") including Koj?ve, Sartre, Merleau-Pont, Levinas, Bataille, and Simon de Beauvoir,        among others. 
   5. Hermeneutics (Dilthey, Gadamer, Ricoeur) 
   6. Western Marxism, the Frankfurt school, including Lukacs, Benjamin, Horkheimer, Adorno,                      Marcuse, Habermas, etc. 
-  7. French Structuralism and structuralism, including Lévi-Strauss, Lacan, and Althusser 
+  7. French Structuralism and structuralism, including L?vi-Strauss, Lacan, and Althusser 
   8. Post-Structuralism, exemplified in the works of Foucault, Derrida, and Deleuze 
   9. "Post-modernism" here meant to refer to the work of Lyotard, and Baudrillard at least. 
   10. Feminism, typofied by thinkers like Irigaray, and Kristeva.
@@ -30,7 +30,7 @@ In particular, I chose the works I deemed to be most appropriate and most repres
 My analysis consisted in using various stylometric functions and methods of analysis found in [**stylo**](https://journal.r-project.org/archive/2016/RJ-2016-007/index.html)(Eder, M., Rybicki, J. and Kestemont, M. 2016), such as the Zeta metric and related extensions to identify discriminating words between the two sets of texts, various principle component analysis done on a set of 26 texts and 17 authors, building a bootstrap consensus tree, and various text analysis functions such as Heirarchical Clustering analysis on the documents, and measuring keyness, using metrics such as term frequency-inverse document frequency, and so on. (see ["Text Mining with R"](https://www.tidytextmining.com/))
 
 
-The project was inspired by Javier Virués-Ortega's paper "The Case Against B.F. Skinner 45 years Later: An Encounter with N. Chomsky" ( see [Virués-Ortega 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2223151/)), in which a footnote identified a large body of scientometric work that challenges Chomsky's history of [the decline of behaviorism](https://en.wikipedia.org/wiki/Verbal_Behavior#Chomsky's_review), and also the traditional cultural myth told about it within psychology, linguistics, and philosophy departments. I felt that something similar could be done concerning the cultural myths told in philosophy departments about the "Analytic-Continental Divide", though using **stylometric**, rather than scientometric data in its most general sense.
+The project was inspired by Javier Viru?s-Ortega's paper "The Case Against B.F. Skinner 45 years Later: An Encounter with N. Chomsky" ( see [Viru?s-Ortega 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2223151/)), in which a footnote identified a large body of scientometric work that challenges Chomsky's history of [the decline of behaviorism](https://en.wikipedia.org/wiki/Verbal_Behavior#Chomsky's_review), and also the traditional cultural myth told about it within psychology, linguistics, and philosophy departments. I felt that something similar could be done concerning the cultural myths told in philosophy departments about the "Analytic-Continental Divide", though using **stylometric**, rather than scientometric data in its most general sense.
 
 #Acknowledgements
 
