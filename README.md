@@ -1,3 +1,4 @@
+
 ## What is Analytic Style?
 
 This repository contains files for my stylometric analysis of a corpus I created, containing a subset of the analytic philosophy canon, a textual tradition beginning with the work of Gotlob Frege (1848-1925), Betrand Russell (1872-1970), G.E. Moore (1873-1958), and Ludwig Wittgenstein (1889-1951), and ending with the works of English language philosophers in the late 1950's early 1960's, togther with a subset of the continental philosophical canon, (see "*Continental Philosophy: A Very Short Introduction*". Critchley, Simon. 2001), understood as the sum of: 
@@ -78,7 +79,9 @@ All that is left is to calculate the Craig Zeta.
 
 I will quickyl demonstrate why you should trust these methods and consider most frequent words to adequately capture features of authorship by building a **bootstrapping consensus tee** from my documents. Bootstrapping consesus trees are consensus trees built using a distance metric, where a consesus tree is a way of estimating the level of "support" for claudes in a tree, clusters of nodes of the tree.
 
-[Consensus trees](https://bitbucket.org/JesseRP/analyticstyle/src/master/ConsensusTreeDiagram.jpg) work by taking multiple different tree diagrams/ cladograms, where the have all the same nodes, but have them grouped differently, and producing the tree that has groupings that *best approximate* the two alternative groupings for each grouping of nodes in each tree.
+![Consensus trees](/Users/jesserussellpowell/analyticstyle/ConesensusTreeDiagram.jpg) 
+
+Consensus trees work by taking multiple different tree diagrams/ cladograms, where the have all the same nodes, but have them grouped differently, and producing the tree that has groupings that *best approximate* the two alternative groupings for each grouping of nodes in each tree.
 
 
 
