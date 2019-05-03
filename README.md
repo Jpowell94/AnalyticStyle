@@ -80,7 +80,7 @@ I will quickyl demonstrate why you should trust these methods and consider most 
 
 Consensus trees work by taking multiple different tree diagrams/ cladograms, where the have all the same nodes, but have them grouped differently, and producing the tree that has groupings that *best approximate* the two alternative groupings for each grouping of nodes in each tree.
 
-![Consensus tree Diagrams To Help Eplain What I am Talking About](https://bitbucket.org/JesseRP/analyticstyle/src/master/ConsensusTreeDiagram.jpg "Consensus Tree Diagram")
+![Consensus Tree Diagram.](https://www.frozenevolution.com/xxiii8-one-consensus-tree-can-be-produced-several-different-trees "Consensus Tree Diagram")
 
 ##Findings
 
