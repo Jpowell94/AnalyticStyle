@@ -137,7 +137,7 @@ combined.features <- c(zeta.results$words.preferred[1:20],
 
 To identify most characterstic words using [Craig's Zeta Function](https://www.rdocumentation.org/packages/stylo/versions/0.6.9/topics/zeta.craig), I produced the following list of words characterstic of the analytic and Continental authors in my corpus:
 
-[Characteristic Words](https://bitbucket.org/JesseRP/analyticstyle/raw/aaeebfb289da511fc4aa1cc21d34aaf6c71ea534/Image%205-3-19%20at%208.48%20PM.jpg)
+![Characteristic Words](https://bitbucket.org/JesseRP/analyticstyle/raw/aaeebfb289da511fc4aa1cc21d34aaf6c71ea534/Image%205-3-19%20at%208.48%20PM.jpg)
 
 We can see a few things immediately:
 
