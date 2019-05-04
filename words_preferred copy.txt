@@ -1,0 +1,40 @@
+# The file contains words that were extracted in the oppose script:
+# this subset lists words significantly PREFERRED by primary author(s).
+# The list can be used as an input wordlist for other methods, and for this
+# purpose it can be manually revised, edited, deleted, culled, etc.
+# You can either delete unwanted words, or mark them with "#"
+# -----------------------------------------------------------------------
+
+theory
+we
+can
+e
+some
+logical
+thus
+may
+statements
+example
+then
+if
+two
+sentences
+cf
+be
+probability
+x
+sentence
+are
+statement
+construction
+there
+say
+also
+will
+would
+such
+terms
+good
+true
+b
+language

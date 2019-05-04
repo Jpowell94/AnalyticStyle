@@ -1,5 +1,5 @@
 
-## What is Analytic Style?
+# What is Analytic Style?
 
 This repository contains files for my stylometric analysis of a corpus I created, containing a subset of the analytic philosophy canon, a textual tradition beginning with the work of Gotlob Frege (1848-1925), Betrand Russell (1872-1970), G.E. Moore (1873-1958), and Ludwig Wittgenstein (1889-1951), and ending with the works of English language philosophers in the late 1950's early 1960's, togther with a subset of the continental philosophical canon, (see "*Continental Philosophy: A Very Short Introduction*". Critchley, Simon. 2001), understood as the sum of: 
 
@@ -59,8 +59,8 @@ If Analytic Philosophy broke with the traditional philosophy in taking its lingu
 So much influence, that the fact that philosophers working in the analytic tradition would label people like Derrida "Pseudo-philosophers" and writing an [open letter in protest](http://ontology.buffalo.edu/smith/varia/Derrida_Letter.htm) of him being awarded an honorary degree from Cambridge is rather interesting, and highly telling about the relationship between not just analytic and continental philosophy, but analytic philosphy and the humanities as a whole. (He was still awarded his degree by a vote fo 336 to 204, almost none of the votes in favor, according to [Sarah Richmond](https://doi.org/10.1111/j.1468-0378.1996.tb00064.x), were from members of the philosophy department!) It would thus be a desirata of a characterization of analytic style in terms of its difference from "continental style", that these differences help illuminate why continental work has found purchase with so many different people and fields. 
 
  
-##Method
-#Selecting Disciminative Features
+#Method
+##Selecting Disciminative Features
 
 To Analyze style, I focused on various measure I can perform on the **most frequent words**, equating document specific word frequency rankings with **author invariants**, linguistic items that are the same across documents in virtue of their being written by the same author, and that are not characteristic of documents not written by an author. In particular, I use the **Craig's Zeta** measure to identify a statistically significant difference in feature distribution between the analytic part of my corpus and the Continental part of my corpus, which I have labled the "Humanities" portion instead. According to Eder , Rybicki and, Kestemont in "Stylometry with R: A Package for Computational Text Analysis", 
 
@@ -68,7 +68,7 @@ To Analyze style, I focused on various measure I can perform on the **most frequ
 
 in other words, by using the "oppose()" function in stylo, we can identify significant feature variantion between our subcorpora, and thus identify a set of most **discriminating** words, that is, words that are most characterstics of being analytic or not. This measure will fulfill the goal I outlined above of identifying a specific way in which Analytic style is not continental style, a short set of words that analytic writers prefer together with a set of words that they *avoid*, i.e. the words most characterstic of Continental writing. Thus my major results and contribution of this project will be this set of words most prefered by Analytic writers in contrast to Continental writers, and words most avoided in contrast to Continental writers.
 
-#preprocessing
+##preprocessing
 First we take all of the documents I have put together, and we treat all of the self-identified analytic authors as *one and the same* author, and similarly for the Continental authors. This allows me to treat all of the documents written by the various authors in my corpus as being written by one of two people, and then by running well established tests for checking differences between two authors, I can establish differences between two sets of authors.
 
 Then we *tokenize* each document, seperating them into the words that they contain as parts.
@@ -101,6 +101,39 @@ on my corpus of documents, I produced this bootstraping tree:
 ![Bootstrap Tree](https://bitbucket.org/JesseRP/analyticstyle/raw/002c4be6ae17678a31a6295a1116f7e89437eb74/jesserussellpowell_Consensus_2-202_MFWs_Culled_0__Classic%20Delta_C_0.5__001.png)
 
 
+One with any familiarity with these texts would see to the exemplary effectiveness of this method to attribute authorship and style: "WordandObject" and "TwoDogmasofEmpiricism" are both written by W.V.O. Quine, something that this model predicted by correctly clustering those documents. the same is true of "ThreeModelsfortheDescriptionofLanguage" and "SyntacticeStructures", both written by Noam Chomsky. Furthermore, "Capital" and "DialecticlofEnlightment" are clustered, and this makes perfect sense; Horkheimer was a Marxist himself, if his work was *not* clustered with Marx, the model would have a glaring defect, and yet it got it right. Interestingly, it groups Heidegger with the Analytics.
+
 
 ##Findings
+I hope that my demonstration with Bootstrap Consensus trees has helped demonstrate the potential use of these sorts of methods. I will now list my results of discriminant analysis.
+
+using: 
+
+```
+raw.corpus <- load.corpus(files = "all", 
+                          corpus.dir = "philosophy_style_corpus",
+                          encoding = "UTF-8")
+
+corpus.all <- txt.to.words.ext(raw.corpus, 
+                                     language = "English.all",
+                                     preserve.case = (TRUE))
+
+corpus.analytic <- corpus.all[grep("Analytic", 
+                                   names(corpus.all))]
+
+corpus.humanities <- corpus.all[grep("Humanities",
+                                     names(corpus.all))]
+
+zeta.results <- oppose(primary.corpus = corpus.analytic,
+                       secondary.corpus = corpus.humanities)
+
+zeta.results$words.preferred[1:20]
+
+zeta.results$words.avoided[1:20]
+
+combined.features <- c(zeta.results$words.preferred[1:20],
+                       zeta.results$words.avoided[1:20])
+```
+
+To identify most characterstic words using [Craig's Zeta Function](https://www.rdocumentation.org/packages/stylo/versions/0.6.9/topics/zeta.craig), I produced the following list of words characterstic of the analytic and Continental authors in my corpus:
 
