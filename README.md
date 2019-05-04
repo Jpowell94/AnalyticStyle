@@ -81,7 +81,22 @@ I will quickyl demonstrate why you should trust these methods and consider most 
 
 ![Consensus Tree](https://bitbucket.org/JesseRP/analyticstyle/raw/2b31b9406bbc3f841d8e2b73d85c64a1fc71920d/ConsensusTreeDiagram.jpg) 
 
-Consensus trees work by taking multiple different tree diagrams/ cladograms, where the have all the same nodes, but have them grouped differently, and producing the tree that has groupings that *best approximate* the two alternative groupings for each grouping of nodes in each tree.
+Consensus trees work by taking multiple different tree diagrams/ cladograms, where the have all the same nodes, but have them grouped differently, and producing the tree that has groupings that *best approximate* the two alternative groupings for each grouping of nodes in each tree. Bootstrapping is any metric that relies on random sompling with replacement. The Bootstrap consensus tree is built from heirarchical clusterings of documents based on a range of MFW values that we can sample from with replacement (the bootstrapping).
+
+using:
+
+```
+stylo(corpus.dir = "philosophy_style_corpus", 
+      mfw.min = 1, 
+      mfw.max = 277,
+      analysis.type = "BCT", 
+      sampling = "no.sampling", 
+      sample.size = 10000, 
+      custom.graph.title = "Style",
+      write.png.file = TRUE, gui = FALSE)`
+```
+
+on my corpus of documents, I produced this bootstraping tree:
 
 
 
