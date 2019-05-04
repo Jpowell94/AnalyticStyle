@@ -1,0 +1,3866 @@
+TIIKEE MODELS FOR TIE DESCRIPTION OF LANGUAGE*
+Department
+
+Nom Chomsky
+of Modern Languages and Research Laboratory
+Massachusetts
+Institute
+of Technology
+Cambridge, Massachusetts
+
+of Electronics
+
+Abstract
+We investigate
+several conceptions
+of
+linguistic
+structure
+to determine whether or
+not they can provide simple and sreveallngs
+grammars that generate all of the sentences
+We find that no
+of English
+and only these.
+finite-state
+Markov process that produces
+symbols with transition
+from state to state
+can serve as an English grammar.
+Fnrthenuore,
+the particular
+subclass of such processes that
+produce n-order statistical
+approximations
+to
+English do not come closer,
+with increasing
+n,
+to matching the output of an English grammar.
+We formalisa
+the notions of lphrase structures
+and show that this gives us a method for
+describing
+language which is essentially
+more
+powerful,
+though still
+representable
+as a rather
+Neverelementary
+type of finite-state
+process.
+theless,
+it is successful
+only when limited
+to a
+We study the
+small subset of simple sentences.
+formal properties
+of a set of grammatical
+transformations
+that carry sentences with phra.se
+structure
+into new sentences with derived phrase
+showing that transformational
+grammars
+structure,
+are processes of the same elementary
+type as
+phrase-structure
+grammars; that the grammar Of
+English is materially
+simplifisd
+if phrase
+structure
+description
+is limited
+to a kernel of
+simple sentences from which all other sentences
+are constructed
+by repeated transformations;
+and
+that this view of linguistic
+structure
+gives a
+certain
+insight
+into the use and understanding
+sf language.
+1.
+
+Introduction
+
+There are two central
+problems in the
+descriptive
+study of language.
+One primary
+is to discover
+simple
+concern of the linguist
+and srevealing*
+grammars for natural
+languages.
+At the same time, by studying the properties
+of
+such successful
+grammars and clarifying
+the basic
+conceptions
+that underlie
+them, he hopes to
+arrive
+at a general theory of linguistic
+structure.
+We shall
+examine certain
+features
+of
+these related
+inquiries.
+The grammar of a language can be viewed as
+a theory of the structure
+of this language.
+Any
+scientific
+theory is based on a certain
+finite
+set of observations
+and, by establishing
+general
+laws stated in terms of certain
+wpothetical
+constructs,
+it attempts
+to account for these
+-.-
+
+4Thi8 work was supported in part by the Army
+(Signal Corps), the Air Force (Office
+of Scientific
+Research, Air Research and Development Command),
+and the Navy (Office
+of Naval Research),
+and in
+part by a grant from Eastman Kodak Company.
+
+observations,
+to show how they are interrelated,
+and to predict
+an indefinite
+number of new
+phenomena. A mathematical
+theory has the
+additional
+property
+that predictions
+follow
+rigorously
+from the body of theory.
+Similarly,
+a grammar is based on a finite
+number of observed
+sentences (the linguist’s
+corpus) and it
+sprojectss
+this set to an infinite
+set of
+grammatical
+sentences- by establishing
+general
+“laws” (grammatical
+rnles) framed in terms of
+such bpothetical
+constructs
+as the particular
+phonemes, words. phrases, and so on, of the
+language under analysis.
+A properly
+formulated
+grammar should determine unambiguously
+the set
+of grammatical
+sentences.
+General linguistic
+theory can be viewed as
+a metatheory which is concerned with the problem
+of how to choose such a grammar in the case of
+each particular
+language on the basis of a finite
+corpus of sentences.
+In particular,
+it will
+consider and attempt to explicate
+the relation
+between the set of grammatical
+sentences and the
+set of observed sentences.
+In other wards,
+linguistic
+theory attempts
+to explain
+the ability
+of a speaker to produce and understand- new
+sentences, and to reject as ungrammatical
+other
+new sequences, on the basis of his limited
+linguistic
+experience.
+Suppose that for many languages there are
+certain
+clear cases of grammatical
+sentences and
+certain
+clear cases of ungrammatical
+sequences,
+in English.
+e-e., (1) and (2). respectively,
+(1)
+(2)
+
+John ate a sandwich
+Sandwich a ate John.
+
+In this case, we can test the adequacy of a
+proposed linguistic
+theory by determining,
+for
+each language, whether or not the clear cases
+are handled properly
+by the grammars constrncted
+in accordauce with this theory.
+For example, if
+a large corpus of English does not happen to
+contain either
+(1) or (2), we ask whether the
+grammar that is determined for this corpus will
+project
+the corpus to include
+(1) and exclude (21
+Even though such clear cases may provide only a
+weak test of adequacy for the grammar of a given
+language taken in isolation,
+they provide a very
+strong test for any general linguistic
+theory and
+for the set of grammars to which it leads, since
+we insist
+that in the case of each language the
+clear cases be handled properly
+in a fixed and
+predetermined
+manner.
+We can take certain
+steps
+towards the construction
+of an operational
+characterization
+of ngrammatical
+sentences that
+will
+provide us with the clear cases required
+to
+set the task of linguistics
+significantly.
+
+Observe, for example. that (1) will be read by an
+English
+speaker with the normal intonation
+of a
+sentence of the corpus, while (2) will be read
+with a falling
+intonation
+on each word, as will
+Other disany sequence of unrelated
+words.
+tinguishing
+criteria
+of the same sort can be
+described.
+
+of linguistic
+structure
+in terms of the possibility
+and complexity
+of description
+(questions
+Then, in 6 6, we shall briefly
+(31, (4)).
+consider
+the same theories in terms of (5) , and
+shall see that we are Independently
+led to the
+same conclusions
+as to relative
+adequacy for the
+purposes of linguistics.
+
+Before we can hope to provide a satisfactow
+account of the general relation
+between observed
+sentences and grammatical
+sentences, we must
+learn a great deal more about the formal properties of each of these sets.
+This paper is ccncerned with the formal structure
+of the set of
+We shall limit
+ourselves
+grammatical
+sentences.
+to English,
+and shall assume intuitive
+knowledge
+We then
+of English
+sentences and nonsentences.
+ask what sort of linguistic
+theory is required as
+a basis for an English grammar that will
+describe
+the set of English sentences in an interestirg
+and satisfactory
+manner.
+
+2.
+
+is a sequenci
+
+of stttes
+
+of G with
+
+or each i<m.
+
+@cAi %
+i+l)cc
+f
+from S
+to s
+al
+“i+l
+(7)
+for
+
+a
+
+it
+
+a&
+
+the symbol
+
+ai=i+lk
+
+some k(N
+
+(8)
+
+al=a,,,41,
+
+A0 the aystem smvas
+
+produces
+
+.
+
+Using
+
+OiUi+l
+concatenation
+,2 we sey that
+generates all sentences
+
+a
+
+%.kl~ao2$k2
+
+the arch
+
+n
+
+to signify
+
+the sequence (6)
+
+*
+
+na
+l
+
+**
+
+am-lamkm-l
+
+for all appropriate
+choices of k (i.e.,
+for
+k <N
+).
+all
+The language Lo chntaining
+I- aiai+1
+only such sentences is called the language
+generated by G.
+
+(3) Are there interesting
+languages that are
+simply outside the range of description
+of the
+proposed type?
+
+and
+
+Thus, to produce a sentence of LG we set the
+system G in the initial
+state So and we run
+through a sequence of connected states.
+ending
+again with S , and producing
+one of the associated
+transition
+s$mbols of A with each transition
+from
+one ate te to the next.
+We say that a language L
+is a --finite-state
+language If L is the set of
+sentences genera.ted by some finite-ste.te
+grammar G.
+
+In particular,
+we shall ask whether English
+is
+such a language.
+If it is. then the proposed
+conception
+of linguistic
+structure
+must be judged
+inad.equate.
+If the answer to (3) is negative.
+we
+go on to ask such questions
+as the following:
+
+2.2.
+Suppose that we take the set A of transition
+symbols to be the set of English phonemes. We
+can attempt to construct
+a finite
+state grammar G
+which will generate every string
+of English
+phonemes which is a grammatical
+sentence of
+English,
+and only such strings.
+It is immediately
+evident that ths task of constructing
+a finitestate
+rammar for English
+can be considerab
+simpli fi ied if we take A as the set of Englis 1%
+
+(4)
+Can we COnStNCt
+reasonably
+simple
+grammars for all interesting
+languages?
+(5) Are such grammars n reveali@
+In the
+sense that the syntactic
+structure
+that they
+exhibit
+can support semantic analysis,
+can provide
+insight
+into the use and understanding
+of langusge,
+etc. 7
+examine various
+
+Markov Processes.
+
+(6) Scr,‘..‘Sa
+
+decide to
+No matter how we ultimately
+construct
+linguistic
+theory, we shall surely
+require
+that the grammar of any language must be
+finite.
+It follows
+that only a countable set of
+grammars is made available
+by any linguistic
+theory;
+hence that uncountably
+many languages,
+in our general sense, are literally
+not dsscrlbable
+in terms of the conception
+of linguistic
+structure
+provided by aw particular
+theory.
+Given a
+proposed theory of linguistic
+structure,
+then, it
+is always appropriate
+to ask the following
+question:
+
+first
+
+State
+
+2.1 The most elementary grammars which, with
+a finite
+amount of apparatus,
+will generate an
+Infinite
+number of sentences,
+are those based on
+a familiar
+conception
+of language as a
+particularly
+simple type of information
+source,
+namely, a finite-state
+Markov proce6s.l
+Specifically,
+we define a finite-state
+grammar G
+as a system with
+finite
+number of states
+s o’-I s
+05 i,jlq;
+15 klNij
+for
+a set A= aijk
+9’
+9
+1
+each i,j of transition
+symbols, and a set
+1
+of certain
+pairs of states of Gthat
+c={ (s@j))
+are said to be connected.
+As the system moves
+from state Si to S
+it produces a symbol a
+i jkcA’
+j’
+Suppose that
+
+The first
+step in the linguistic
+analysis
+of
+a language is to provide a finite
+system of
+We shall assume
+representation
+for its sentences.
+that this step has been carried
+out, and we
+shall deal with languages only in phonemic
+or alphabetic
+transcription.
+By a language
+then, we shall mean a set (finite
+or infinib)
+of sentences,
+each of finite
+length,
+all
+constructed
+from a finite
+alphabet of sysbols.
+If A is an alphabet,
+we shall say that anything
+formed by concatenating
+ths symbols of A is a
+string
+in A. By a grammar of the langnage L we
+mean a device of some sort that produces all of
+the strings
+that are sentences of L and only
+these.
+
+We shall
+
+Finite
+
+conception6
+
+ll4
+
+exemple, the languages k
+(12) are not describable
+
+G so that it
+morpheme3 or words. and construct
+will generate exactly
+the grammatical
+stringsof
+We can then complete the grammar
+these units.
+by giving a finite
+set of rules that give the
+phonemic spelling
+of each word or morpheme in
+We shall
+each context in which it occurs.
+consider briefly
+the status of such rules in
+4 4.1 and 4 5.3.
+
+gTj(i)
+
+Before inquiring
+directly
+into the problem
+of constructing
+a finite-state
+grammar for
+Englieh morpheme or word sequences, let US
+lnvestlgate
+the absolute
+limite’of
+the set of
+finite-state
+languages.
+Suppose that A is the
+alphabet of a language L, that al,. . *an are
+
+(fi)
+
+eymbole of thir
+
+alphabet,
+and that S=aln..
+.nan
+has an (i, j)is a sentence of L. We sey that’s
+dependency with respect to L if and only if the
+following
+conditions
+are met:
+
+(9)(i)
+(ii)
+
+(W
+
+lSi<j<n
+-there are symbols bi,b
+cAwith the
+property
+that S1 is no d asentence of
+L, and S2 is a sentence of L, where Sl
+is formed from S by replacing
+the ith
+symbol of S (namely, ai) by bi, and S2
+is formed from Sl by replacing
+the
+jth symbol of Sl (namely, aj) by bj.
+
+fn other words,
+reepsct to L if
+
+S has an (I, j)-depenency
+with
+replacement of the I
+symbol a.
+
+1
+
+of S by bi ( bi#ai)
+
+requires
+
+replacement
+
+of the jth
+
+(b #a ) for
+J il
+
+the resulting
+
+We sey that
+
+D-
+
+i
+
+a corresponding
+
+symbol aj of S by b j
+
+(q,@l)
+
+string
+
+to belong
+
+, . . .(a,,B,)}ie
+
+dependency set for S in L if and only
+following
+c;;;;;iitions
+are met:
+(10)(i)
+(II)
+(iii)
+
+if
+
+to L.
+a
+
+the
+
+For’l<i<m,
+S hae an (ci,Si)dependency with respect to L
+for each l,j,
+ui< pj
+for
+
+each i,j
+
+such that
+
+i#j.
+
+uibj
+
+aha B,#Bj.
+Thus, in a dependency set
+dependencies are distinct
+sdetermininge
+element in
+terminede elements, where
+determining
+the choice of
+
+for S in L every two
+in both terms and each
+S precedes all edewe picture
+a
+as
+a
+ai
+%’
+Evidently,
+if S has an m-termed dependency set
+in L, at least 2” states are necessary In the
+finite-state
+grammar that generates the
+langnage L.
+Thie observation
+enables ue to state a
+necessary condition
+for finite-state
+languages.
+(11)
+Suppoee that L is a finite-state
+Then there is an m such that no
+bsguaSe.
+sentence S of L has a dependency set of more
+than m terms in L.
+With thie condition
+in mind, we can easily
+conetNct
+many nonfinite-state
+languages.
+For
+
+In 12, for
+
+L2, 3 described
+y any inite-state
+
+in
+
+L contains
+anb. aoar\ bn b ,
+A
+a ananbnbnb,...,
+and in
+general,
+all sentences consisting
+of n occurrences of a followed by
+exactly
+n occurrences
+of b, and only
+these ;
+L2 contains
+afia, bnb,
+anbnbna.
+bnananb,
+ananbnbnana,.
+..,
+and in general,
+all nmlrror-imagen
+sentencee consisting
+of a string X
+followed
+by X In reverse,
+and on4
+these ;
+contains
+ana, b-b,
+anbnanb,
+ZA
+b anbna,
+ananbnananb,
+...,
+and in general,
+all sentencee coneietlng
+of a string X followed by
+the identical
+string X. and only
+these.
+example, for agy m we can find a
+
+sentence with a dependency set.
+Dm=((1,2m),(2.2m-1)
+,.., (m,m+l))
+
+.4
+
+2.3.
+Turning now to English,
+we find that there
+are infinite
+sets of sentences that have depenw
+sets with more than any fixed number of terms.
+For exemple, let Sl,S2, . . . be declarative
+eentsrces.
+Then the following
+are all English
+sentencee:
+(13)(i) If Sl, then S2.
+(ii)
+Either
+S3, or S4.
+(iii)
+The men who said that S5, is
+arriving
+today.
+These sentencee have dependencies between sifvBut we csn
+neither”-“or”,
+‘mans-siss.
+“then”,
+choose Sl, S3, S5 which appear between the interdependent words, as (ISi),
+(13ii),
+or (13111) themProceeding
+to construct
+eentencee in this
+selves.
+way we arrive
+at subparts of English with just the
+mirror
+image properties
+of the languages Ll and L2
+Consequently,
+English falls
+condition
+x
+of (12).
+English
+is not a finite-state
+language, aha
+(11).
+we are forced to reject
+the theory of language
+under discussion
+as failing
+condition
+(3).
+We might avoid this consequence ti an
+arbitrary
+decree that there is a finite
+upper
+limit
+to sentence length in English.
+This would
+serve no useful purpose, however.
+The point is
+that there are processes of sentence formation
+that this elementary model for language is
+intrinsically
+incapable
+of handling.
+If no
+finite
+limit is set for the operation
+of these
+processes,
+we can prove the literal
+lnapplicability
+of this model.
+If the processes have a
+limit,
+then the construction
+of a finite-state
+grammar will not be literally
+impossible
+(since
+a list
+is a trivial
+finite-state
+grammar), but
+this grammar will be so complex as to be of little
+use or interest.
+Below, we shall study a model
+for grammars that can handle mirror-image
+languagee. The extra power of such a model in the
+infinite
+case is reflected
+in the fact that it is
+much more ueeful and revealing
+if an upper limit
+In general,
+the aeeumption that a
+is set.
+are infinite
+Is made for the purpose of simplifying the description.5
+If a g-r
+has no
+recursive
+steps (closed loops, in the model
+
+diacuaaed
+it
+will,
+then a list
+sequences
+does have
+infinitely
+
+above) it will
+be prohibitively
+complexin fact,
+turn out to be little
+better
+of strings
+or of morpheme class
+in the case of natural
+languages.
+If it
+recursive
+devices,
+it will
+produce
+many sentencee.
+
+2.4 Although we have found that no finite-state
+Markov process that produces sentencee from left
+to right can serve as an English grammar, we
+might inquire
+into the possibility
+of constructing
+a sequence of such devices that, in some nontrivial
+way. come closer and closer
+to-matching
+the outnut
+of-a satisfactory
+English grammar.
+Suppose, foI
+example, that for fixed n we construct
+a finitestate grammar in the following
+manner:
+one a tate
+of the grammar is associated
+with each sequence of
+English words of length n and the probability
+that
+the word X will
+be produced when the system is in
+the state Si is equal to the conditionalprobability
+of X, given the sequence of n words which
+defines S . The output of such grammar is
+cuatomariiy
+called an n+lat order approximation
+to
+English.
+Evidently,
+as n increases,
+the output of
+such grammars will
+come to look more and mora like
+English,
+since longer and longer sequences bavea
+high probability
+of being taken directly
+from the
+sample of English
+in which the probabilities
+were
+determined.
+This fact has occasionally
+led to
+the suggestion
+that a theory of linguistic
+structure
+might be fashioned
+on such a model.
+Whatever the other interest
+of statistical
+approximation
+in this sense may be, it is clear
+that it can shed no light
+on the problems of
+grammar.
+There is no general relation
+betweenthe
+frequency of a string
+(or its component parts)
+and
+its grammaticalneas.
+We can see this moat clearly
+by considering
+such strings
+as
+(14)
+
+colorleaa
+
+green
+
+ideaa
+
+sleep
+
+furiously
+
+which is a grammatical
+sentence, even though It is
+fair
+to assume that no pair of ita words may ever
+have occurred together
+in the past.
+Botice that a
+speaker of English will
+read (14) with the
+ordinary
+intonation
+pattern
+of an English
+sentence,
+while he will
+read the equally unfamiliar
+string
+(15)
+
+furiously
+
+sleep
+
+ideas
+
+green colorleaa
+
+with a falling
+intonation
+on each word. as In
+the case of any ungrammatical
+string.
+Thus (14)
+differs
+from (15) exactly
+as (1) differs
+from (2);
+our tentative
+operational
+criterion
+for gremmaticalneas
+supports our intuitive
+feeling
+that
+(14) is a grammatical
+sentence and that (15) is
+not.
+We might state the problem of grammar, in
+pert, as that of explaining
+and reconstructing
+the ability
+of an English
+speaker to recogniae
+(l),
+(14), etc.,
+as grammatical,
+while rejecting
+But no order of approximation
+(2) , 05.). etc.
+model can distinguish
+(14) from (15) (or an
+indefinite
+number of similar
+pairs).
+As n
+increases,
+an nth order annroximation
+to Eneliah
+will
+exclude (as more and-more imnrobabla)
+an
+ever-increasing
+number of arammatical
+sentencee _
+while it still-contain2
+vast numbers of completely
+ungrammatical
+strings.
+We are forced
+to conclude
+
+that there is apparently
+no significant
+approach
+to the problems of grammar in this direction.
+Botice that although for every n, a process
+of n-order approximation
+can be represented
+as a
+finite-state
+Markov process,
+the converse is not
+the three-state
+For example, consider
+true.
+proceee with (So.S1),
+(S1,S1) .(S1,So>.
+(So,S2) ,(S2,S2) ,(S2,So) as its only connected
+states,
+and with a, b, a, c, b, c as the reapactive transition
+symbols.
+This process can be
+represented
+by the following
+state diagram:
+
+C
+
+a
+
+This process can2 roauce the sentencee ana,
+anbrra,
+a”bc’b
+a, a”b-bOb-a
+,...,
+c-c,
+cfibnc,
+chbnb*c
+cc\b”b’\bnc,...,
+but not
+ahbnbnc,
+chbnb’a,
+etc.
+The generated
+language has sentencee with dependencies
+of any
+finite
+length.
+In 8 2.4 we argued that there is no
+significant
+correlation
+between order of approximation and gremmaticalneaa.
+If we order the
+of a given length in terms of order of
+strings
+approximation
+to English,
+we shall find both
+grammatical
+and ungrammatical
+strings
+scattered
+throughout
+the list,
+from top to bottom.
+Hence
+the notion of statistical
+approximation
+appears
+to be irrelevant
+to grammar.
+In 4 2.3 we pointed
+out that a much broader class of processes,
+nemely, all finite-state
+Markov processes that
+produce transition
+symbols. does not include an
+That la, if we construct
+a
+English
+grammar.
+finite-state
+gremmar that produces only English
+sentencee, we know that it will
+fail
+to produce
+an infinite
+number of these sentences;
+in particular,
+it will
+fail
+to produce an infinite
+number of true sentences.
+false sentencee,
+reasonable
+questions
+that could be intelligibly
+Below, we shall investigate
+asked, and the like.
+e still
+broader claes of processes that might
+provide us with an English gremmar.
+
+3.
+
+Phrase Structure.
+
+Customarily,
+syntactic
+description
+is
+3.1.
+given in terms of what is called nimmediate
+constituent
+analyeie.n
+In description
+of this
+sort the words of a sentence are grouped into
+phrases,
+these are grouped into smaller conatituent phrases
+and so on, ‘until
+the ultimate
+constituents
+(generally
+morphemes3) are reached.
+These phrases are then classified
+as noun
+phrases (EP), verb phrases (VP), etc.
+For
+example, the sentence (17) might be analyaed as
+in the accompanying diagram.
+
+that are derivable
+from some L x ,F] grammar,
+and we eey that L is a terminal
+lm
+if it
+the set of terminal
+strings
+from some system
+c 2 4’1.
+
+(17)
+
+In
+
+Evidently,
+description
+of aentencea in such tenaa
+permita considerable
+simplification
+over the
+word-by-word model, since the composition
+of a
+complex claaa of expreealona
+such as XP Fan be
+stated just once in the grammar, and this class
+can be used as a building
+block at various
+points in the construction
+of sentencee.
+We now
+aak what fow of grammar corresponds
+to this
+conception
+of lingulatic
+structure.
+
+A phrase-structure
+grammar is defined by a
+3.2.
+aet 2
+finite
+vocabulary
+(alphabet)
+Y , a finite
+aet Fof
+of initial
+strings
+in Y
+end E finite
+X +?i, where X and Y axe
+rules of the form:
+strings
+in Y . Path such rule is Interpretedas
+the instruct P on:
+rewrite X as Y. For reaaona
+that will
+appear directly,
+we require
+that In
+each such [ 2 ,F] grammar
+(18)
+
+I: : xl,..,
+
+Yi
+
+3.3.
+Aa a simple example of a system of the form
+(18). consider- the foliowing
+smell part of Pngliah
+grammar:
+(20)
+
+C : WSentencen#
+I: Sentence l$VP
+VP - Verb*NP
+NP the-man,
+the” book
+Verb took
+Among the derivations
+from (20) we have, in
+particular
+:
+
+cn
+
+x1 .
+.
+
+y1
+
+‘rn -
+
+‘rn
+
+symbol of Xi by some string.
+
+of a
+
+Neither
+
+the replaced symbol nor the replacing
+string
+may be the identity
+element U of footnote
+4.
+Given the [ c ,F]
+a atring
+if a&xi
+
+(19)(i)
+
+(ii)
+
+grammar (18).
+
+we say that:
+
+BRollowa
+from a string a
+W end $4*YinW,
+for
+
+some i I rni7
+a derivation
+of the string S is a
+sequence D=(Sl,. . ,St) of atr 1 ngn,
+i< t, Si+l
+where Sle c and foreach
+followa
+
+from Si:
+
+(iv)
+
+a atring
+S is derivable
+from (18)
+If there is a derivation
+of S in
+terms of (18);
+a derivation
+of St is terminated
+if
+
+(4
+
+there la no atring
+that followsfrom
+St;
+a string
+St la a terminal
+string
+if
+
+(W
+
+It la the last
+derivation.
+
+Dl: $~%nfit;~~;#
+..-
+
+-
+
+-..
+
+#?henmannYerbnXPn#
+#“thenmannYerbn
+thenbookn#
+#“the”
+man” tookm thenbook”
+
+is formed from Xi by the replacement
+
+single
+
+be a
+
+exactly
+characteriaer
+the terminal
+strings,
+in
+the sense that every terminal
+string
+la a string
+in VT and no symbol of VT la rewritten
+in any of
+the rules of F. In such a case we can interpret
+the terminal
+strings
+as constituting
+the law
+under analysis
+(with Y aa its vocabulary),
+and
+the derivations
+of thege strings
+as providing
+their phrase structure.
+
+(21)
+F:
+
+Interesting
+case there will
+vocabulary
+VT (VT C VP) that
+
+every
+
+terminal
+
+is
+
+line
+
+A derivation
+is thua roughly
+proof, with
+c taken as the axiom
+as the rule* of Inference.
+We say
+derivable
+languape if L la the set
+
+of a terminated
+analogous toa
+system and F
+that L La
+of strings
+
+#
+
+D2 : #“Sentence”#
+WXPnYPn#
+#C\thenmannYPP”#
+#%renmanr\VerbnXPn#
+#*the*
+mann tooknl?Pn#
+#nthenmanntookn
+thefibookn#
+These derivations
+are evidently
+equivalent;
+they
+differ
+only in the order in which the rules are
+applied.
+We can represent this equivalence
+graphically
+by constructing
+diagrams that
+correapondd, in an obvious wey, to derivations.
+Both Dl and D2 reduce to the diagram:
+
+(22)
+
+#*Sentencefi
+
+#
+
+/\
+WP
+
+VP
+
+tkL
+
+Yed\Ap
+
+tcaok d>ok
+The diagram (22) gives the phrase structure
+of
+the terminal
+sentence a the man took the book,”
+just as in (17).
+In
+general,
+given a derivation
+D of a string
+S, we say that a substring
+a of S
+is an X if in the diagram corresponding
+to D, a
+is traceable
+back to a single node, end this node
+ta labelled
+X. Thus given Dl or D , correaponding to (22), we say that sthenmanl 3 is an NP,
+“tooknthenbookfi
+is a VP, nthe”bookll
+ie an
+HP, athenmann
+tooknthenbooka
+is a Sentence.
+flmanntook,ll.
+however, is not a phrase of this
+
+eince
+
+string
+at all,
+to any node.
+
+it
+
+Is not
+
+traceable
+
+back
+
+When we attempt t0 COnStNCt
+the Simplest
+poesible
+[ c ,F] grammar for English we find that
+certain
+sentences automaticallv
+receive nonAlong-with
+(20), tti
+derivations.
+equivalent
+certainly
+have to ccmtain
+grammar of English will
+such rules as
+
+(23)
+
+Verb - are n f lying
+Verb - are
+HP - they
+HP -planes
+IPP-flying”planes
+
+in order to account for such sentences as “they
+are flying
+- a plane” (IIT-Verb-BP) , a ( flying)
+planes - are - noisy” (m-Verb-Ad jet tive) , etc.
+Hut this set of rules provides us with two ZYJDD
+equivalent
+derivations
+of the sentence “they are
+flying
+planeenS reducing to the diagrams:
+
+(24,) #?eyty
+r
+
+“#
+.
+
+VerF!\
+I
+are fly i<r>anes
+
+the
+
+f
+‘byl&z>ing
+
+2-l
+p1r.m.
+
+Hence this sentence will
+have two phrase
+structures
+assigned to It; it can be analyaed as
+plane@ or “they - are flying
+“they - are - flying
+And in fact,
+this sentence ia
+- planes.”
+ambiguous in just this way ; we can understand
+it
+as meaning that “those specks on the horiaon
+are - flying
+planes” or othose pilots -are flying
+When the simplest
+grammar automatio- planes.”
+ally provides nonequivalent
+dsrivations
+for some
+sentence, we say that we have a case of
+constructional
+homovmitg
+and we can suggest
+this formal property
+as d erplenation
+for the
+semantic ambiguity
+of the sentence In question.
+In 41 we posed the requirement
+that grammare
+offer
+insight
+into the use and understanding
+of
+One wey to test the adequacy
+language (cf.(5)).
+of a grmmar is by determining
+whether or not
+the cases of constructional
+homomlty
+are
+actually
+cases of semantic emblgulty,
+as In (24)
+We return to this important
+problem in # 6.
+In (20)-(24)
+the element # Indicated
+sentence (later,
+word) boundary.
+It ten be
+taken as an element of the terminal
+vocabulary
+VT discussed in the final
+paragraph of l 3.2.
+
+3.4.
+
+These segments of English grammar are much
+oversimpllfied
+In several respects.
+For one
+thing,
+each rule of (20) and (23) has only a
+single symbol on the left,
+although we placed no
+such limitation
+on [ 1 ,F] grammars in 0 3.2.
+A rule of the form
+(25)
+
+Z-X-W-ZhThW
+
+indicates
+that X can be rewritten
+as I only in
+the context Z--W.
+It can easily be shown that
+the grammar will
+be much simplified
+if we permit
+
+such rules.
+In 3 3.2 we required
+that In such
+a rule as (25)) X must be a single symbol.
+This
+ensures that a phrase-structure
+diagram will be
+constructible
+from any derivation.
+The grammar
+can also be simplified
+very greatly
+If we order
+the rules end require that they be applied in
+sequence (beginning
+again with the first rule after
+applying
+the final
+rule of the sequence), and if
+we distinguish
+between obligatox
+rules which
+must be applied when we reach them inthe sequence
+and o tional
+rules which msy or may not be
+applh
+se revisions
+do not modify the
+generative
+power of the grammar, although
+they
+lead to co-nslderable
+simplification.
+It seems ‘reasonable
+to require
+for
+significance
+some guarentee that the grammar will
+actually
+generate a large number of sentences in
+a limited
+amount of time; more specifically,
+that
+it be impossible
+to run through the sequence of
+rules vacuous4
+(applying
+no role) unless the
+last line of the derivation
+under construction
+is
+a terminal
+string.
+We can meet this requirement
+by posing certain
+conditions
+on the occurrence of
+obligatory
+rules in the sequence of rules.
+- We
+define a proper gremmar as a system [ I; ,Q],
+where
+2 is a set of initial
+strings
+and Q a
+sequence of rules X - T as in (lay, with the
+additional
+conditiod
+that for each I there must
+be at least one j such that X =X and X -f
+Is
+an obligatory
+rule.
+Thus, ea=!h,jeft-ha&
+te& of
+the rules of (18) must appear in at least one
+obligatory
+rule.
+This is the weakest simple
+condition
+that guarantees
+that a nonterminated
+derivation
+must advance at least one step every
+time we run through the rules.
+It provides
+that
+if Xi can be rewritten
+as one of yi ,. . ,Ti
+1
+k
+then at least one of these rewritings
+must take
+However,
+place.
+roper grammars are essentially
+different
+from [ E .F] gramars.
+I& D(G) be
+the set of derivations
+producible
+from a phrase
+
+a proper
+
+grammar
+
+Then
+are incomparable;
+
+i.e.,
+
+That Is, there are systems of phrase structure
+that can be described by [ 2 ,F] gremmars but not
+by proper grammars, and others that can be
+described
+by proper grammars but not by [ z ,F]
+grammars.
+
+3.5.
+
+We have defined three types of language:
+finite-state
+languages (in $2.1). derivable
+and
+terminal
+laugoages (in $3.2). These are related
+in the following
+way:
+
+(27)(i)
+
+every finite-state
+language Is a
+terminal
+language, but not Eoniersely;
+every derivable
+lanme
+is a terminal
+(ii>
+language,.but
+not converiel;;
+(iii)
+there are derivable,
+nonfinite-state
+languages and finite-state,
+nonderivable
+languages.
+tippose
+
+that
+
+LG i8 a finite-state
+
+language
+
+with the finite-state
+grammar G as in 8 2.1.
+We construct
+a [ c ,F] grammar in the following
+manner: ItI ={So)
+; F contains a. rule of the form
+(281) for each 1,j.k
+such that (Si, s j ICC, j#O,
+and k < H, ,; F contains
+
+a rule
+
+such that
+
+(si,s,)cC
+
+for
+
+each ;:‘k
+
+(28) (1)
+
+“S
+
+’ i -&ijk
+
+(if)
+
+of the form (2811)
+and k 5 Bio.
+
+j
+
+’ i -aiok
+
+language from this
+Clearly,
+the terminal
+be.- exactly
+LG. establishing
+grammar will
+.
+first
+part of (271).
+In f 2.2 we found
+(12)
+
+that
+
+Ll,
+
+were not finite-state
+
+however,
+
+are terminal
+
+we have the [ I: ,F]
+(29)
+
+x :
+F:
+
+[x ,F]
+the
+
+L2 and 5
+
+langnsges.
+languages.
+
+of
+
+Ll and Lzl
+
+For LIB e-e.,
+
+grammar
+
+Z
+
+c\b
+
+establishes
+
+(271).
+
+Suppose that
+
+L4 is
+
+a
+
+derivable
+
+language
+
+with
+
+a -cb i, where the bins are not in VP and are
+i
+Then this new grammar gives a
+all distinct.
+terminal
+language which is simply a notational
+language
+variant
+of L . Thus every derivable
+is also term f nal.
+As an example of a terminal,
+nonderivable
+language cohsider the languege L5 containing
+just
+the strings
+(30)
+
+anb,
+0-c
+
+chaObnd,
+“c*a-b^d^d”d,...
+
+chcnanbhdhd,
+
+An infinite
+derivable
+language must contain an
+infinite
+set of strings
+that can be arranged in a
+in such a way that for saeo~
+sequence Sl,S2,...
+rule
+
+X-T,
+
+Si follows
+
+from Si-1
+
+by application
+
+of this rule, for each i >l.
+And Y in this rule
+must be formed from X by replacement
+of a alnple
+symbol of X by a string
+(cf. (18)).
+This is
+evidently
+impossible
+in the case of L . This
+language is, however, the terminal
+la d guage given
+by the following
+grammar:
+
+Z -cnZ”d
+An example of a finite-sta.te,
+nonderivable
+langoage is the language L6 containing
+all and
+only the strings
+consisting
+of 2n or 3x1
+occurrences
+of a, for nP1.2,. . . . Language Ll
+of (12) is a derivable,
+with the Initial
+string
+a-b -ra”a-b*
+b.
+
+We have just seen, however, that Ll
+of (12).
+is a terminal
+language and the same is true of
+Hence, the considerations
+that led us to
+Lzreject
+the finite-state
+model do not similarly
+lead us to reject
+the more powerful phraseStNCtW'S
+model,
+
+Wote that the latter
+is more abstract
+than
+the finite-state
+model in the sense that symbols
+that are not included in the vocabulary
+of a
+language enter into the description
+of this
+In the terms of 4 3.2, V P properly
+language.
+includes VT. Thus in the cs.se of (29) , we
+describe Ll in terms of an element Z which is not
+; and in .the case of (20)-(24).
+we introduce
+in L1 symbols as Sentence, NP, VP, etc., which are
+such
+not words of English.
+into the description
+of
+English
+structure.
+
+Z-a
+
+Z -anZhb
+This
+
+The major import of Theorem (27) is that
+description
+in terms of phrase structure
+is
+essentially
+more powerful
+(not just simpler)
+than
+description
+in terms of the finite-state
+grammars
+that produce sentences from left
+to right.
+In
+# 2.3 we found that Xnglish is literally
+beyond
+the bounds of these grammars because of mirrorImage properties
+that it shares with Ll and L2
+
+nonfinite-state
+language.
+anb and the rule:
+
+3.6.
+We can interpret
+a [ c ,F] grammar of the
+form (18) as 8. rather elementary
+finite-state
+process in the following
+way. Consider a system
+that has a finite
+number of states So,..,S
+.
+9
+When in state So, it can produce any cP the
+strings
+of X , thereby moving into a new state.
+Its state at aq point is determined by the subset of elements of Xl,..,Xm
+contained as substrings
+in the last produced string,
+and it moves
+to a new state by applying
+one of the rules to
+this string,
+thus producing &new string.
+The
+system returns
+to state S with the production
+Th& system thus produces
+of a terminal
+string.
+in the sense of 5 3.2.
+The process
+derivations,
+is determined at any point by its present state
+and by the last string
+that has been produced,
+and there is a.finite
+upper bound on the amount
+of inspection
+of this string
+that is necessary
+before the process can continue,
+producing a new
+string
+that differs
+in one of a finite
+number of
+ways from its
+last output.
+It is not difficult
+to construct
+language8
+that are beyond the range of description
+of
+In fact,
+the language L3 of
+[ x ,F] grammars.
+(12111) is evidently
+not a terminal
+language.
+I
+do not know whether English
+is actually
+a terminal
+language or whether there are other actual
+languages that are literally
+beyond the bounds of
+phrase structure
+description.
+Hence I see no wsy
+to disqualify
+this theory of linguistic
+structure
+on the basis of consideration
+(3).
+When we turn
+to the question of the complexity
+of description
+(cf. (4)),
+however, we find that there are ample
+grounds for the conclusion
+that this theory of
+linguistic
+structure
+is fundamentally
+inadequate.
+We shall now investigate
+a few of the problems
+
+that arise
+full-scale
+4.
+
+when we attempt to extend
+grammar of English.
+
+Inadeauacies
+
+of Phrase-Structure
+
+(20)
+
+to a
+
+,Applying this rule to each of the three Afnv
+sequences in the last line of (33), we derive
+(35)
+
+Grammar
+
+In (20) we considered
+on4
+one wey of
+4.1.
+developing
+theelement Verb, namely, as “tookn.
+But even with the verb stem fixed there are
+a great many other forms that could appear in
+the context sthe man -- the book,s e.g., stakeq”
+“has taken,” shas been taking,”
+sfs teking,s
+“has been taken,” swill be takiog,n
+and se 011.
+A direct
+description
+of this set of elements
+would be fairly
+complex, because of the heavy
+dependencies among them (e.g.,
+shas taken” but
+not “has taking.5 Ye being taken5 but not “1s
+We can, in fact,
+give a
+being taking,s
+etc.).
+very simple analysis
+of “Verb” as a sequence of
+independent elements, but only by selecting
+as
+For
+elements certain
+discontinuous
+strings.
+example, in the phrase “has been takiDg5 we can
+separate out the discontinuous
+elements shas..er$
+Nba..ing,5
+and stakes, and we can then say that
+these eleeents combine freely.
+Following
+this
+course systematically,
+we replace the last rule
+in (20) by
+(i)
+
+(32)
+
+(ii>
+
+(iii)
+
+Verb -AuxillarynV
+V-take,
+eat,...
+Auxiliary --?!8Mz
+M-will*,
+C - past,
+
+( -1
+(v)
+
+can, shall,
+present
+
+(36)
+
+#^
+
+the;(~~,Auxiliary”
+
+mey, must
+
+book * #
+
+1:(3211)1
+
+mann C” have” enc\ hen ing n take n
+#^then
+thenbookn
+#
+choosing the elements C,
+C(32fii).
+havenen,
+and bening]
+#nthenman*past”5ha~e’5en”beningntake’5
+thenbook”
+#
+C(32dl
+
+Suppose that we define the class Af as containing
+the-afflxes
+*ens, s I@,
+and the C’s; and the
+
+class v as includine
+
+all V's.. MIS. shaves,and she .m
+
+properly
+following
+(34)
+
+convert-the
+last.llne-of
+(33) into
+ordered sequence of morphemes by the
+rule :
+
+Afnv
+
+-vnAfn
+
+the man had been taking
+
+rules to (35)
+
+we
+
+the book.
+
+This very simple ana4eis,
+however,
+goes
+beyond the bounds of [ x .F] grammars in several
+respects.
+The rule (34). although it is quite
+simple, cannot be incorporated
+within
+a [ 2 ,F]
+grammar, which has no place for discontinuous
+elements.
+Furthermore,
+to apply the rule (34)
+to the last line of (33) we must know that stakes
+is a V, hence, a Y. In other words, in order to
+apply this rule It is necessary to inspect more
+than just the string
+to which the rule applies;
+it is necessary to know some of the constituent
+structure
+of this string,
+or equivalently
+(cf. 3 3.3),
+t 0 i nspect certain
+earlier
+lines in
+Its derivation.
+Since (34) requires
+knowledge of
+of a string,
+it violates
+the ‘history
+of derivation’
+the elementary property
+of [ 2 ,F] grammars
+discussed in f 3.6.
+
+#~thenmannAuxiliaryntakenthe”bookn#
+
+We can then
+
+the morphophonemic
+the sentence:
+
+Similarly,
+with one major exception
+to be
+discussed below (and several minor ones that we
+shall overlook here), the rules (32), (34) will
+give all the other forms of the verb in
+declarative
+sentences,
+and only theee forms.
+
+(be-w
+
+^#
+
+V” the*
+
+havenpast
+had
+benen
+been
+take-ing
+taking
+will”
+past
+would
+can~past
+-)
+could
+M*present
+M
+walk-past
+walked
+takenpast
+took
+etc.
+
+Applying
+derive
+
+The notations
+in (32111) are to be interin developing
+sAuxiliar+
+preted .a5 follows:
+in a derivation
+we must choose the unparenthesised element C, and we may choose sero or more
+of the parenthesised
+elements,
+in the order
+Thus, in continuing
+the derivation
+given.
+D of (21) below line five, we might proceed
+a t follows:
+(33)#nthenmannVerbn
+thenbook
+[from Dl of (21)]
+
+#^
+
+In the first
+paragraph of 8 2.2 we mentioned
+that a grammar will
+contain a set of rules (called
+morphophonemic rules) which convert strings
+of
+morphemes into strings
+of phonemes.
+In the
+morphophonemics of English,
+we shall have such
+rules as the following
+(we use conventional,
+rather than phonemic orthography) :
+
+(37)
+
+Qd
+
+#rrthenmannhavenpastn
+#%enenn
+takening”
+#nthenbook”#.
+
+a
+
+#
+
+320
+
+4.2.
+The fact that this simple analysis
+of the
+verb phrase as a sequence of independently
+chosen
+units goes beyond the bounds of-[ c .F] grammars,
+suggests that such grammars are too limited
+to
+give a true picture
+of linguistic
+structure.
+Further study of the verb phrase lends additional
+support to this conclusion.
+There is one major
+limitation
+on the independence of the elements
+introduced
+in (32).
+If we choose an Intransitive
+ncome,n 5occur.s etc.) as V in (32).
+verb (e.g.,
+we cannot select be-en as an auxiliary.
+We cannot have such phrases as “John has been come,s
+“John is occurred ,” and the like.
+Furthermore,
+the element beAen cannot be chosen independently
+of the context of the phrase sVerb.n
+If we have
+
+5.Transformational
+Grammar.
+transformation
+T will
+5..1. Each grammatical
+essentially
+be a rule that converts every sentence
+with a given constituent
+structure
+into a new
+sentence with derived constituent
+structure.
+The
+transform and its derived structure
+must be related
+in e fixed and constant wey to the structure
+of
+the transformed
+string,
+for each T. We can
+terms,
+characterize
+T by stating,
+in StNCtUrd
+the
+of strings
+to which it applies and the
+_-- domain
+-.--.
+cmee
+that it effeke
+on any such string.
+Let us suppose in the following
+discussion
+that ve have a [ H ,P] grammar with a vocabulary
+VP and a terminal
+vocabulary
+VT C VP, as in 4 3.2.
+
+the element “Verb” in the context *the man -- the
+not to select benen in
+food,” we are constrained
+applying (32). although we are free to choose any
+That is, we can have “‘the
+other element of (32).
+man is eating the food,s “the man would have been
+but not n the man is eaten
+eating the food,’ etc.,
+the food,* “the man would have been eaten the food,*
+On the other hand, if the context of the
+etc.
+phrase “Verb” Is, e.g., sthe food - by the man,”
+we are required
+to select benen.
+We can have
+s the food is eaten by the man,” but not sthe food
+is eating by the man,” etc.
+In short, we find that
+the element be-en
+enters into a detailed
+network
+of restrictions
+which distinguish
+it from all the
+other elements introduced
+in the analysis
+of “Verb”
+This complex and unique behavior of
+in (32).
+benen auggests that it would be desirable
+to
+exclude it from (32) and to introduce
+passives into
+the grammar in some other way.
+
+In 5 3.3 we showed that a [ 2 ,F] grammar
+permits the derivation
+of terminal
+strings,
+and we
+pointed out that In general a given terminal
+string
+will
+have several equivalent
+derivations.
+Two
+derivations
+were said to be equivalent
+if they
+9
+reduce to the same diagram of the form (22), etc.
+a maximal set
+Suppose that Dl, . . , Dn constitute
+
+There is, in fact, a very simple way to
+incorporate
+sentences with benen (i.e.,
+passives)
+that for every active
+into the grammar. notice
+sentence such as sthe man ate the foods we have a
+corresponding
+passive “the food was eaten by the
+Suppose then that we drop the
+man” and conversely.
+element be-en
+from (32111). and then add to the
+grammar the following
+rule:
+
+of equivalent
+derivations
+of a terminal
+string
+S. Then we define a phrase marker of S as the set
+of strings
+that occur as lines in the derivations
+A string will have
+than one phrase
+
+D1..
+
+For example,
+
+if “the
+(KPl-Auxiliary-V-NP,)
+
+more
+
+,Dn.
+
+if
+derivations
+
+and only if it
+(cf. (24)).
+
+Suppose that
+sey that
+
+(38)
+If S is a sentence of the form NplAuxiliary-V-KP2,
+then the corresponding
+string
+of the form lW~Auxiliarynbe*en-V-by”~l
+is
+also a sentence.
+foods
+
+l
+
+marker
+
+K is
+
+has nonequivalent
+a phrase
+
+(39)
+(S,K)
+is analyzable
+and onls if there are atrinse
+
+man - past - eat the
+is a sentence, then
+
+ii)
+(ii)
+
+sthe food - past be en - eat - by the mans (WP2Auxiliarynbenen-V-bynHP1)
+is also a sentence.
+Rules (34) and (36) would convert the first
+of
+these into “the man ate the food11 and the
+second into “the food was eaten by the man.s
+The edvantages of this analysis
+or passives
+are unmistakable.
+Since the element be-en has
+been dropped from (32) it is no longer necessary to
+qualify
+(32) with the complex of restrictions
+discussed above. ’ The fact that be “en can occur
+only with transitive
+verbs, that it Is excluded in
+the context *the man -- the foods and that it is
+required
+In the context sthe food -- by the man,”
+is now, in each case, an automatic consequence of
+the analysis
+we have just given.
+
+We
+
+into $,..,X
+)lf
+a . ..*.a
+such ?hat
+
+S”sl~...~sn - I- - n
+for
+al-
+
+each iln,
+. .fi 6i-l-
+
+(40) In this
+
+respect
+
+of S.
+
+marker
+
+case,
+
+K contains
+xisi+l-
+
+the string
+. .* sin
+
+si is an Xi
+
+in S with
+
+to K.10
+
+The relation
+defined ID (40) Is exactly
+the
+relation
+“is aa defined in 5 3.3; i.e.,
+si is an
+X in the sense of (40) if and-only if a Is a
+suib string
+of S which is traceable
+beck ti a single
+node of the diagram of the form (22). etc.,
+end
+this node is labelled
+Xi.
+The notion of analysability
+defined above
+allows us to specify precisely
+the domain of
+application
+of any transformation.
+We associate
+with each transformation
+a restricting
+class B
+defined as follows:
+
+A rule of the form (38), however, is well
+beyond the limits
+of phrase-structure
+grammars.
+Like (34)) it rearranges
+the elements of the string
+to which it applies,
+end it requires considerable
+information
+about the constituent
+structure
+of this
+When we carry the detailed
+study of English
+string.
+syntax further,
+we find that there are many other
+cases in which the grammar can be simplified
+if the
+[ 2 ,P] system is supplemented by ralee of the same
+Let us cell each such rule a
+general form as (38).
+grammatical
+transformation.
+As our third model for
+the description
+of linguistic
+structure,
+we now
+consider briefly
+the formal properties
+of a transformational
+grammar that can be adjoined to the
+[ C ,F] grammar of phrase structure.8
+
+(41)
+for
+
+B is a restricting
+class
+if
+B Is the set of Gnces:
+
+and only
+
+if
+
+VP, for
+
+each
+
+some r.m,
+
+where Xi is a string
+
+in the vocabulary
+
+We then say that a string S with the phrase
+1.J.
+marker K belongs to the domain of the transformaUon
+I21
+
+T if the restricting
+class II associated
+with T
+contains
+a sequence ($, . . ,X$ into which (S,K) is
+The domain of a tra sformation
+is
+% % “%*of
+ordered pairs (S,Kf of a string
+S
+and a phrase marker K of S. A transformation
+rosy
+be applicable
+to S with one phrase marker, but not
+with a second phrase marker, in the case of a string
+S with ambiguous constituent
+structure.
+In particular,
+described
+in (38)
+restricting
+class
+(42)
+
+tpol
+
+The derived
+ing effect:
+
+(WJ(U
+
+- eat - the food.
+
+In this way, we can describe
+in structural
+5.2.
+texms the set of strings
+(with phrase markers)
+to
+which eny transformation
+applies.
+We must now
+specify
+the structural
+change that a transformation
+An elementeffects
+on any string
+in its domain.
+transformation
+t is defined by the following
+property :
+there
+
+(44)
+for each pair of integers
+n,r (nsr),
+is a unique sequence of integers
+(ao,al,.
+
+and a unique
+ruchthat
+
+sequence of strings
+r for
+
+(i)ao=O; k>O;llajl
+(ii)
+
+for
+
+in VP (Z,,.
+
+each Tl,.
+
+t(Y1,..,Yn;Yu,..,Yr)=Ya*
+
+. ,cg)
+
+. ,Zk+l)
+
+15 j<k;Yoi[J1l
+
+. ,Yr,
+
+znY”***Y*
+al 2 a2
+Thus t can be understood as converting
+the
+occurrence of Yn in the context
+
+into
+
+Y1
+
+a certain
+
+A
+
+. . - Ynwl* --^Yn+l^
+string
+
+. .hYr
+
+Y
+
+(46)
+t* is the derived transformation
+of t if
+and only if for all Yl,.., Y,, t*(Yl,..,
+Yr)=Wln ..^s,
+where W,==t(Yl, . . ,Yn;Tn,.
+
+. ,Y,)
+
+for
+
+each n L r.
+
+We now associate with each transformation
+T
+For example, with
+an elementary
+transformation
+t.
+the passive transformation
+(38) we associate
+the
+elementary
+transformation
+t defined es follows:
+P
+‘Y4) = ‘4
+tp(Yl,Y2;Y2,Y3,Y4)
+= YZh be-en
+
+tpul;Y1’
+
+,Y,) = Y1 - Y2%inen
+
+- I3 - l$Yl
+
+5.3.
+From these considers.tions
+we are led to a
+picture
+of gl’emmars as pOBBeSSing
+a t,riwrtitS
+structure.
+Corresponding
+to the phrase structure
+WbBiS
+We have a sequence of rules of the form
+X-Y,
+e.g..
+(20). (23). (32).
+Following
+this we
+have a se Pence of transformational
+rules such a*
+(34) and ?38).
+Finally,
+we have a sequence of
+morphophonemic rules such as (36). sgain of the
+form X--Y. To generate a sentence from such a
+grammar we construct
+an extended derivation
+beginning
+with an initial
+string
+of the phrase
+structure
+grammar, e.g., #^Sentence^#,
+as in
+(20). We then rnn through the rules of phrase
+structure,
+producing a terminal
+string.
+We then
+apply certain
+transformations,
+giving a string
+of
+morphemes in the correct
+order, perhaps quite a
+different
+string
+from the original
+terminal
+string
+Application
+of the morphophonemic rules Converts
+this into a string
+of phonemes. We might run
+through the phrase structure
+grammar Several times
+and then apply a generalized
+transformation
+to the
+resulting
+set of terminal
+strings.
+In ! 3.4 we noted that it is advantageous to
+order the rules of phrase structure
+into a
+eequence, and to distinguish
+obligatory
+from
+optional
+rules.
+The aeme is true of the transformational
+part of the grammar.
+In Q4 we discussed the transformation
+(34). which converts a
+
+n Zlh . .n Y n Zk+l
+aO
+%
+which is unique, given the sequence of terms
+Y ) into which Ylh ..nY,
+is subdivided.
+0
+t bbliier
+the string Y -. . -Yr into a new string
+wl-. . qr which is rela t ed in a fixed way to
+More precisely,
+we associate
+with t the
+Y1-. .-Yr.
+derived transformation
+t*:
+
+(47)
+
+tIf thus has the follow-
+
+cYn
+
+0
+
+(45)
+
+t$Y,,..
+
+x&r++.
+
+tG( tb”man,
+past, eat, then food) =
+the”food
+- past” be” en - eat - bynthen
+man.
+The rule8 (34),(36)
+carry the right-hand
+side of
+(4&i)
+into “the food was eaten by the men,@ just
+as they carry (43) into the corresponding
+active
+sthe man ate the food.”
+The pair (R ,t ) as in (42),(47)
+completely
+characterizes
+thg p&.eive transformation
+as
+B tells
+us to which strings
+described
+in (38).
+this transforxation
+applies
+(given the phrase
+markers of these strings)
+and how to subdivide
+these strings
+in order to apply the transformation,
+and t tells
+us what structural
+change to effect
+on thg subdivided
+string.
+A grammatical
+transformation
+is specified
+completely
+by a restricting
+class R and an
+elementary
+transformation
+t, each of which is
+finitely
+characterizable,
+as in the case of the
+paesive.
+It is not difficult
+to define rigorously
+the manner of this specification,
+along the lines
+she tched above.
+To complete the development of
+transformational
+grammar it is necessary to show
+how a transformation
+automatically
+assigns a
+and to
+derived phrase marker to each transform
+generalize
+to transformations
+on sets of strings.
+(These and related
+topiqs are treated
+in reference
+A transformation
+will
+then carry a string S
+[3].)
+with a phrase marker K (or a Bet of such pairs)
+into a string
+St with a derived phrase marker Kc.
+
+Auxiliary,
+
+the man - past
+
+transformation
+
+all
+
+(ii>
+
+This transformation
+can thus be applied to eny
+string
+that is analyzable
+into an SF followed by
+an Auxiliary
+followed by a V followed by an HP.
+For example, it can be applied to the string
+(43)
+analyzed into substrings
+sl,..,s4
+in accordance
+with the dashes.
+(43)
+
+= y3
+
+tp(Y1. a. ,Y4;Y4> = by”Y1
+t,(Yl,..
+,Yn;Yn ,.., Yr) = Yn for
+
+the paSBiVe transformation
+has associated
+with it a
+Il, Containing
+just one sequence:
+
+BP= { (&.
+
+J2 WY3;y3 J4)
+
+*
+
+l
+
+I.22
+
+in terms of such essentially
+formal criteria.
+as
+In d 1 we SIIgg85ted that there are
+simplicity.
+Other relevant
+consideration5
+of adequacy for
+such theories.
+We can ask (cf.(S))
+whether or
+not the syntactic
+structure
+revealed by these
+theories
+provides
+insight
+into the use and understanding of language.
+We can barely touch on
+this problem here, but even this brief
+discussion
+will
+suggest that this criterion
+provides
+the
+same order of reletive
+adequacy for the three
+models we have considered.
+
+sequence affix-verb
+into the sequence verb-effix,
+and the passive transformation
+(38). Notice that
+(34) must be applied in every extended derivation,
+or the result
+will
+not be a grammatical
+sentence.
+transformation.
+Rule (3b), then, is sn obligatory
+The passive transformation,
+however, may or may
+either
+way we have a sentence.
+The
+not be applied;
+This
+passive is thus an optional
+transformation.
+distinction
+between optional
+and obligatory
+transformation5
+leads us to distinguish
+between two
+classes of sentences of the language.
+We have, on
+the one hs.nd, a kernel of basic sentences that are
+derived from th8xnal
+strings
+Of the phrasestructure
+grammar by application
+of Only
+We then have a set of
+obligatory
+transformations.
+derived 58nt8nC85 that are generated by applying
+optional
+transformations
+to the strings
+underlying
+kern81 Sentences.
+When we actually
+carry out a detailed
+study
+we find that the grammar can
+of English
+StrUcture,
+be greatly
+simplified
+if we limit
+the kernel to a
+very small eet of simple, active,
+declarative
+sentence5 (in fact,
+probably a finite
+set) such as
+We then derive
+"the man ate the food,5 etc.
+sentences with conjunction,
+questions,
+paseivee,
+sentence5 with compound noun phrases (e.g.,
+"proving
+that thsorem was difficult.5
+with the NP
+aproving that theoremn),li!
+etc.,
+by transformation.
+Since the result
+of a transformation
+is a sentence
+with derived constituent
+etructure,
+transfofiaaticns
+from
+can be compounded, ana we can form question5
+~SSiV8S
+(e.g.)
+"was the food eaten by the man"),
+The actual 58nt8nc85 of real life
+are
+etc.
+usually
+not kernel sentences,
+but rather
+We find, however,
+complicated
+transforms
+of these.
+that the tr5nsformations
+are, by and large, meanin&
+preserving,
+so that we can view the kernel
+sentences Underlying
+a given sentence as being, in
+some sense, the elementary
+5content elements"
+in
+terms of which the actual
+transform
+i~%nderstood.~
+We discuss this problem briefly
+in 4 6, more
+extensively
+in references
+Cl], [2].
+
+IZI 83.6
+
+If the grammar of a langoege is to provide
+insight
+into the way the language is Understood,
+it mUst be true, in particular,
+that if a sentence
+Is ambiguous (Understood
+in more than one way),
+then this sentence is provided with alternative
+analyses by the grammar.
+In other words, if a
+certain
+sentence S is ambiguous, we can test the
+adequacy of a given linguistic
+theory by asking
+whether or not the simplest
+grammar constructible
+in terms of this theory for the languege in
+question automatically
+provide6 distinct
+ways of
+generating
+the sentence S. It is instructive
+to
+compare the Markov prOC8Sf3, phrase-structure,
+and
+transformational
+models in the light
+of this test.
+In 53.3 we pointed out that the simplest
+[ x ,F] grsmmsr for English happens to prOVid8
+nonequivalent
+derivations
+for the sentence nthey
+are flying
+planes,H which is, in fact,
+ambiguous.
+Thie reasoning does not appear to carry over for
+That
+IS,
+there
+finite-state
+grammars, however.
+is no obvious motivation
+for assigning
+two
+different
+paths to this ambigaous sentence in any
+finite-state
+grammar that might
+be proposed for
+a part of English.
+Such examples of constructional homonymity (there are many others) constitute
+independent
+evidence for the superiority
+of th8
+phrase-etructure
+model over finite-state
+grammars.
+
+pointed Out that a grammar of
+phrase strUCtur8
+is a rather elementary
+type of
+finite-State
+process that is determined at each
+point by its present state and a bounded amount, of
+its last output.
+W8 discovered
+in $! 4 that this
+limitation
+is too severe, and that the grammar can
+b8 simplified
+by adding tran5formational
+l’,l18S
+that take into account a certain
+amount of
+constituent
+structure
+(i.e.,
+a certain
+history
+of
+derivation).
+Hovever, each transformation
+is- still
+finitely
+charactarieable
+(cf.
+$5 5.1-2).
+and th8
+class (41) aSSOCiat8d with a
+finite
+restrlctin
+transformation
+in f icates how mUch information
+about a string
+is needed in order to apply this
+transformation.
+The grammar can therefore
+still
+be regarded
+as an elementary
+finite-state
+process
+Of the type Corresponding
+t0 phrase strUCtUr8.
+There is still
+a bound, for each grammar, on how
+nruch of the past output must be inspected
+in order
+for the process of derivation
+to Continue,
+even
+though more than just the last output (the last
+line of the derivation)
+must be known.
+
+6.
+
+Explanatory
+We
+
+adequacy
+
+light
+terms
+
+W8
+
+Power of Linguistic
+
+have thus far COnSid8red
+of theories
+of linguistic
+
+(49)
+
+the shooting
+
+of the hunters.
+
+can understand
+this phrase with nhuntersII
+analogously
+to (50),
+or as the
+the subject,
+object;
+analogously
+to (51).
+
+We
+
+(50)
+
+the growling
+
+(51)
+
+the raising
+
+as
+
+of lions
+of flowers.
+
+Phrases (50) and (51)) however, are not similarly
+ambiguous.
+Yet in terms of phrase structure,
+each
+of the58 phrases is represented
+as:
+the - V*ingof9P.
+Careful analysis
+of English
+show5 that we can
+simplify
+the grammar if we strike
+the phrases
+(49)-(51)
+out of the kern81 and reintroduce
+them
+transformetionally
+by a transformation
+Tl that
+
+Theories
+the relative
+structure
+
+Ptrrther investigation
+of English brings to
+examples that are not easily
+explained
+in
+of phrase structure.
+Consider the phrase
+
+carries
+such sentences as "lions
+growl" into
+(50).
+and a transformation
+T2 that carries
+such sentences
+
+only
+
+I.23
+
+as "they
+
+raise
+
+flowerss
+
+into
+
+(51).
+
+T1 and T2 will
+
+replace "is" by nare 'I in (13iii),
+S5 of any required
+length).
+
+be similar
+to the nominalizing
+transformation
+described
+in fn.12,
+when they are correctly
+But both shunters shootH and zthey
+constructed.
+shoot the hunterss
+are kernel sentences;
+and
+application
+of Tl to the former and T2 to the
+latter
+yields
+the result
+(49).
+Hence (49) has
+two distinct
+transformational
+origins.
+It is a
+case of constructional
+homonymity on the transThe ambiguity
+of the grammatformational
+level.
+ical relation
+in (49) is a consequence of the fact
+that the relation
+of "shoot"
+to lfhuntersz
+differs
+in the two underlying
+kernel sentences.
+We do not have this smbiguity
+in the case of (50).
+"they growl lions"
+nor
+(51)s since neither
+"flowers
+raise"
+is a grammatical
+kernel sentence.
+There are many other examples Of the same
+m-ma1
+kind (cf. [11,[21),
+and to my mind, they
+provide quit6 convincing
+evidence not only for
+the greater adequacy of the transformational
+conception
+Of linguistic
+structure,
+but also for
+the view expressed in $5.4 that transformational
+analysis
+enables us to reduce partially
+the
+pro3lem of explaining
+howwe understand a sentence
+to that of explaining
+how we understand
+a kernel
+sentence.
+
+1.
+
+Finite-state
+Cf. c73.
+represented
+graphically
+in C7]. P.13f.
+
+grammars can be
+by state diagrams,
+
+2.
+
+See [6], Appendix 2, for
+concatenation
+algebras.
+
+an axiomatization
+
+3.
+
+By 'morphemes' we refer to the smallest
+grammatically
+functioning
+elements of the
+language, e.g.,
+"boys, "run",
+"ing" in
+"mining"
+, flsll in "bookss, etc.
+
+4.
+
+In the case of Ll,
+
+bJ of (9ii)
+
+as
+Of
+
+can be taken
+
+as an identity
+element U which has the
+property
+that for all X, UAX=X"U=X.
+Then
+Dm will
+also be a dependency set for a
+sentence
+5.
+
+6.
+
+of length
+
+element U (cf..fn.4)
+7.2 or W may be the identity
+in this case.
+Note that since we limited
+(18)
+so as to exclude U from figuring
+significantlv
+on either
+the right@r the left-hand
+side
+of a rule of B, and since we reouired
+that
+only a single symbol of the left-hand
+side
+msy be-replaced
+in any rule, it follows
+that
+Yi must be at least as long as Xi.
+Thus we
+have a simple decision
+ability
+and terminality
+( 19iii) , (19p) .
+
+2m in Ll.
+
+Note that a grammar must reflect
+and explain
+the ability
+of a speaker to produce and undercstand new sentences which msy be mush longer
+than any he has previously
+heard.
+Tnus we can always fina sequences of n+l
+words whose first
+n words and last n words
+msy occur, but not in the same sentence (e.g.
+
+procedure for derivin the sense of
+
+8.
+
+See [3] for a detailed
+development of an
+algebra of transformations
+for linguistic
+description
+and an account of transformational
+grammar.
+For further
+application
+of
+this type of description
+to linguistic
+material.
+see Cl], [2], and from a somewhat
+different
+point of view, ['cl.
+
+9.
+
+It is not difficult
+to give a rigorous
+definition
+of the equivalence
+relation
+in
+question,
+though this is fairly
+tedious.
+
+10.
+
+In summary, then, we picture
+a language as
+having
+a small, possibly
+finite
+kern& of basic
+sentences with phrase structure
+in the sense of
+which
+331 along with a set of transformations
+Can be applied
+to kernel sentences or to earlier
+transforms
+to produce new and more complicated
+sentences from elementary
+components.
+We have
+seen certain
+indications
+that this approach may
+enable us to reduce the immense complexity
+of
+actual
+language to manageable proportions
+and; in
+addition,
+that it may provide considerable
+insight
+into the actual use and understanding
+of language.
+Footnotes
+
+and choose
+
+The notion "is an should actually
+be
+relatioized
+further
+to a given occurrence
+of si in S. We can define an occurrence
+ai in 5 as an ordered
+is an initial
+
+11.
+12.
+
+substring
+
+final
+substring
+of X.
+Where U is the identity,
+
+pair
+
+(zi,X),
+
+of.S,
+Cf.
+
+of
+
+where X
+
+and si is a
+
+651, p.297.
+as in fn. 4.
+
+Notice that this sentence requires
+a
+generalized
+transformation
+that operates on
+a pair of strings
+with their phrase markers.
+Thus we have a transformation
+that converts
+Sl,S2 of the forms NP-VPl, it-VP2,
+respectingnVPl
+- VP2.
+ivekf , into the string:
+converts Sl= "they - prove that theorem",
+
+It
+
+into "ing prove
+s2= "it - was difficultI'
+that theorem - was difficult,"
+which by (34)
+becomes sproving
+that theorem was difficu1t.z
+Cf. il],
+[3] for details.
+Bibliogranny
+of
+611 Chomsky, N., The Logical Structure
+Linguistic
+Theory (mimeographed).
+to be
+c21 Chomsky, N., Syntactic Structures,
+published
+by Mouton & Co.. 'S-Gravebe. - ~
+Gtherlands;
+Analyzis,Ph.
+D.
+633 Chomskv. M.. Transformational
+Dissertation,
+University
+of Pennsylvania,
+June, 1955.
+Discourse Analysis,
+Language
+Harris ,Z.S.,
+c41
+2891 (1952).
+Logic, revised
+. W.V.. Mathematical
+c51 Quine.
+edition,HarvardUniversity
+Press.,
+Cambridge,
+1951.
+C61 Rosenbloom, P.. Elements of Mathematical
+Logic, Dover, New York, 1950
+Theory of
+c73 Shannon & Weaver, The Mathematical
+Communication,
+University
+of Illinois
+Press,
+Urbana, 1949.
+
+

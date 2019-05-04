@@ -1,0 +1,890 @@
+-
+
+-
+
+3
+
+The Elirniizatiorz of Metaphysics
+
+Through Logical Arzalysis
+of Language
+BY
+
+R U D O L F CARNAP
+
+(TRANSLATED
+BY ARTHUR PAP)
+
+THEREHAVE BEEN many opponents of metaphysics from the Greek
+skeptics to the empiricists of the 19th century. Criticisms of very
+diverse kinds have been set forth. Many have declared that the doctrine of metaphysics is false, since it contradicts our empirical knowledge. Others have believed it to be uncertain, on the ground that its
+problems transcend the limits of human knowledge. Many antimetaphysicians have declared that occupation with metaphysical questions is sterile. Whether or not these questions can be answered, it is at
+any rate unnecessary to wony about them; let us devote ourselves
+entirely to the practical tasks which confront active men every day
+of their lives!
+The development of modern logic has made it possible to give a
+new and sharper answer to the question of the validity and justification of metaphysics. The researches of applied logic or the theory
+of knowledge, which aim at clarifying the cognitive content of scientific statements and thereby the meanings of the terms that occur
+in the statements, by means of logical analysis, lead to a positive
+and to a negative result. The positive result is worked out in the
+domain of empirical science; the various concepts of the various'
+branches of science are clarified; their formal-logical and epistemological connections are made explicit. In the donlain of metaphysics,
+This article, originally entitled "Uberwindung der Metaphysik durch Logische
+Analyse der Sprache," appeared in Erkennt~zis,Vol. 11 (1932). It is published here
+with the kind permission of Professor Carnap.
+
+The Elirniirotion of Adetaphysics
+
+[61 1
+
+including all philosophy of value and normative theory, logical
+analysis yields the negative result that the alleged statements in this
+dornain are entirely nzeaningless. Therewith a radical elimination of
+metaphysics is attained, which was not yet possible from the earlier
+antimetaphysical standpoints. It is true that related ideas may be
+found already in several earlier trains of thought, e.g. those of a
+nominalistic kind; but it is only now when the development of logic
+during recent decades provides us with a sufliciently sharp tool that
+the decisive step can be taken.
+In saying that the so-called statements of metaphysics are meaningless, we intend this word in its strictest sense. In a loose sense
+of the word a statement or a question is at times called meahingless
+if it is entirely sterile to assert or ask it. We might say this for instance about the question "what is the average weight of those inhabitants of Vienna whose telephone number ends with '3'1" or about
+a statement which is quite obviously false like "in 1910 Vienna had
+6 inhabitants" or about a statement which is not just empirically,
+but logically false, a contradictory statement such as "persons A
+and B are each a year older than the other." Such sentences are
+really meaningful, though they are pointless or false; for it is only
+~neaningfulsentences that are even divisible into (theoretically) fruitful and sterile, true and false. In the strict sense, however, a sequence
+of words is meaningless if it does not, within a specified language,
+constitute a statement. It may happen that such a sequence of words
+looks like a statement at first glance; in that case we call it a pseudostatement. Our thesis, now, is that logical analysis reveals the alleged
+statements of metaphysics to be pseudo-statements.
+A language consists of a vobbulary- and a syntax, i.e. a set of
+words which have meanings and rules of sentence formation. These
+rules indicate how sentences may be formed out of the various sorts
+of words. Accordingly, there are two kinds of pseudo-statements:
+either they contain a word which is erroneously believed to have
+meaning, or the constituent words are meaningful, yet are put together
+in a counter-syntactical way, so that they do not yield a meaningful
+statement. We shall show in terms of examples that pseudo-statements
+of both kinds occur in metaphysics. Later we shall have to inquire
+into the reasons that support our contention that metaphysics in its
+entirety consists of such pseudo-statements.
+
+A word which (within a definite language) has a meaning, is
+usually also said to designate a concept; if it only seems to have a
+
+RUDOLF CARNAP
+
+'
+
+meaning while it really does not, we speak of a "pseudo-concept."
+How is the origin of a pseudo-concept to be explained? Has not
+every word been introduced into the language for no other purpose
+than to express something or other, so that it had a definite meaning
+from the very beginning of its use? How, then, can a traditional language contain meaningless words? To be sure, originally every word
+(excepting rare cases which we shall illustrate later) had a meaning.
+In the course of historical development a word frequently changes
+its meaning. And it also happens at times that a word loses its old
+sense without acquiring a new one. It is thus that a pseudo-concept
+arises.
+WHat, now, is the meaning of a word? What stipulations concerning a word must be made in order for it to be significant? (It
+does not matter for our investigation whether these stipulations are
+explicitly laid down, as in the case of some words and symbols of
+modern science, or whether they have been tacitly agreed upon, as
+is the case for most words of traditional language.) First, the syntax
+of the word must be fixed, i.e. the mode of its occurrence in the
+simplest sentence form in which it is capable of occurring; we call
+this sentence form its elementary sentence. The elementary sentence
+form for the word "stone" e.g. is "x is a stone"; in sentences of this
+form some designation from the category of things occupies the
+place of "x," e.g. "this diamond," "this apple." Secondly, for an
+elementary sentence S containing the word an answer must be given
+to the following question, which can be formulated in various ways:
+(1.) What sentences is S deducible from, and what sentences
+are deducible from S?
+(2.) Under what conditions is S supposed to be true, and under
+what conditions false?
+(3.) How is S to be verified?
+(4.) What is the meaning of S?
+( 1 ) is the correct formulation; formulation (2) accords with
+the phraseology of logic, ( 3 ) with the phraseology of the theory of
+knowledge, (4) with that of philosophy (phenomenology). Wittgenstein has asserted that (2) expresses what philosophers mean by
+(4) : the meaning of a sentence consists in its truth-condition. ( ( 1) is
+the "metalogical" formulation; it is planned to give elsewhere a detailed exposition of metalogic as the theoly of syntax and meaning,
+i.e. relations of deducibility.)
+In the case of many words, specifically in the case of the overwhelming majority of scientific words, it is possible to specify their
+meaning by reduction to other words ("constitution," definition).
+
+The Elimination of Metaphysics
+
+[63 1
+
+E.g. "'arthropodes' are animals with segmented bodies and jointed
+legs." Thereby the above-mentioned question for the elementary sentence form of the word "artl~ropode," that is for the sentence form
+"the thing x is an arthropode," is answered: it has been stipulated
+that a sentence of this form is deducible from premises of the form
+"X is an animal," "x has a segmented body," "x has jointed legs,"
+and that conversely each of these sentences is deducible from the
+former sentence. By means of these stipulations about deducibility
+(in other words: about the truthcondition, about the method of verification, about the meaning) of the elementary sentence about "arthropode" the meaning of the word "arthropode" is fixed. In this way
+every word of the language is reduced to other words and finally to
+the words which occur in the so-called "observation sentences" of
+"protocol sentences." It is through this reduction that the word
+acquires its meaning.
+For our purposes we may ignore entirely the question concerning
+the content and form of the primary sentences (protocol sentences)
+which has not yet been definitely settled. In the theory of knowledge
+it is customary to say that the primary sentences refer to "the given";
+but there is no unanimity on the question what it is that is given. At
+times the position is taken that sentences about the given speak of the
+simplest qualities of sense and feeling (e.g. "warm," "blue," "joy"
+and so forth) ; others incline to the view that basic sentences refer to
+total experiences and similarities between them; a still diierent
+view has it that even the basic sentences speak of things. Regardless
+of this diversity of opinion it is certain that a sequence of words has
+a meaning only if its relations of deducibility to the protocol sentences are fixed, whatever the charactef-istics of the protocol sentences may be; and similarly, that a word is significant only if the
+se~itencesin which it may occur are reducible to protocol sentences.
+Since the meaning of a word is determined by its criterion of
+application (in other words: by the relations of deducibility entered
+into by its elementary sentence-form, by its truth-conditions, by
+the method of its verification), the stipulation of the criterion takes
+away one's freedom to decide what one wishes to "mean" by the
+word. If the word is to receive an exact meaning, nothing less than
+the criterion of application must be given; but one cannot, on the
+other hand, give more than the criterion of application, for the
+latter is a sufficient determination of meaning. The meaning is implicitly contained in the criterion; all that remains to be done is to
+make the meaning explicit.
+Let us suppose, by way of illustration, that someone invented
+
+RUDOLF CARNAP
+[ 64 I
+the new word "teavy" and maintained that there are things which
+are teavy and things which are not teavy. In order to learn the
+meaning of this word, we ask him about its criterion of application:
+how is one to ascertain in a concrete case whether a given thing is
+teavy or not? Let us suppose to begin with that we get no answer
+from him: there are no empirical signs of teavyness, he says. In
+that case we would deny the legitimacy of using this word. If the
+person who uses the word says that all the same there are things
+which are teavy and there are things which are not teavy, only it
+remains for the weak, finite intellect of man an eternal secret which
+things are teavy and which are not, we shall regilrd this as empty
+verbiage. But perhaps he will assure us that he means, after all,
+something by the word "teavy." But from this we only learn the
+psychological fact that he associates some kind of images and feelings with the word. The word does not acquire a meaning through
+such associations. If no criterion of application for the word is
+stipulated, then nothing is asserted by the sentences in which it
+occurs, they are but pseudo-statements,
+Secondly, take the case when we are given a criterion of application for a new word, say "toovy"; in particular, let the sentence
+"this thing is toovy" be true if and only if the thing is quadrangular (It
+is irrelevant in this context whether the criterion is explicitly stated
+or whether we derive it by observing the affirmative and the negative uses of the word). Then we will say: the word "toovy" is synonymous with the word "quadrangular." And we will not allow its
+users to tell us that nevertheless they "intended" something else by
+it than "quadrangular"; that though every quadrangular thing is also
+toovy and conversely, this is only because quadrangularity is the
+visible manifestation of toovyness, but that the latter itself is a
+hidden, not itself observable property. We would reply that after
+the criterion of application has been fixed, the synonymy of "toovy"
+and "quadrangular" is likewise fixed, and that we are no further
+at liberty to "intend" this or that by the word.
+Let us briefly summarize the result of our analysis. Let "a" be
+any word and "S(a)" the elementary sentence in which it occurs.
+Then the sufficient and necessary condition for "a" being meaningful
+may be @ven by each of the following formulations, which ultimately say the same thing:
+1. The empirical criteria for a are known.
+2. It has been stipulated from what protocol sentences "S(a)"
+is deducible.
+
+The Elin~inafiortof Metaphysics
+
+kG51
+
+3. The truth-conditions for "S(a)" are fixed.
+4. The ~riethodof verificatiorz of "S(a)" is kn0wn.l
+
+Many words of metaphysics, now, can be shown not to fulfill the
+above requirement, and therefore to be devoid of meaning.
+Let us take as an example the metaphysical term "principle"
+(in the sense of principle of being, not principle of knowledge or
+axiom). Various metaphysicians offer an answer to the question
+which is the (highest) "principle of the world" (or of "things," of
+"existence," of "being"), e.g. water, number, form, motion, life, the
+spirit, the idea, the unconscious, activity, the good, and so forth. In
+order to discover the meaning of the word "principle" in this metapliysical question we must ask the metaphysician under what conditions a statement of the form "x is the principle of y" would be
+true and under what conditions it would be false. In other words:
+we ask for the criteria of application or for the definition of the word
+"principle." The metaphysician replies approximately as follows:
+"x is the principle of y" is to mean "y arises out of x," "the being
+of y rests on the being of x," "y exists by virtue of x" and so forth.
+But these words are ambiguous and vague. Frequently they have a
+clear meaning; e.g., we say of a thing or process y that it "arises out
+of" x when we observe that things or processes of kind x are frequently or invariably followed by things or processes of kind y (causal
+connection in the sense of a lawful succession). But the metaphysician
+tells us that he does not mean this empirically observable relationship.
+For in that case his metaphysical theses would be merely empirical
+propositions of the same kind as those of physics. .The expression
+"arising from" is not to mean here a relation of temporal and causal
+sequence, which is what the word ordinarily means. Yet, no criterion
+is specified for any other meaning. Consequently, the alleged "metaphysical" meaning, which the word is supposed to have here in contrast to the mentioned empirical meaning, does not exist. If we
+reflect on the original meaning of the word "principium" (and of the
+we notice the same development.
+corresponding Greek word A&"),
+The word is explicitly deprived of its original meaning "beginning";
+it is not supposed to mean the temporally prior any more, but the
+prior in some other, specifically metaphysical, respect. The criteria
+for this "metaphysical respect," however, are lacking. In both cases,
+
+--
+
+1. I o r the logical and epistemological conception which underlies our exposition,
+but can only briefly be intimated here, cf. Wittgenstein, Tractatus Logico-Philosophicu.~,1922, and Carnap, Der logische Aufbau der Welt, 1928.
+
+RUDOLF CARNAP
+[ 66 I
+then, the word has been deprived of its earlier meaning without being
+given a new meaning; there remains the word as an empty shell. From
+an earlier period of significant use, it is still associatively connected
+with various mental images; these in turn get associated with new
+mental images and feelings in the new context of usage. But the word
+does not thereby become meaningful; and it remains meaningless
+as long as no method of verification can be described.
+Another example is the word "God." Here we must, apart from
+the variations of its usage within each domain, distinguish the
+linguistic usage in three different contexts or historical epochs, which
+how:ver overlap temporally. In its mythological use the word has
+a clear meaning. It, or parallel words in other languages, is sometimes used to denote physical beings which are enthroned on Mount
+Olympus, in Heaven or in Hades, and which are endowed with
+power, wisdom, goodness and happiness to a greater or lesser extent.
+Sometimes the word also refers to spiritual beings which, indeed,
+do not have manlike bodies, yet manifest themselves nevertheless
+somehow in the things or processes of the visible world and are
+therefore empirically verifiable. In its metaphysical use, on the other
+hand, the word "God" refers to something beyond experience. The
+word is deliberately divested of its reference to a physical being or to
+a spiritual being that is immanent in the physical. And as it is not
+given a new meaning, it becomes meaningless. To be sure, it often
+looks as though the word "God" had a meaning even in metaphysics.
+But the defmitions which are set up prove on closer inspection to be
+pseudo-definitions. They lead either to logically illegitimate combinations of words (of which we shall treat later) or to other metaphysical words (e.g. "primordial basis," "the absolute," "the unconditioned," "the autonomous," "the self-dependent" and so forth),
+but in no case to the truth-conditions of its elementary sentences.
+In the case of this word not even the first requirement of logic is met,
+that is the requirement to specify its syntax, i.e. the form of its
+occurrence in elementary sentences. An elementary sentence would
+here have to be of the form "x is a God"; yet, the metaphysician
+either rejects this form entirely without substituting another, or if
+he accepts it he neglects to indicate the syntactical category of the
+variable x. (Categories are, for example, material things, properties
+of things, relations between things, numbers etc.).
+The theological usage of the word "God" falls between its mythological and its metaphysical usage. There is no distinctive meaning
+here, but an oscillation from one of the mentioned two uses to the
+other. Several theologians have a clearly empirical (in our termin-
+
+[ 67 1
+ology, "mythological") concept of God. In this case there are no
+pseudo-statements; but the disadvantage for the theologian lies in
+the circumstance that according to this interpretation the statements
+of theology are empirical and hence are subject to the judgment of
+empirical science. The linguistic usage of other theologians is clearly
+metaphysical. Others again do not speak in any definite way, whether
+this is because they follow now this, now that linguistic usage, or
+because they express themselves in terms whose usage is not clearly
+classifiable since it tends towards both sides.
+Just like the examined examples "principle" and "God," most of
+the other specifically metaphysical terms are devoid of meaning, e.g.
+"the Idea," "the Absolute," "the Unconditioned," "the Infinite,"
+"the belng of being," "non-being," "thing in itself," "absolute spirit,"
+"objective spirit," "essence," "being-in-itself," "being-in-and-foritself," "emanation," "manifestation," "articulation," "the Ego,"
+"the non-Ego," etc. These expressions are in the same boat with
+"teavy," our previously fabricated example. The metaphysician tells
+us that empirical truth-conditions cannot be specified; 3 he adds that
+nevertheless he "means" something, we know that this is merely an
+allusion to associated images and feelings which, however, do not
+bestow a meaning on the word. The alleged statements of metaphysics which contain such words have no sense, assert nothing, are
+mere pseudo-statements. Into the explanation of their historical origin
+we shall inquire later.
+The Blitnitzation of Metaphysics
+
+So far we have considered only those pseudo-statements which
+contain a meaningless word. But there is a second kind of pseudostatement. They consist of meaningful words, but the words are put
+together in such a way that nevertheless no meaning results. The
+syntax of a language specifies which combinations of words are
+admissible and which inadmissible. The grammatical syntax of
+natural languages, however, does not fulfill the task of elimination of
+senseless combinations of words in all cases. Let us take as examples
+the following sequences of words:
+1. "Caesar is and"
+2. "Caesar is a prime number"
+The word sequence (1) is formed countersyntactically; the rules
+of syntax require that the third position be occupied, not by a
+conjunction, but by a predicate, hence by a noun (with article) or by
+an adjective. The word sequence "Caesar is a general," e.g., is
+
+[ 68 1
+RUDOLF CARNAP
+formed in accordance with the rules of syntax. It is a meaningful
+word sequence, a genuine sentence. But, now, word sequence (2) is
+likewise syntactically correct, for it has the same grammatical form as
+the sentence just mentioned. Nevertheless ( 2 ) is meaningless. "Prime
+number" is a predicate of numbers; it can be neither affirmed nor
+denied of a person. Since ( 2 ) looks like a statement yet is not a
+statement, does not assert anything, expresses neither a true nor a
+false proposition, we call this word sequence a "pseudo-statement."
+The fact that the rules of grammatical syntax are not violated easily
+seduces one at first glance into the erroneous opinion that one still
+has to do with a statement, albeit a false one. But "a is a prime
+number" is false if and only if a is divisible by a natural number
+different from a and from 1; evidently it is illicit to put here "Caesar"
+for "a." This example has been so chosen that the nonsense is
+easily detectable. Many so-called statements of metaphysics are not
+so easily recognized to be pseudo-statements. The fact that natural
+languages allow the formation of meaningless sequences of words
+without violating the rules of grammar, indicates that grammatical
+syntax is, from a logical point of view, inadequate. If grammatical
+syntax corresponded exactly to logical syntax, pseudo-statements could
+not arise. If grammatical syntax differentiated not only the wordcategories of nouns, adjectives, verbs, conjunctions etc., but within
+each of these categories made the further distinctions that are
+logically indispensable, then, no pseudo-statements could be formed.
+If, e.g., nouns were grammatically subdivided into several kinds of
+words, according as they designated properties of physical objects,
+of numbers etc., then the words "general" and "prime number"
+would belong to grammatically different word-categories, and (2)
+would be just as linguistically incorrect as (1). In a correctly constructed language, therefore, all nonsensical sequences of words
+would be of the kind of example (1). Considerations of grammar
+would already eliminate them as it were automatically; i.e. in order
+to avoid nonsense, it would be unnecessary to pay attention to
+the meanings of the individual words over and above their syntactical type (their "syntactical categoly," e.g. thing, property
+of things, relation between things, number, property of numbers,
+relation between numbers, and so forth). It follows that if our
+thesis that the statements of metaphysics are pseudo-statements
+is justifiable, then metaphysics could not even be expressed in a
+logically constructed language. This is the great philosophical importance of the task, which at present occupies the logicians, of
+building a logical syntax.
+
+The Elinzir~ation of Metaphysics
+
+[ 69
+
+I
+
+Let us now take a look at some examples of metaphysical pseudostatements of a kind where the violation of logical syntax is especially
+obvious, though they accord with historical-grammatical syntax. We
+select a few sentences from that metaphysical school which at present
+exerts the strongest influence in G e r n ~ a n y . ~
+"What is to be investigated is being only and-nothing
+else;
+being alone and further-nothing; solely being, and beyond beingnothing. What about this Nothing? . . . Does the Nothing exist only
+because the Not, i.e. the Negation, exists? Or is it the other way
+around? Does Negation and the Not exist only because the Nothing
+exists? . . . We assert: the Nothing is prior to the Not and the Negation. . . . Where do we seek the Nothing? How do we find the
+Nothing. . . . We know the Nothing. . . . Anxiety reveals the Nothing.
+. . . That for which and because of which we were anxious, was
+'really'-nothing.
+Indeed: the Nothing itself-as such-was present.
+. . . What about this Nothing?-The Nothing itself nothings."
+In order to show that the possibility of forming pseudo-statements
+is based on a logical defect of language, we set up the schema below.
+The sentences under I are grammatically as well as logically impeccable, hence meaningful. The sentences under I1 (excepting B3)
+are in grammatical respects perfectly analogous to those under I.
+Sentence form IIA (as question and answer) does not, indeed, satisfy
+the requirements to be imposed on a logically correct language. But
+it is nevertheless meaningful, because it is translatable into correct
+language. This is shown by sentence 1119, which has the same meaning as IIA. Sentence form IIA then proves to be undesirable because
+we can be led from it, by means of grammatically faultless operations,
+to the meaningless sentence forms IIB, which are taken from the
+above quotation. These forms cannot even be constructed in the
+correct language of Column 111. Nonetheless, their nonsensicality is
+not obvious at first glance, because one is easily deceived by the
+analogy with the meaningful sentences IB. The fault of our language
+identified here lies, therefore, in the circumstance that, in contrast
+to a logically correct language, it admits of the same grammatical
+form for meaningful and meaningless word sequences. To each
+sentence in words we have added a corresponding formula in the
+2. The following quotations (original italics) are taken from M. Heidegger,
+lYas 1st Metaphysik? 1929. We could just as well have selected passages from any
+
+other of the numerous metaphysicians of the present or of the past; yet the selected
+passages seem to us to illustrate our thesis especially well.
+
+[ 70 1
+RUDOLF CARNAP
+notation of symbolic logic; these formulae facilitate recognition of
+the undesirable analogy between IA and IIA and therewith of the
+origin of the meaningless constructions IIB.
+1.
+
+II.
+
+III.
+
+Meanirtgful
+Sentences of
+Ordinary
+Language
+
+Trarwition from
+Sense to
+Nortsertse in
+Ordinary
+Language
+
+Logically
+Correct
+Lartgtrage
+
+A. What is outside?
+
+ou(?)
+Rain is outside
+Ou(r)
+
+A. What is outside?
+
+Ou(?)
+Nothing is outside
+Ou(no)
+
+B. What about this rain? B. "What about this
+(i.e. what does the
+Nothing?" ?(no)
+rain do? or: what
+else can be said
+about this rain?
+?(r)
+1. We know the rain
+
+K(r)
+
+A. There is nothing
+(does not exist anything) which is
+outside.
+--tax) .OU(X)
+B. None of these forms
+
+can even be
+constructed.
+
+1. "We seek the
+
+Nothing"
+
+"We find the
+
+Nothing"
+"We know the
+Nothing"
+K(no)
+2. The rain rains
+R(r)
+
+2. "The Nothing
+
+nothings"
+No(no)
+3. "The Nothing
+
+exists only .
+because . . ."
+Ex (no)
+On closer inspection of the pseudo-statements under IIB, we also
+find some differences. The construction of sentence (1) is simply
+based on the mistake of employing the word "nothing" as a noun,
+because .it is customary in ordinary language to use it in this form in
+order to construct a negative existential statement (see IIA). In
+a correct language, on the other hand, it is not a particular izame,
+but a certain logical form of the sentence that serves this purpose
+
+(see 111.4). Sentence IIB2 adds something new, viz. the fabrication
+of the meaningless word "to nothing." This sentence, therefore, is
+senseless for a twofold reason. We pointed out before that the meaningless words of metaphysics usually owe their origin to the fact
+that a meaningful word is deprived of its meaning through its metaphorical use in metaphysics. But here we confront one of those rare
+cases where a new word is introduced which never had a meaning
+to begin with. Likewise sentence IIB3 must be rejected for two reasons. In respect of the error of using the word "nothing" as a noun,
+it is like the previous sentences. But in addition it involves a contradiction. For even if it were admissible to introduce "nothing" as
+a name or description of an entity, still the existence of this entity
+would be denied in its very definition, whereas sentence (3) goes on
+to a ~ r m
+its existence. This sentence, therefore, would be contradictory, hence absurd, even if it were not already meaningless.
+In view of the gross logical errors which we find in sentences
+IIB, we might be led to conjecture that perhaps the word "nothing"
+has in Heidegger's treatise a meaning entirely different from the
+customary one. And this presumption is further strengthened as we
+go on to read there that anxiety reveals the Nothing, that the Nothing
+itself is present as such in anxiety. For here the word "nothing" seems
+to refer to a certain emotional constitution, possibly of a religious
+sort, or something or other that underlies such emotions. If such
+were the case, then the mentioned logical errors in sentences IIB
+would not be committed. But the first sentence of the quotation
+at the beginning of this section proves that this interpretation is not
+possible. The combination of "only" and "nothing else" shows unmistakably that the word "nothing" here has the usual meaning of
+a logical particle that serves for the formulation o£ a negative existential statement. This introduction of the word "nothing" is then
+immediately followed by the leading question of the treatise: "What
+about this Nothing?".
+But our doubts as to a possible misinterpretation get completely
+dissolved as we note that the author of the treatise is clearly aware
+of the conflict between his questions and statements, and logic.
+"Question and answer in regard to the Nothing are equally absurd
+in themselves. . . The fundamental rule of thinking commonly
+appealed to, the law of prohibited contradiction, general 'logic,'
+destroys this question." All the worse for logic! We must abolish its
+sovereignty: "If thus the power of the understanding in the field of
+questions concerning Nothing and Being is broken, then the fate of
+the sovereignty of 'logic' within philosophy is thereby decided as
+
+.
+
+[ 72 1
+RUDOLP CARNAP
+well. The very idea of 'logic' dissolves in the whirl of a more basic
+questioning." But will sober science condone the whirl of counterlogical questioning? To this question too there is a ready answer:
+"The alleged sobriety and superiority of science becorrles ridiculous
+if it does not take the Nothing seriously." Thus we find here a good
+confirmation of our thesis; a metaphysician himself here states that
+his questions and answers are irreconcilable with logic and the scientific way of thinking.
+The difference between our thesis and that of the earlier antimetaphysicians should now be clear. We do not regard metaphysics
+as "mere speculation" or "fairy tales." The statements of a fairy
+tale d o not conflict with logic, but only with experience; they are
+perfectly meaningful, although false. Metaphysics is not "superstition"; it is possible to believe true and false propositions, but not
+to believe meaningless sequences of words. Metaphysical statements
+are not even acceptable as "working hypotheses"; for an hypothesis
+must be capable of entering into relations of deducibility with (true
+or false) empirical statements, which is just what pseudo-statements
+cannot do.
+With reference to the so-called limitation of human knowledge
+an attempt is sometimes made to save metaphysics by raising the
+following objection: metaphysical statements are not, indeed, verifiable by man nor by any other finite being; nevertheless they might
+be construed as conjectures about the answers which a being with
+higher or even perfect powers of knowledge would make to our
+questions, and as such conjectures they would, after all, be meaningful. To counter this objection, let us consider the following. If
+the meaning of a word cannot be specified, or if the sequence of
+words does not accord with the rules of syntax, then one has riot
+even asked a question. (Just think of the pesudo-questions: "Is this
+table teavy?", "is the number 7 holy?", "which numbers are darker,
+the even or the odd ones?"). Where there is no question, not even
+an omniscient being can give an answer. Now the objector may say:
+just as one who can see may communicate new knowledge to the
+blind, so a higher being might perhaps communicate to us metaphysical knowledge, e.g. whether the visible world is the manifestation of a spirit. Here we must reflect on the meaning of "new knowledge." It is, indeed, conceivable that we might encounter animals
+who tell us about a new sense. If these beings were to prove to us
+Fermat's theorem or were to invent a new physical instrument or
+were to establish a hitherto unknown law of nature, then our knowledge would be increased with their help. For this sort of thing we
+
+The Elimirlatiorz of Metaphysics
+
+1731
+
+can test, just the way even a blind man can understand and test the
+whole of physics (and therewith any statement made by those who
+can see). But if those hypothetical beings tell us something which
+we cannot verify, then we cannot understand it either; in that case
+no information has been comtnunicated to us, but mere verbal sounds
+devoid of meaning though possibly associated with images. It follows that our knowledge can only be quantitatively enlarged by
+other beings, no matter whether they know more or less or everything, but no knowledge of an essentially different kind can be
+added. What we do not know for certain, we may come to know with
+greater certainty through the assistance of other beings; but what
+is unintelligible, meaningless for us, cannot become meaningful
+through someone else's assistance, however vast his knowledge might
+be. Therefore no god and no devil can give us metaphysical knowledge.
+
+The examples of metaphysical statements which we have analyzed were all taken from just one treatise. But our results apply with
+equal validity, in part even in verbally identical ways, to other metaphysical systems. That treatise is completely in the right in citing
+approvingly a statement by Hegel ("pure Being and pure Nothing,
+therefore, are one and the same"). The metaphysics of Hegel has
+exactly the same logical character as this modem system of metaphysics. And the same holds for the rest of the metaphysical systems,
+though the kind of phraseology and therewith the kind of logical
+errors that occur in them deviate more or less from the kind that
+occurs in the examples we discussed.
+It should not be necessary here to adduce further examples of
+specific metaphysical sentences in diverse systems and submit them
+to analysis. We confine ourselves to an indication of the most frequent kinds of errors.
+Perhaps the majority of the logical mistakes that are committed
+when pseudo-statements are made, are based on the logical faults
+infecting the use of the word "to be" in our language (and of the
+corresponding words in other languages, at least in most European
+languages). The first fault is the ambiguity of the word "to be." It
+is sometimes used as copula prefixed to a predicate ("I am hungry"),
+sometimes to designate existence ("I am"). This mistake is aggravated by the fact that metaphysicians often are not clear about
+this ambiguity. The second fault lies in the form of the verb in its
+second meaning, the meaning of existence. The verbal form feigns
+
+[741
+
+RUDOLF CARNAP
+
+a predicate where there is none. To be sure, it has been known for
+a long time that existence is not a property (cf. Kant's refutation
+of the ontological proof of the existence of God). But it was not
+until the advent of modern logic that full consistency on this point
+was reached: the syntactical form in which modern logic introduces
+the sign for existence is such that it cannot, like a predicate, be applied to signs for objects, but only to predicates (cf. e.g. sentence
+IIIA in the above table). Most metaphysicians since antiquity have
+allowed themselves to be seduced into pseudo-statements by the
+verbal, and therewith the predicative form of the word "to be," e.g.
+"I am," "God is."
+We meet an illustration of this error in Descartes' "cogito, ergo
+sum." Let us disregard here the material objections that have been
+raised against the premise-viz. whether the sentence "I think" adequately expresses the intended state of affairs or contains perhaps an
+hypostasis-and consider the two sentences only from the formalIogical point of view. We notice at once two essential logical mistakes. The first lies in the conclusion "I am." The verb "to be" is
+undoubtedly meant in the sense of existence here; for a copula canaot be used without predicate; indeed, Descartes' "I am" has always
+been interpreted in this sense. But in that case this sentence violates
+the above-mentioned logical rule that existence can be predicated
+only in conjunction with a predicate, not in conjunction with a name
+(subject, proper name). An existential statement does not have
+the form "a exists" (as in "I am," i.e. "I exist"), but "there exists
+something of such and such a kind." The second error lies in the
+transition from "I think" to "I exist." If from the statement "P(a)"
+("a has the property P") an existential statement is to be deduced,
+then the latter can assert existence only with respect to the predicate
+P, not with respect to the subject a of the premise. What follows
+from "I am a European" is not "I exist," but "a European exists."
+What follows from "I think" is not ''I am" but "there exists something that thinks."
+The circumstance that our languages express existence by a verb
+('to be" or "to exist") is not in itself a logical fault; it is only inappropriate, dangerous. The verbal form easily misleads us into the
+misconception that existence is a predicate. One then arri-:es at such
+logically incorrect and hence senseless modes of expression as were
+just examined. Likewise such forrlls as "Being" or "Not-Being,"
+which from time immemorial have played a great role in metaphysics,
+have the same origin. In a logically correct language such forms cannot even be constructed. It appears that in the Latin and the German
+
+l h e Eli~ninationof Metaphysics
+
+[7S]
+
+languages the forms "ens" or "das Seiende" were, perhaps under the
+seductive influence of the Greek example, introduced specifically for
+use by metaphysicians; in this way the language deteriorated logically
+whereas the addition was believed to represent an improvement.
+Another very frequent violation of logical syntax is the so-called
+"type curlfusion" of concepts. While the previously mentioned mistake consists in the predicative use of a symbol with non-predicative
+meaning, in this case a predicate is, indeed, used as predicate yet as
+predicate of a different type. We have here a violation of the rules
+of the so-called theory of types. An altificial example is the sentence
+we discussed earlier: "Caesar is a prime number." Names of persons
+and names of numbers belong to different logical types, and so do
+accordingly predicates of persons (e.g. "general") and predicates of
+numbers ("prime number"). The error of type confusion is, unlike
+the previously discussed usage of the verb "to be," not the prerogative of metaphysics but already occurs very often in conversational
+language also. But here it rarely leads to nonsense. The typicd
+ambiguity of words is here of such a kind that it can be easily removed.
+Example: 1. 'This table is larger than that." 2. "The height of this table
+is larger than the height of that table." Here the word "larger" is used in
+(1) for a relation between objects, in (2) for a relation between numbers, hence for two distinct syntactical categories. The mistake is
+here unimportant; it could, e.g., be eliminated by writing "largerl" and
+"larger2"; "largerl" is then defined in terms of "larger2" by declaring
+statement form (1) to be synonymous with (2) (and others of a similar
+kind).
+Since the confusion of types causes no harm in conversational
+language, it is usually ignored entirely. This is, indeed, expedient for
+the ordinary use of language, but has had unfortunate consequences
+in metaphysics. Here the conditioning by everyday language has led
+to confusions of types which, unlike those in everyday language, are
+no longer translatable into logically correct form. Pseudo-statements
+of this kind are encountered in especially large quantity, e.g., in the
+writings of Hegel and Heidegger. The latter has adopted many peculiarities of the Hegelian idiom along with their Iogical faults (e.g.
+predicates which should be applied to objects of a certain sort are
+instead applied to predicates of these objects or to "being" or to
+"existence" or to a relation between these objects).
+Having found that many metaphysical statements are meaningless, we confront the question whether there is not perhaps a core
+of meaningful statements in metaphysics which would remain after
+elimination of all the meaningless ones.
+
+[ 76 1
+RUDOLF CARNAP
+Indeed, the results we have obtained so far might give rise to
+the view that there are many dangers of falling into nonsense in
+metaphysics, and that one must accordingly endeavor to avoid these
+traps with great care if one wants to do metaphysics. But actually
+the situation is that meaningful metaphysical statements are impossible. This follows from the task which metaphysics sets itself: to
+discover and formulate a kind of knowledge which is not accessible
+to empirical science,
+We have seen earlier that the meaning of a statement lies in the
+method of its verification. A statement asserts only so much as is
+verifiable with respect to it. Therefore a sentence can be used only
+to assert an empirical proposition, if indeed it is used to assert anything at all. If something were to lie, in principle, beyond possible
+experience, it could be neither said nor thought nor asked.
+(Meaningful) statements are divided into the followi~lgkinds.
+First there are statements which are true solely by virtue of their
+form ("tautologies" according to Wittgenstein; they correspond approximately to Kant's "analytic judgments"). They say nothing
+about reality. The formulae of logic and mathematics are of this
+kind. They are not themselves factual statements, but serve for the
+transformation of such statements. Secondly there are the negations of
+such statements ("contradictions"). They are self-contradictory,
+hence false by virtue of their form. With respect to all other statements the decision about truth or falsehood lies in the protocol sentences. They are therefore (true or false) empirical statements and
+belong to the domain of empirical science. Any statement one desires
+to construct which does not fall within these categories becolnes
+automatically meaningless. Since metaphysics does not want to assert
+analytic propositions, nor to fall within the domain of empiricaI
+science, it is compelled to employ words for which no criteria of
+application are specified and which are therefore devoid of sense,
+or else to combine meaningful words in such a way that neither an
+analytic (or contradictory) statement nor an empirical statement is
+produced. In either case pseudo-statements are the inevitable product.
+Logical analysis, then, pronounces the verdict of meaninglessness on any alleged knowledge that pretends to reach above or behind
+experience. This verdict hits, in the first place, any speculative metaphysics, any alleged knowledge by pure thinking or by pure itltuitioit
+that pretends to be able to do without experience. But the verdict
+equally applies to the kind of metaphysics which, starting from experience, wants to acquire knowledge about that which transceilds
+experience by means of special inferences (e.g. the neo-vitalist thesis
+
+The Elinzinatio~zof Metaphysics
+[771
+of the directive presence of an "entelechy" in organic processes, which
+supposedly cannot be understood in terms of physics; the question
+concerning the "essence of causality," transcending the ascertainment of certain regularities of succession; the talk about the "thing
+in itself"). Further, the same judgment must be passed on all philosoplty of norms, or philosophy of value, on any ethics or esthetics as
+a normative discipline. For the objective validity of a value or norm
+is (even on the view of the philosophers of value) not empirically
+verifiable nor deducible from empirical statements; hence it cannot
+be asserted (in a meaningful statement) at all. In other words: Either
+empirical criteria are indicated for the use of "good" and "beautiful" and the rest of the predicates that are employed in the normative
+sciences, or they are not. In the first case, a statement containing
+such a predicate turns into a factual judgment, but not a value judgment; in the second case, it becomes a pseudo-statement. It is altogether impossible to make a statement that expresses a value judgment.
+Finally, the verdict of meaninglessness also hits those metaphysical movements which are usually called, improperly, epistemological movements, that is realism (insofar as it claims t o say more
+than the empirical fact that the sequence of events exhibits a certain
+regularity, which makes the application of the inductive method possible) and its opponents: subjective idealism, solipsism, phenomenalism, and positivism (in the earlier sense).
+But what, then, is left over for philosophy, if all statements whatever that assert something are of an empirical nature and belong to
+factual science? What remains is not statements, nor a theory, nor
+a system, but only a method: the method of logical analysis. The
+foregoing discussion has illustrated the negative application of this
+method: in that context it serves to eliminate meaningless words,
+meaningless pseudo-statements. In its positive use it serves to clarify
+meaningful concepts and propositions, to lay logical foundations for
+factual science and for mathematics. The negative application of the
+method is necessary and important in the present historical situation.
+But even in its present practice, the positive application is more
+fertile. We cannot here discuss it in greater detail. It is the indicated
+task of logical analysis, inquiry into logical foundations, that is meant
+by "scientific philosophy" in contrast to metaphysics.
+The question regarding the logical character of the statements
+which we obtain as the result of a logical analysis, e.g. the statements occurring in this and other logical papers, can here be answered only tentatively: such statements are partly analytic, partly
+empirical. For these statements about statements and parts of state-
+
+[ 78 1
+RUDOLF CARNAP
+ments belong in part to pure metalogic (e.g. "a sequence consisting
+of the existence-symbol and a noun, is not a sentence"), in part
+to descriptive metalogic (e.g. "the word sequence at such and such
+a place in such and such a book is meaningless"). Metalogic will
+be discussed elsewhere. It will also be shown there that the metalogic
+which speaks about the sentences of a given language can be formulated in that very language itself.
+
+7. METAPHYSICS
+AS EXPRESSION
+OF
+AN ATTITUDETOWARD LIFE
+Our claim that the statements of metaphysics are entirely meaningless, that they do not assert anything, will leave even those who
+agree intellectually with our results with a painful feeling of strangeness: how could it be explained that so many men in all ages and
+nations, among them eminent minds, spent so much energy, nay
+veritable fervor, on metaphysics if the latter consisted of nothing
+but mere words, nonsensically juxtaposed? And how could one account for the fact that metaphysical books have exerted such a strong
+influence on readers up to the present day, if they contained not even
+errors, but nothing at all? These doubts are justified since metaphysics
+does indeed have a content; only it is not theoretical content. The
+(pseudo)statements of metaphysics do not serve for the description
+of states o f aflairs, neither existing ones (in that case they would be
+true statements) nor nonexisting ones (in that case they would be
+at least false statements). They serve for the expression o f the Penera1 attitude of a person towards life ("~ebensiinstellung, ~ e b i n s gefiihl")
+.
+perhaps we may assume that metaphysics originated from mythology. The child is angry at the "wicked table" which hurt him.
+Primitive man endeavors to conciliate the threatening demon of
+earthquakes, or he worships the deity of the fertile rains in gratitude.
+Here we confront personifications of natural phenomena, which are
+the quasi-poetic expression of man's emotional relationship to his
+environment. The heritage of mythology is bequeathed on the one
+hand to poetry, which produces and intensifies the effects of mythology on life in a deliberate way; on the other hand, it is handed down
+to theology, which develops mythology into a system. Which, now,
+is the historical role of metaphysics? Perhaps we may regar,d it as a
+substitute for theology on the level of systematic, conceptdal thinking. The (supposedly) transcendent sources of knowledge of theology are here replaced by natural, yet supposedly trans-empirical
+
+The Elirninatiort of Metaphysics
+[79 1
+sources of knowledge. On closer inspection the same content as that
+of mythology is here still recognizable behind the repeatedly varied
+dressing: we find that metaphysics also arises from the need to give
+expression to a man's attitude in life, his emotional and voiitional
+reaction to the environment, to society, to the tasks to which he
+devotes himself, to the misfortunes that befall him. This attitude
+manifests itself, unconsciously as a rule, in everything a man does
+or says. It also impresses itself on his facial features, perhaps even
+on the character of his gait. Many people, now, feel a desire to
+create over and above these manifestations a special expression of
+their attitude, through which it might become visible in a more succinct and penetrating way. I£ they have artistic talent they areGable
+to express tllemselves by producing a work of art. Many writers
+have already clarified the way in which the basic attitude is manifested through the style and manner of a work of art (e.g. Dilthey
+and his students). [In this connection the term "world view" ("Weltanschauung") is often used; we prefer to avoid it because of its
+ambiguity, which blurs the difference between attitude and theory,
+a difference which is of decisive importance for our analysis.] What
+is here essential for our considerations is only the fact that art is an
+adequate, metaphysics an inadequate means for the expression of the
+basic attitude. Of course, there need be no intrinsic objection to one's
+using any means of expression one l i e s . But in the case of metaphysics we find this situation: through the form of its works it pretends to be something that it is not. The form in question is that
+of a system of statements which are apparently related as premises
+and conclusions, that is, the form of a theory. In this way the fiction
+of theoretical content is generated, whereas, as we have seen, there
+is no such content. It is not only the' reader, but the metaphysician
+himself who suffers from the illusion that tlie.metaphysica1 statements say something, describe states of affairs. The metaphysician
+believes that he travels in territory in which truth and falsehood are
+at stake. In reality, however, he has not asserted anything, but only
+expressed something, like an artist. That the metaphysician is thus
+deluding himself cannot be inferred from the fact that he selects
+language as the medium of expression and declarative sentences as
+the form of expression; for lyrical poets do the same without succumbing to self-delusion. But the metaphysician supports his statements by arguments, he claims assent to their content, he polemicizes
+against metaphysicians of divergent persuasion by attempting to
+refute their assertions in his treatise. Lyrical poets, on the other hand,
+do not try to refute in their poem the statements in a poem by some
+
+RUDOLF CARNAP
+[ 80 I
+other lyrical poet; for they know they are in the domain of art and
+not in the domain of theory.
+Perhaps music is the purest means of expression of the basic
+attitude because it is entirely free from any reference to objects. The
+harmonious feeling or attitude, which the metaphysician tries to express in a monistic system, is more clearly expressed in the music
+of Mozart. And when a metaphysician gives verbal expression to
+his dualistic-heroic attitude towards life in a dualistic system, is it not
+perhaps because he lacks the ability of a Beethoven to express this
+attitude in an adequate medium? Metaphysicians are musicians without musical ability. Instead they have a strong inclination to work
+within the medium of the theoretical, to connect concepts and
+thoughts. Now, instead of activating, on the one hand, this inclination in the domain of science, and satisfying, on the other hand, the
+need for expression in art, the metaphysician confuses the two and
+produces a structure which achieves nothing for knowledge and something inadequate for the expression of attitude.
+Our conjecture that metaphysics is a substitute, albeit an inadequate one, for art, seems to be further confirmed by the fact that
+the metaphysician who perhaps had artistic talent to the highest
+degree, viz. Nietzsche, almost entirely avoided the error of that confusion. A Large part of his work has predominantly empirical content. We find there, for instance, historical analyses of specific artistic
+phenomena, or an historical-psychological analysis of morals. In the
+work, however, in which he expresses most strongly that which others
+express through metaphysics or ethics, in Thus Spake Zarathrtstra,
+he does not choose the misleading theoretical form, but openly the
+form of art, of poetry.
+
+REMARKS BY THE AUTHOR (1957)
+T o section I , "metaphysics." This term is used in this paper, as
+usually in Europe, for the field of alleged knowledge of the essence of
+things which transcends the realm of empirically founded, inductive
+science. Metaphysics in this sense includes systems like those of Fichte,
+Schelling, Hegel, Bergson, Heidegger. But it does not include endeavors
+towards a synthesis and generalization of the results of the various
+sciences.
+T o section I, "meaning." Today we distinguish various kinds of
+meaning, in particular cognitive (designative, referential) meaning on
+the one hand, and non-cognitive (expressive) meaning components,
+e.g. emotive and motivative, on the other. In the present paper, the word
+
+The Elirnilzation of Metaphysics
+
+[811
+
+"meaning" is always understood in the sense of "cognitive meaning."
+The thesis that the sentences of metaphysics are meaningless, is thus to
+be understood in the sense that they have no cognitive meaning, no assertive content. The obvious psychological fact that they have expressive
+meaning is thereby not denied; this is explicitly stated in Section 7.
+T o sectiott 6 , "metalogic." This term refers to the theory of expressions of a language and, in particular, of their logical relations. Today
+we would distinguish between logical syntax as the theory of purely
+formal relations and semantics as the theory of meaning and truthconditions.
+To section 6, realism and idealism. That both the a m a t i v e and the
+negative theses concerning the reality of the external world are pseudostatements, I have tried to show in the monograph Scheinprobleme in
+der Philosophie: D m Fremdpsychische urld der Realismusstreit, Berlin,
+1928. The similar nature of the ontological theses about the reality or
+unreality of abstract entities, e.g., properties, relations, propositions, is
+discussed in "Empiricism, Semantics, and Ontology," Revue Intern. de
+Plzilos. 4 , 1950, 20-40, reprinted in: Meaning and Necessity, second edition, Chicago, 1956.
+
+

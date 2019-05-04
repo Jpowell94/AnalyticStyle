@@ -1,0 +1,818 @@
+Mind Association
+
+On Denoting
+Author(s): Bertrand Russell
+Source: Mind, New Series, Vol. 14, No. 56 (Oct., 1905), pp. 479-493
+Published by: Oxford University Press on behalf of the Mind Association
+Stable URL: https://www.jstor.org/stable/2248381
+Accessed: 11-04-2019 12:00 UTC
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Mind Association, Oxford University Press are collaborating with JSTOR to digitize,
+preserve and extend access to Mind
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:00:07 UTC
+All use subject to https://about.jstor.org/terms
+
+II.-ON DENOTING.
+By BERTRAND RUSSELL.
+By a " denioting phrase " I mean a phrase such as any one
+
+of the following: a man, some man, any man, every man,
+
+all men, the present King of England, the present King of
+
+France, the centre of mass of the Solar System at the first
+instant of the twentieth century, the revolution of the earth
+round the sun, the revolution of the sun round the earth.
+Thus a phrase is denoting solely in virtue of its form. We
+may distinguish three cases: (1) A phrase may be denoting,
+and yet not denote anything; e.g., "{the present King of
+France (2) A phrase may denote one definite object; e.g.,
+"the present King of England " denotes a certain man. (3)
+A phrase may denote ambiguously; e.g., " a man " denotes
+not many men, but an ambiguous man. The interpretation
+of such phrases is a matter of considerable difficultv; indeed,
+it is very hard to frame any theory not susceptible of formal
+refutation. All the difficulties with which I am acquainted
+are met, so far as I can discover, by the theory which I am
+about to explain.
+The subject of denoting is of verv great importance, not
+only in logic and matheinatics, but also in theory of know-
+
+ledge. For example, we know that the centre of m-ass of the
+Solar System at a definite instant is some definite point, and
+we can affirm a number of propositions abouit it; but we
+have no immediate acquaintance with this point, which is
+only known to us by description. The distinction between
+acquaintance and knowledge about is the distinction between
+the things we have presentations of, and the things we only
+reach by means of denoting phrases. It often happens that
+
+we know that a certain phrase denotes unambiguously, although we have no acquaintance with what it denotes; this
+occurs in the above case of the centre of mass. In perception we have acquaintance with the objects of perception,
+and in thought we have acquaintance with objects of a more
+abstract logical character; but we do not necessarily have
+acquaintance with the objects denoted by phrases composed
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:00:07 UTC
+All use subject to https://about.jstor.org/terms
+
+480 BERTRAND RUSSELL:
+
+of words with whose meanings we are acquainted. To take
+a very important instance: There seems no reason to believe
+that we are ever acquainted with other people's minds, seeing
+that these are not directly perceived; hence what we know
+about them is obtained through denoting. All thinking has
+to start from acquaintance; but it succeeds in thinking about
+many things with which we have no acquaintance.
+
+The course of my argument will be as follows. I shall
+begin by stating the theory I intend to advocate; I I shall
+then discuss the theories of Frege and Meinong, showing
+why neither of them satisfies me; then I shall give the
+grounds in favour of my theory; and finally I shall briefly
+indicate the philosophical consequences of my theory.
+My theory, briefly, is as follows. I take the notion of the
+variable as fundamental; I use " C (x) " to mean a proposition2 in which x is a constituent, where x, the variable, is
+essentially and wholly undetermined. Then we can consider
+the two notions "C (x) is always true" and " C (x) is sometimes true ".3 Then everything and nothing and something
+(which are the most primitive of denoting phrases) are to
+be interpreted as follows:
+C (everything) means " C (x) is always true";
+
+C (nothing) means "'C (x) is false' is always true";
+C (something) means "It is false that ' C (x) is false' is
+always true ".
+
+Here the notion " C (x) is always true" is taken as ultimate
+and indefinable, and the others are defined by means of it.
+Everything, nothing, and something, are not assumed to have any
+
+meaning in isolation, but a meaning is assigned to every proposition in which they occur. This is the principle of the
+theory of denoting I wish to advocate: that denoting phrases
+never have any meaning in themselves, but that every proppsition in whose verbal expression they occur has a mean-
+
+ing. The difficulties concerning denoting are, I believe, atl
+the result o*f a wrong analysis of propositions whose verbal
+expressions contain denoting phrases. The proper analysis,
+
+if I am not mistaken, may be further set forth as follows.
+
+I I have discussed this subject in Principles of Mathematics, chapter
+v., and ? 476. The theory there advocated is very nearly the same as
+Frege's, and is quite different from the theory to be advocated in what
+
+follows.
+
+2 More exactly, a propositional function.
+3 The second of these can be defined by mieans of the first, if we take
+
+it to mean, "It is not true that 'C (x) is false' is always true ".
+4I shall sometimes use, instead of this complicated phrase, the phrase
+"C (x) is not always false," or " C (x) is sometimes true," supposed defined
+to mean the same as the complicated phrase.
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:00:07 UTC
+All use subject to https://about.jstor.org/terms
+
+ON
+
+DENOTING.
+
+481
+
+Suppose now we wish to interpret the proposition, " I met
+a man ". If this is true,. I met some definite man; but that
+is not what I affirm. What I affirm is, according to the theory
+I advocate:
+" ' I met x, and x is human' is not always false ".
+Generally, defining the class of men as the class of objects
+having the predicate human, we say that:
+4'C (a man)" means "' C (x) and x is human' is not always
+false ".
+This leaves "a man," by itself, wholly destitute of meaning,
+but gives a meaning to every proposition in whose verbal
+expression "' a man " occurs.
+Consider next the proposition " all men are mortal".
+This proposition 1 is really hypothetical and states that if anything is a man, it is mortal. That is, it states that if x is
+a man, x is mortal, whatever x may be. Hence, substituting
+'x is human' for' x is a man,' we find:"All men are mortal " means "' If x is human, x is mortal'
+is always true ".
+
+This is what is expressed in symbolic logic by saying that
+" all men are mortal" means "'x is human' implies 'x is
+mortal' for all values of x". More generally, we say:
+4C C(all men) ' means "' If x is human, then C (x) is true' is
+always true
+Similarly
+"C (no men)" means "' If x is human, then C (x) is false'
+is always true".
+
+"C (some men) " will mean the same as " C (a man)," 2 and
+''C (a man) " means " It is false that ' C (x) and x is human'
+is always false ".
+"C (every man)" will mean the same as " C (all men)
+It remains to interpret phrases containing the. These are
+by far the most interesting and difficult of denoting phrases.
+;Take as an instance " the father of Charles II. was executed ".
+This asserts that there was an x who was the father of
+Charles II. and was executed. Now the, when it is strictly
+used, involves uniqueness; we do, it is true, speak of " the son
+,of So-and-so " even when So-and-so has several sons, but it
+would be more correct to say " a son of So-and-so ". Thus
+for our purposes we take the as involving uniqueness. Thus
+when we say " x was the father of Charles II." we not only
+.assert that x had a certain relation to Charles II., but also
+I As has been ably argued in Mr. Bradley's Logic, book i., chap. ii.
+
+2Psychologically " C (a man) " has a suggestion of only onie, and " C
+
+(some men) " has a suggestion of mnore than one; but we may neglect
+*these suggestions in a preliminary sketch.
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:00:07 UTC
+All use subject to https://about.jstor.org/terms
+
+482 BERTRAND RUSSELL:
+
+that nothing else had this relation. The relation in question, without the assumption of uniqueness, and without any
+denoting phrases, is expressed by " x begat Charles I.". To
+
+get an equivalent of " x was the father of Charles II.," we
+mNust add, " If y is other than x, y did niot beget Charles II)"
+
+or, what is equivalent, " If y begat Charles II., y is identical
+with x ". Hence " x is the father of Charles II." becomnes
+" begat Charles IL; and ' it y begat Charles IL, y is identical
+
+with x' is always true of y"
+
+Thus " the father of Charles IM was executed " becomues
+It is not always false of x that x begat Charles II. and that
+
+x was executed and that 'if y begat Charles IL, y is
+
+identical with x' is always true of y".
+This mnay seem a somewhat incredible interpretation; but
+
+I am not at present giving reasons, I am merely stating the
+
+theory.
+To interpret " C (the father of Charles II.)," where C
+stands for any statement about him, we have only to substitute C (x) for " x was executed" in the above. Observe
+that, accordina to the above interpretation, whatever state-
+
+ment C may be, " C (the father of Charles II.)" implies:
+"It is not always false of x that ' if y begat Charles II., y is
+identical with x' is always true of y,"
+
+which is what is expressed in common language by " Charles
+II. had one father and no more". Consequently if this con(ition fails, every proposition of the formn " C (the father of
+Charles II.)" is false. Thus e.g. every proposition of the
+formn " C (the present Kinig of France) " is false. This is a
+great advantage in the present theory. I shall show later
+
+that it is not contrary to the law of contradiction, as light
+
+be at first supposed.
+The above gives a reduction of all propositions in which
+lenoting phrases occur to forms in which no such phrases
+
+occur. Why it is imperative to effect such a reduction, the
+
+subsequent discussion will endeavour to show.
+The evidence for the above theory is derived from the
+difficulties which seem unavoidable if we regard denoting
+phrases as standing for genuine constituents of the propositions in whose verbal expressions they occur. Of the pos-
+
+sible theories which admit such constituents the simplest is
+that of Meinong.1 This theory regards any grammatically
+correct denoting phrase as standing for an object. Thus
+
+" the present King of France," " the round square," etc., are
+
+I See L'ntersw.Atuinqe.n xur (egenstandatheorie utnd Psychologie, Leip
+zig, 1904, the first three articles (by Ml eiuiong, Amaeseder and Mally r
+spectively).
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:00:07 UTC
+All use subject to https://about.jstor.org/terms
+
+ON DENOTING. 483
+
+supposed to be genuine objects. It is admitted that such
+objects do not su6bsist, but nevertheless they are supposed to
+
+be objects. This is in itself a difficult view; but the chief
+
+objection is that such objects, admittedly, are apt to infrioge
+the law of contradiction. It is contended, for example, that
+the existent present King of France exists, and also does not
+exist; that the round square is round, and also not round;
+etc. But this is intolerable; and if any theory can be found
+to avoid this result, it is surely to be preferred.
+
+The above breach of the law of contradiction is avoided by
+
+Frege's theory. He distinguishes, in a denoting phrase, two
+
+elements, which we may call the meaninzg and the denotation.'
+
+Thus " the centre of mass of the Solar System at the begin-
+
+ning of the twentieth century " is highly complex in meaning,
+but its denotation is a certain point, which is simple. The
+Solar System, the twentieth century, etc., are constituents of
+the meaning; but the denotation has no constituents at all.2
+One advantage of this distinction is that it shows why it is
+often worth while to assert identity. If we say " Scott is
+the author of Waverley," we assert an identity of denotation
+with a difference of meaning. I shall, however, not repeat
+the grounds in favour of this theory, as I have urged its
+claims elsewhere (loc. cit.), and am now concerned to dispute
+those claims.
+
+One of the first difficulties that confront us, when we adopt
+the view that denoting phrases express a meaning and denote
+a denotation,3 concerns the cases in which the denotation
+
+appears to be absent. If we say " the King of England is
+bald," that is, it would seem, not a statement about the
+complex meaning "the King of England," but .about the
+actual man denoted by the meaning. But now consider
+" the King of France is bald ". By parity of form, this also
+ouight to be about the denotation of the phrase " the King of
+France ". But this phrase, though it has a neaning provided
+' See his " Ueber Sinn und Bedeutung," Zeitschrift filr Phil. untd Phil.
+
+Kritik, vol. 100.
+
+2Frege distinguishes the two elements of meaning and denotation
+everywhere, and not only in complex denoting phrases. Thus it is the
+meanings of the constituents of a denoting complex that enter into its
+meaning, not their denotation. In the proposition " Mont Blanc is over
+
+1,000 metres high," it is, according to him, the meaning of "c Mont Blanc,"
+not the actual mountain, that is a constituent of the nmeaning of the proposition.
+
+3In this theory, we shall say that the denoting phrase expresses a,
+meaning; and we shall say both of the phrase and of the meaning that
+they denote a denotation. In the other theory, which I advocate, there
+
+is no meaning, and only sometimes a denotation.
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:00:07 UTC
+All use subject to https://about.jstor.org/terms
+
+484
+
+BERTRAND
+
+RUSSELL:
+
+" the King of England " has a meaning, has certainly no denotation, at least in any obvious sense. Hence one would
+suppose that "the King of France is bald" ought to be
+nonsense; but it is not nonsense, since it is plainly false.
+Or again consider such a proposition as the following: " If u
+is a class which has only one member, then that one member
+is a member of u," or, as we may state it, " If u is a unit
+class, the u is a u ". This proposition ought to be always
+true, since the conclusion is true whenever the hypothesis is
+true. But " the u " is a denoting phrase, and it is the denotation, not the meaning, that is said to be a u. Now if u
+is not a unit class, "the u " seems to denote nothing; hence
+our proposition would seem to become nonsense as soo-n as
+
+mu is not a unit class.
+Now it is plain that such propositions do not become
+nonsense merely because their hypotheses are false. The
+
+King in " The Tempest " might say, " If Ferdinand is not
+drowned, Ferdinand is my only son ". Now " my only son "
+is a denoting phrase, which, on the face of it, has a denotation when, and only when, I have exactly one son. But the
+above statement would nevertheless have remained true if
+Ferdinand had been in fact drowned. Thus we must either
+provide a denotation in cases in which it is at first sight
+absent, or we must abandon the view that the denotation is
+what is concerned in propositions which contain denoting
+phrases. The latter is the course that I advocate. The
+former course may be taken, as by Meinong, by admitting
+objects which do not subsist, and denying that they obey
+the law of contradiction; this, however, is to be avoided if
+possible. Another way of taking the same course (so far as
+our present alternative is concerned) is adopted by Frege,
+who provides by definition some purely conventional denotation for the cases in which otherwise there would be none.
+Thus "the King of France," is to denote the null-class;
+
+" the only son of Mr. So-and-so " (who has a fine family of
+ten), is to.denote the class of all his sons; and so on. But
+this procedure, though it may not lead to actual logical error,
+is plainly artificial, and does not give an exact analysis of
+the matter. Thus if we allow that denoting phrases, in
+general, have the two sides of meaning and denotation, the
+cases where there seems to be no denotation cause difficulties
+both on the assumption that there really is a denotation and
+on the assumption that there really is none.
+A logical theory may be tested by its capacity for dealing
+with puzzles, and it is a wholesome plan, in thinking about
+logic, to stock the mind with as many puzzles as possible,
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:00:07 UTC
+All use subject to https://about.jstor.org/terms
+
+ON
+
+DENOTING.
+
+485
+
+since these serve much the same purpose as is served by
+experiments in physical science. I shall therefore state three
+puzzles which a theory as to denoting ought to be able to
+solve; and I shall show later that my theory solves them.
+(1) If a is identical with b, whatever is true of the one is
+true of the other, and either may be substituted for the other
+in any proposition without altering the truth or falsehood of
+that proposition. Now George IV. wished to know whether
+Scott was the author of Wcaverley; and in fact Scott was
+the author of Waverley. Hence we may substitute Scott for
+the author of " TWaverley," and thereby prove that George IV..
+wished to know whether Scott was Scott. Yet an interest
+in the law of identity can hardly be attributed to the first.
+gentleman of Europe.
+(2) By the law of excluded middle, either "A is B " or
+"A is not B" must be true. Hence either "the present.
+King of France is bald " or " the present King of France is
+not bald" must be true. Yet if we enumerated the things
+that are bald, and then the things that are not bald, we
+should not find the present King of France in either list.
+Hegelians, who love a synthesis, will probably conclude that
+he wears a wig.
+(3) Consider the proposition " A differs from B ". If this
+is true, there is a difference between A and B, which fact
+may be expressed in the form " the difference between A and
+B subsists ". But if it is false that A differs from B, then
+there is no difference between A and B, which fact may be
+expressed in the form " the difference between A and B does.
+not subsist ". But how can a non-entity be the subject of
+a proposition ? "I think, therefore I am " is no more evident
+than "I am the subject of a proposition, therefore I am,"
+provided "I am" is taken to assert subsistence or being,1not existence. Hence, it would appear, it must always be
+self-contradictory to deny the being of anything; but we
+have seen, in connexion with Meinong, that to admit being
+also sometimes leads to contradictions. Thus if A and B
+do not differ, to suppose either that there is, or that there is.
+not, such an object as "the difference between A and B"
+seems equally impossible.
+The relation of the meaning to the denotation involves,
+certain rather curious difficulties, which seem in themselves
+sufficient to prove that the theory which leads to such diffi-culties must be wrong.
+
+When we wish to speak about the meaning of a denoting
+I I use these as synonyms.
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:00:07 UTC
+All use subject to https://about.jstor.org/terms
+
+486
+
+BERTRAND
+
+RUSSELL:
+
+phrase, as opposed to its denotation, the natural mode of
+doing so is by inverted commas. Thus we say:
+The centre of mass of the Solar System is a point, not a
+denoting complex;
+"The centre of mass of the Solar System" is a denoting
+complex, not a point.
+Or again,
+The first line of Gray's Elegy states a proposition.
+" The first line of Gray's Elegy " does not state a proposition. Thus taking any denoting phrase, say C, we wish to
+consider the relation between C and " C," where the difference of the two is of the kind exemplified in the above two
+instances.
+We say, to begin with, that when C occurs it is the
+denotation that we are speaking about; but when " C " occurs,
+
+it is the meaning. Now the relation of meaning and denota-
+
+tion is not merely linguistic through the phrase: there must
+be a logical relation involved, which we express by saving
+that the meaning denotes the denotation. But the difficulty
+which confronts us is that we cannot succeed in both preserving the connexion of meaning and denotation and preventing
+them from being one and the same; also that the meaning
+cannot be got at except by means of denoting phrases. This
+happens as follows.
+The one phrase C was to have both meaning and denotation. But if we speak of " the meaning of C," that gives us
+the meaning (if any) of the denotation. "The meaning of
+the first line of Gray's Elegy " is the same as "The meaning
+of ' The curfew tolls the knell of parting day,' and is not the
+same as " The meaning of 'the first line of Gray's Elegy "'.
+Thus in order to get the meaning we want, we must speak
+not of "the meaning of C," but of "the meaning of ' C,' "
+which is the same as " C " by itself. Similarly " the denotation of C " does not mean the denotation we want, but means
+something which, if it denotes at all, denotes what is denoted
+
+by the denotation we want. For example, let " C " be " the
+
+denoting complex occurring in the second of the above instances". Then
+C =" the first line of Gray's Elegy," and
+the denotation of C = The curfew tolls the knell of parting day.
+But what we meant ta have as the denotation was " the first
+line of Gray's Elegy". Thus we have failed to get what
+we wanted.
+
+The difficulty in speaking of the meaning of a denoting,
+complex may be stated thus; The moment we put ihe coinplex in a proposition, the proposition is about the denotation;
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:00:07 UTC
+All use subject to https://about.jstor.org/terms
+
+ON DENOTING. 487
+
+and if we make a proposition in which the subject is " the
+meaning of C," then the subject is the meaning (if any) of
+the denotation, which was not intended. This leads us to
+say that, when we distinguish meaning and denotation, we
+must be dealing with the meaning: the meaning has denotation and is a complex, and there is not something other than
+the meaning, which can be called the complex, and be said
+to have both meaning and denotation. The right phrase,
+on the view in question, is that some meanings have denotations.
+But this only makes our difficulty in speaking of meanings
+more evident. For suppose C is our complex; then we are
+to say that C is the meaning of the complex. Nevertheless,
+whenever C occurs without inverted commas, what is said
+is not true of the meaning, but only of the denotation, as
+when we say: The centre of mass of the Solar System is a
+point. Thus to speak of C itself, i.e., to make a proposition
+about the meaning, our subject must not be C, but something
+
+which denotes C. Thus " C," which is what we use when
+we want to speak of the meaning, must be not the meaning,
+but something which denotes the meaning. And C must not
+be a constituent of this complex (as it is of " the meaning of
+C "); for if C occurs in the complex, it will be its denotation,
+not its meaning, that will occur, and there is no backward
+road from denotations to meanings, because every object can
+be denoted by an infinite number of different denoting phrases.
+Thus it would seem that " C " and C are different entities,
+such that " C " denotes C; but this cannot be an explanation,
+because the relation of " C " to C remains wholly mysterious;
+and where are we to find the denoting complex " C " which
+is to denote C ? Moreover, when C occurs in a proposition,
+it is not only the denotation that occurs (as we shall see in
+the next paragraph); yet, on the view in question, C is only
+the denotation, the meaning being wholly relegated to " C '.
+This is an inextricable tangle, and seems to prove that the
+whole distinction of meaning and denotation has been wrongly
+conceived.
+That the meaning is relevant when a denoting phrase
+occurs in a proposition is formally proved by the puzzle
+about the author of Waverley. The proposition " Scott was
+the author of Wtverley" has a property not possessed by
+" Scott was Scott," namely the property that George IV.
+wished to know whether it was true. Thus the two are not
+identical propositions; hence the meaning of " the author of
+
+Wcaverley" must be relevant as well as the denotation, if we
+
+adhere to the point of view to which this distinction belongs.
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:00:07 UTC
+All use subject to https://about.jstor.org/terms
+
+488 BERTRAND RUSSELL:
+
+Yet, as we have just seen, so long as we adhere to this point,
+of view, we are compelled to hold that only the denotation
+can be relevant. Thus the point of view in question must
+be abandoned.
+It remains to show how all the puzzles we have been considering are solved by the theory explained at the beginning
+of this article.
+According to the view which I advocate, a denoting phrase
+
+is essentially part of a sentence, and does not, like most
+
+single words, have any significance on its own account. If
+
+I say " Scott was a man," that is a statement of the formn
+" x was a man," and it has " Scott " for its subject. But
+if I say " the author of Wcaverley was a man," that is not a,
+statement of the form "x was a man," and does not have " the
+author of Waverley " for its subject. Abbreviating the statement made at the beginning of this article, we may put, in
+place of "the author of Waverley was a man," the following: " One and only one entity wrote Waverley, and that
+one was a man". (This is not so strictly what is meant as
+what was said earlier; but it is easier to follow.) And speaking generally, suppose we wish to say that the author of
+
+Waverley had the property 0, what we wish to say is equi
+
+lent to " One and only one entity wrote Waverley, and that
+
+one had the property 0 ".
+The explanation of denotation is now, as follows. Every
+proposition in which " the author of Waverley " occurs
+being explained as above, the proposition "Scott was the
+author of Waverley" (i.e. " Scott was identical with the
+author of Waverley") becomes " One and only one entity
+wrote Waverley, and Scott was identical with that one"; or,
+reverting to the wholly explicit form: "It is not always
+false of x that x wrote Waverley, that it is always true of y
+that if y wrote Waverley y is identical with x, and that Scott
+is identical with x ". Thus if " C " is a denoting phrase, it
+
+may happen that there is one entity x (there cannot be more
+than one) for which the proposition "x is identical with C"
+is true, this proposition being interpreted as above. We
+may then say that the entity x is the denotation of the
+phrase "C ". Thus Scott is the denotation of " the author
+of Waverley". The "-C " in inverted commas will be merely
+the phrase, not anything-that can be called the meaning. The
+phrase per se has no meaning, because in any proposition in
+which it occurs the proposition, fully expressed, does not
+contain the phrase, which has been broken up.
+The puzzle about George IV.'s curiosity is now seen to
+have a very simple solution. The proposition " Scott was
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:00:07 UTC
+All use subject to https://about.jstor.org/terms
+
+ON DENOTING. 489
+
+the author of Waverley," which was written out in its unabbreviated form in the preceding paragraph, does not contain any constituent "the author of Waverley " for which
+we could substitute " Scott ". This does not interfere with
+the truth of inferences resulting from making what is verbally
+the substitution of " Scott " for " the author of Waverley," so
+long as " the author of Waaverley" has what I call a primary
+occurrence in the proposition considered. The difference of
+primary and secondary occurrences of denoting phrases is
+as follows:When we say: " George IV. wished to know whether soand-so," or when we say " So-and-so is surprising" or " So-
+
+and-so is true," etc., the " so-and-so " must be a proposition.
+Suppose now that " so-and-so " contains a denoting phrase.
+We may either eliminate this denoting phrase from the
+;subordinate proposition " so-and-so," or from the whole proposition in which " so-and-so " is a mere constituent. Different propositions result according to which we do. I have
+heard of a touchy owner of a yacht to whom a guest, on first
+seeing it, remarked, " I thought your yacht was larger than
+it is"; and the owner replied, " No, my yacht is not larger
+than it is ". What the guest meant was, " The size that I
+thought your yacht was is greater than the size your yacht
+is "; the meaning attributed to him is, " I thought the size
+of your yacht was greater than the size of your yacht". To
+return to George IV. and Waverley, when we say, "George
+IV. wished to know whether Scott was the author of
+Woaverley," we normally mean " George IV. wished to know
+whether one- and only one man wrote Waverley and Scott
+was that man"; but we may also mean: "One and only
+one -man wrote Waverley, and George IV. wished to know
+whether Scott was that man ". In the latter, " the author
+of Waverley" has a primary occurrence; in the former, a
+secondary. The latter might be expressed by "George IV.
+wished to know, concerning the man who in fact wrote
+Waverley, whether he was Scott ". This would be true, for
+example, if George IV. had seen Scott at a distance, and
+had asked "Is that Scott?" A secondary occurrence of a
+denoting phrase may be defined as one in which the phrase
+occurs in a proposition p which is a mere counstituent of the
+proposition we are considering, and the substitution for the
+denoting phrase is to be effected inmp, not in the whole proposition concerned. The ambiguity as between primary and
+secondary occurrences is hard to avoid in language; but it
+
+does no harm if we are on our guard against it. In symbolic
+logic it is of course easily avoided.
+33
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:00:07 UTC
+All use subject to https://about.jstor.org/terms
+
+490 BERTRAND -RUSSELL:
+
+The distinction of primary and secondary occurrences also
+enables us to deal with the question whether the present
+King of France is bald or not bald, and generally with the
+logical status of denoting phrases that denote nothing. If
+"C" is a denoting phrase, say " the term having the property F," then
+" C has the property b" means "one and only one term
+has the property F, and that one has the property b".6
+If now the property F belongs to no terms, or to several, it
+follows that " C has the property sb" is false for all values
+of '. Thus " the present King of France is bald " is certainly
+false; and " the present King of France is not bald" is false
+if it means
+"There is an entity which is now King of France and is not
+bald,
+but is true if it means
+"It is false that there is an entity which is now King of
+France and is bald ".
+That is, "the King of France is not bald " is false if the
+occurrence of " the King of France " is primary, and true if
+it is secondary. Thus all propositions in which " the King of
+France" has a primary occurrence are false; the denials of
+such propositions are true, but in them " the King of France "
+has a secondary occurrence. Thus we escape the conclusion
+that the King of France has a wig.
+We can now see also how to deny that there is such an
+object as the difference between A and B in the case when A
+and B do not differ. If A and B do differ, there is one and
+only one entity x such that " x is the difference between A and
+B " is a true proposition; if A and B do not differ, there is
+no such entity x. Thus according to the meaning of denotation lately explained, " the difference between A and B " has
+a denotation when A and B differ, but not otherwise. This
+difference applies to true and false propositions generally. If
+"'a R b " stands for " a has the relation R to b," then when
+aR b is true, there is such an entity as the relation R between
+a and b; when a R b is false, there is no such entity. Thus
+
+out of any7 proposition we can make a denoting phrase, which
+
+denotes an entity if the proposition is true, but does not denote an entity if the proposition is false. E.g., it is true (at
+least we will suppose so) that the earth revolves round the
+sun, and false that the sun revolves round the earth; hence
+"the revolution of the earth round the sun" denotes an
+I This is the abbreviated, not the stricter, interpretation.
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:00:07 UTC
+All use subject to https://about.jstor.org/terms
+
+ON DENOTING. 491
+
+entity, while " the revolution of the sun round the earth"
+does not denote an entity.'
+
+The whole realm of non-entities, such as " the round
+square," "the even prime other than 2," " Apollo," " Hamlet," etc., can now be satisfactorily dealt with. All these are
+
+denoting phrases which do not denote anything. A pro-
+
+position about Apollo means what we get by substituting
+what the classical dictionary tells us is meant by Apollo,
+say " the sun-god ". All propositions in which Apollo occurs
+are to be interpreted by the above rules for denoting phrases.
+If " Apollo " has a primary occurrence, the proposition containing the occurrence is false; if the occurrence is secondary,
+
+the proposition may be true. So again " the round square is
+
+round " means " there is one and only one entity x which is
+round and square, and that entity is round," which is a
+false proposition, not, as Meinong maintains, a true one.
+
+" The most perfect Being has all perfections; existence is
+
+a perfection; therefore the most perfect Being exists" becomes:
+
+" There is one and only one entity x which is most perfect;
+
+that one has all perfections; existence is a perfection; there-
+
+fore that one exists". As a proof, this fails for want of a
+proof of the premiss "there is one and only one entity x
+which is most perfect "'.2
+Mr. MacColl (MIND, N.S., No. 54, and again No. 55, p. 401)
+regards individuals as of two sorts, real and unreal; hence
+he defines the null-class as the class consisting of all unreal
+individuals. This assumes that such phrases as " the
+
+present King of France," which do not denote a real in-
+
+dividual, do, nevertheless, denote an individual, but an unreal one. This is essentially Meinong's theory, which we
+have seen reason to reject because it conflicts with the law
+of contradiction. With our theory of denoting, we are able
+to hold that there are no unreal individuals; so that the
+null-class is the class containing no members, not the class
+containing as members all unreal individuals.
+It is important to observe the effect of our theory on the
+
+interpretation of definitions which proceed by means of de1 The propositions fromh which such entities are derived are not identical either with these entities or with the propositions that these entities
+have being.
+
+2The argument can be made to prove validly that all members of the
+class of most perfect Beings exist; it can also be proved formally that
+this class cannot have more than one member; but, taking the definition
+of perfection as possession of all positive predicates, it can be proved
+almost equally formally that the class does not have even one member.
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:00:07 UTC
+All use subject to https://about.jstor.org/terms
+
+492 BERTRAND RUSSELL:
+
+noting phrases. Most mathematical definitions are of this
+sort: for example, " n-n means the number which, added to
+n, gives n ". Thus n - n is defined as meaning the same as
+a certain 'denoting phrase; but we agreed that denoting
+phrases have no meaning in isolation. Thus what the definition really ought to be is: " Any proposition containing rn-n
+is to mean the proposition which results from substituting
+for 'rm-n' 'the number which, added to n, gives rn' ". The
+resulting proposition is interpreted according to the rules
+already given for interpreting propositions whose verbal expression contains a denoting phrase. In the case where m
+and n are such that there is one and only one number x
+which, added to n, gives rn, there is a number x which can
+be substituted for n - n in any proposition containing m - n
+without altering the truth or falsehood of the proposition.
+
+But in other cases, all propositions in which "in - n" has a
+
+primary occurrence are false.
+
+The usefulness of identity is explained by the above theory.
+No one outside a logic-book ever wishes' to say "x is x," and
+yet assertions of identity are often made in such forms as
+" Scott was the author of Waverley " or " thou art the man ".
+The meaning of such propositions cannot be stated without
+the notion of identity, although they are not simply statements that Scott is identical with another term, the author
+of Waverley, or that thou art identical with another term,
+the man. The shortest statement of " Scott is the author
+of Waverley" seems to be: "Scott, wrote Waverley; and it
+is always true of y that if y wrote Waverley, y is identical with
+
+Scott ". It is in this way that identity enters into " Scott is
+the author of Waverley"; and it is owing to such uses that
+
+identity is worth affirming.
+
+One interesting result of the above theory of denoting is
+this: when there is anything with which we do not have
+immediate acquaintance, but only definition by denoting
+phrases, then the propositions in which this thing is introduced by means of a denoting phrase do not really contain
+this thing as a constituent, but contain instead the constituents expressed by the several words of the denoting phrase.
+Thus in every proposition that we can apprehend (i.e. not
+only in those whose truth or falsehood we can judge of, but
+in all that we can think about), all the constituents are really
+entities with which we have immediate acquaintance. Now
+such things as matter (in the sense in which matter occurs
+in physics) and the minds of other people are known to us
+only by denoting phrases, i.e., we are not acquainted with
+them, but we know them as what has such and such proper-
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:00:07 UTC
+All use subject to https://about.jstor.org/terms
+
+ON DENOTING. 493
+
+ties. Hence, although we can form propositional functions
+C (x) which must hold of such and such a material particle,
+or of So-and-so's mind, yet we are not acquainted with the
+propositions which affirm these things that we know must
+be true, because we cannot apprehend the aetual entities
+concerned. What we know is " So-and-so has a mind which
+has such and such properties " but we do not know " A has
+such and such properties," where A is the mind in question.
+In such a case, we know the properties of a thing without
+having acquaintance with the thing itself, and without, consequently, knowing any single proposition of which the thing
+itself is a constituent.
+Of the many other consequences of the view I have been
+advocating, I will say nothing. I will only beg the reader
+not to make up his mind against the view-as he might be
+tempted to do, on account of its apparently excessive complication-until he has attempted to construct a theory of
+his own on the subject of denotation. This attempt, I believe, will convince him that, whatever the true theory may
+
+be, it cannot have such a simplicity as one might have expected beforehand.
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:00:07 UTC
+All use subject to https://about.jstor.org/terms
+
+

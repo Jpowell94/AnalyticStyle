@@ -1,0 +1,840 @@
+Journal of Philosophy, Inc.
+
+The Function of General Laws in History
+Author(s): Carl G. Hempel
+Source: The Journal of Philosophy, Vol. 39, No. 2 (Jan. 15, 1942), pp. 35-48
+Published by: Journal of Philosophy, Inc.
+Stable URL: https://www.jstor.org/stable/2017635
+Accessed: 11-04-2019 12:13 UTC
+REFERENCES
+Linked references are available on JSTOR for this article:
+https://www.jstor.org/stable/2017635?seq=1&cid=pdf-reference#references_tab_contents
+You may need to log in to JSTOR to access the linked references.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Journal of Philosophy, Inc. is collaborating with JSTOR to digitize, preserve and extend
+access to The Journal of Philosophy
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:13:59 UTC
+All use subject to https://about.jstor.org/terms
+
+FUNCTION OF GENERAL LAWS IN HISTORY 35
+
+vestigation might lead us. It is, however, pertinent to say that
+much more in the way of positive results has already been attained
+than is indicated anywhere in this article.
+JOHN DEWEY.
+COLUMBIA UNIVERSITY.
+
+THE FUNCTION OF GENERAL LAWS IN HISTORY
+1. It is a rather widely held opinion that history, in contra-
+
+distinction to the so-called physical sciences, is concerned with the
+description of particular events of the past rather than with the
+search for general laws which might govern those events. As a
+characterization of the type of problem in which some historians
+are mainly interested, this view probably can not be denied; as a
+
+statement of the theoretical function of general laws in scientific
+historical research, it is certainly unacceptable. The following con-
+
+siderations are an attempt to substantiate this point by showing in
+some detail that general laws have quite analogous functions in
+history and in the natural sciences, that they form an indispensable
+
+instrument of historical research, and that they even constitute the
+common basis of various procedures which are often considered as
+characteristic of the social in contradistinction to the natural
+sciences.
+
+By a general law, we shall here understand a statement of universal conditional form which is capable of being confirmed or
+
+disconfirmed by suitable empirical findings. The term "law" suggests the idea that the statement in question is actually well con-
+
+firmed by the relevant evidence available; as this qualification is,
+in many cases, irrelevant for our purpose, we shall frequently use
+
+the term "hypothesis of universal form " or briefly "universal
+
+hypothesis" instead of "general law," and state the condition of
+satisfactory confirmation separately, if necessary. In the context
+
+of this paper, a universal hypothesis may be assumed to assert a
+regularity of the following type: In every case where an event of
+
+a specified kind C occurs at a certain place and time, an event of a
+
+specified kind E will occur at a place and time which is related in
+a specified manner to the place and time of the occurrence of the
+first event. (The symbols "C" and "E" have been chosen to sug-
+
+gest the terms "cause" and "effect," which are often, though by
+no means always, applied to events related by a law of the above
+kind.)
+
+2.1 The main function of general laws in the natural sciences is
+to connect events in patterns which are usually referred to as explanation and prediction.
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:13:59 UTC
+All use subject to https://about.jstor.org/terms
+
+36 THE JOURNAL OF PHILOSOPHY
+The explanation of the occurrence of an event of some specific
+kind E at a certain place and time consists, as it is usually expressed,
+in indicating the causes or determining factors of E. Now the as-
+
+sertion that a set of events-say, of the kinds C1, C., . . ., C.have caused the event to be explained, amounts to the statement
+
+that, according to certain general laws, a set of events of the kinds
+rmentioned is regularly accompanied by an event of kind E. Thus,
+the scientific explanation of the event in question consists of
+(1) a set of statements asserting the occurrence of certain events
+
+C1, . . . C, at certain times and places,
+(2) a set of universal hypotheses, such that
+(a) the statements of both groups are reasonably well confirmed by empirical evidence,
+
+(b) from the two groups of statements the sentence asserting
+the occurrence of event E can be logically deduced.
+In a physical explanation, group (1) would describe the initial
+
+and boundary conditions for the occurrence of the final event;
+generally, we shall say that group (1) states the determining con-
+
+ditions for the event to be explained, while group (2) contains the
+general laws on which the explanation is based; they imply the
+
+statement that whenever events of the kind described in the first
+group occur, an event of the kind to be explained will take place.
+Illustration: Let the event to be explained consist in the cracking of an
+automobile radiator during a cold night. The sentences of group (1) may
+state the following initial and boundary conditions: The car was left in the
+
+street all night. Its radiator, which consists of iron, was completely filled
+with water, and the lid was screwed on tightly. The temperature during the
+
+night dropped from 390 F. in the evening to 250 P. in the morning; the air
+pressure was normal. The bursting pressure of the radiator material is so
+and so much.-Group (2) would contain empirical laws such as the following:
+Below 32? F., under normal atmospheric pressure, water freezes. Below 39.2?
+F., the pressure of a mass of water increases with decreasing temperature, if
+
+the volume remains constant or decreases; when the water freezes, the pressure
+
+again increases. Finally, this group would have to include a quantitative law
+concerning the change of pressure of water as a function of its temperature
+and volume.
+
+From statements of these two kinds, the conclusion that the radiator
+cracked during the night can be deduced by logical reasoning; an explanation
+of the considered event has been established.
+
+2.2 It is important to bear in mind that the symbols "E," "C,"
+
+"tCe,'' "C2,y" etc., which were used above, stand for kinds or properties of events, not for what is sometimes called individual events.
+For the object of description and explanation in every branch of
+
+empirical science is always the occurrence of an event of a certain
+
+kind (such as a drop in temperature by 140 F., an eclipse of the
+moon, a cell-division, an earthquake, an increase in employment, a
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:13:59 UTC
+All use subject to https://about.jstor.org/terms
+
+FUNCTION OF GENERAL LAWS IN HISTORY 37
+
+political assassination) at a given place and time, or in a given
+empirical object (such as the radiator of a certain car, the planetary
+system, a specified historical personality, etc.) at a certain time.
+What is sometimes called the complete description of an indi-
+
+vidual event (such as the earthquake of San Francisco in 1906 or
+the assassination of Julius Caesar) would require a statement of
+all the properties exhibited by the spatial region or the individual
+
+object involved, for the period of time occupied by the event in
+
+question. Such a task can never be completely accomplished.
+A fortiori, it is impossible to explain an individual event in the
+sense of accounting for all its characteristics by means of universal
+hypotheses, although the explanation of what happened at a speci-
+
+fied place and time may gradually be made more and more specific
+and comprehensive.
+
+But there is no difference, in this respect, between history and
+
+the natural sciences: both can give an account of their subjectmatter only in terms of general concepts, and history can "grasp
+
+the unique individuality" of its objects of study no more and no
+less than can physics or chemistry.
+3. The following points result more or less directly from the
+
+above study of scientific explanation and are of special importance
+for the questions here to be discussed.
+
+3.1 A set of events can be said to have caused the event to be
+
+explained only if general laws can be inidicated which connect
+"(auses" and "effect" in the manner characterized above.
+3.2 No matter whether the cause-effect terminology is used or
+
+not, a scientific explanation has been achieved only if empirical laws
+of the kind mentioned under (2) in 2.1 have been applied.1
+3.3 The use of universal empirical hypotheses as explanatory
+
+principles distinguishes genuine from pseudo-explanation, such as,
+say, the attempt to account for certain features of organic behavior
+by reference to an entelechy, for whose functioning no laws are offered, or the explanation of the achievements of a given person in
+terms of his "mission in history," his "predestined fate," or simi1 Maurice Mandelbaum, in his generally very clarifying analysis of relevance and causation in history (The Problem of Historical Knowledge, New
+York, 1938, Chs. 7, 8) seems to hold that there is a difference between the
+
+'causal analysis ' or ' causal explanation ' of an event and the establishment of scientific laws governing it in the sense stated above. He argues
+
+that "scientific laws can only be formulated on the basis of causal analysis,"
+but that "they are not substitutes for full causal explanations" (l.c., p. 238).
+For the reasons outlined above, this distinction does not appear to be justified:
+
+every "'causal explanation"I is an ''explanation by scientific laws" ; for in
+no other way than by reference to empirical laws can the assertion of a causal
+
+connection between certain events be scientifically substantiated.
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:13:59 UTC
+All use subject to https://about.jstor.org/terms
+
+38 THE JOURNAL OF PHILOSOPHY
+lar notions. Accounts of this type are based on metaphors rather
+than laws; they convey pictorial and emotional appeals instead of
+insight into factual connections; they substitute vague analogies and
+intuitive "plausibility" for deduction from testable statements and
+are therefore unacceptable as scientific explanations.
+
+Any explanation of scientific character is amenable to objective
+checks; these include
+
+(a) an empirical test of the sentences which state the determining conditions;
+
+(b) an empirical test of the universal hypotheses on which the
+explanation rests;
+
+(c) an investigation of whether the explanation is logically conclusive in the sense that the sentence describing the event to
+be explained follows from the statements of groups (1) and
+
+(2).
+4. The function of general laws in scientific prediction can now
+be stated very briefly. Quite generally, prediction in empirical
+science consists in deriving a statement about a certain future
+
+event (for example, the relative position of the planets to the sun,
+at a future date) from (1) statements describing certain known
+(past or present) conditions (for example, the positions and mo-
+
+menta of the planets at a past or present moment), and (2) suitable
+general laws (for example, the laws of celestial mechanics). Thus,
+the logical structure of a scientific prediction is the same as that of
+
+a scientific explanation, which has been described in 2.1. In particular, prediction no less than explanation throughout empirical
+science involves reference to universal empirical hypotheses.
+
+The customary distinction between explanation and prediction
+rests mainly on a pragmatical difference between the two: While
+in the case of an explanation, the final event is known to have hap-
+
+pened, and its determining conditions have to be sought, the situa-
+
+tion is reversed in the case of a prediction: here, the initial conditions are given, and their "effect" -which, in the typical case, has
+not yet taken place-is to be determined.
+In view of the structural equality of explanation and prediction,
+it may be said that an explanation as characterized in 2.1 is not
+complete unless it might as well have functioned as a prediction:
+
+If the final event can be derived from the initial conditions and
+universal hypotheses stated in the explanation, then it might as well
+
+have been predicted, before it actually happened, on the basis of
+a knowledge of the initial conditions and the general laws. Thus,
+e.g., those initial conditions and general laws which the astronomer
+
+would adduce in explanation of a certain eclipse of the sun are
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:13:59 UTC
+All use subject to https://about.jstor.org/terms
+
+FUNCTION OF GENERAL LAWS IN HISTORY 39
+such that they might also have served as a sufficient basis for a
+forecast of the eclipse before it took place.
+
+However, only rarely, if ever, are explanations stated so completely as to exhibit this predictive character (which the test referred to under (c) in 3.3 would serve to reveal). Quite com-
+
+monly, the explanation offered for the occurrence of an event is
+incomplete. Thus, we may hear the explanation that a barn burnt
+down "because" a burning cigarette was dropped in the hay, or
+that a certain political movement has spectacular success "because"
+it takes advantage of widespread racial prejudices. Similarly, in
+
+the case of the broken radiator, the customary way of formulating
+an explanation would be restricted to pointing out that the car was
+left in the cold, and the radiator was filled with water.-In explanatory statements like these, the general laws which confer upon
+
+the stated conditions the character of "causes" or "determining
+factors" are completely omitted (sometimes, perhaps, as a "matter
+
+of course"), and, furthermore, the enumeration of the determining
+conditions of group (1) is incomplete; this is illustrated by the
+
+preceding examples, but even by the earlier analysis of the brokenradiator case: as a closer examination would reveal, even that much
+
+more detailed statement of determining conditions and universal
+hypotheses would require amplification in order to serve as a sufficient basis for the deduction of the conclusion that the radiator
+broke during the night.
+In some instances, the incompleteniess of a given explanation may
+be considered as inessential. Thus, e.g., we may feel that the ex-
+
+planation referred to in the last example could be made complete
+if we so desired; for we have reasons to assume that we know the
+
+kind of determining conditions and of general laws which are relevant in this context.
+
+Very frequently, however, we encounter "explanations" whose
+incompleteness can not simply be dismissed as inessential. The
+methodological consequences of this situation will be discussed later
+(especially in 5.3 and 5.4).
+
+5.1 The preceding considerations apply to explanation in history
+as well as in any other branch of empirical science. Historical explanation, too, aims at showing that the event in question was not
+"a matter of chance," but was to be expected in view of certain
+
+antecedent or simultaneous conditions. The expectation referred
+
+to is not prophecy or divination, but rational scientific anticipation
+which rests on the assumption of general laws.
+If this view is correct, it would seem strange that while most
+
+historians do suggest explanations of historical evenits, many of
+them deny the possibility of resorting to any general laws in history.
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:13:59 UTC
+All use subject to https://about.jstor.org/terms
+
+40 THE JOURNAL OF PHILOSOPHY
+
+It is, however, possible to account for this situation by a closer
+study of explanation in history, as may become clear in the course
+of the following analysis.
+
+5.2 In some cases, the uniiversal hypotheses underlying a historical explanation are rather explicitly stated, as is illustrated by
+the italicized passages in the following attempt to explain the
+tendency of government agencies to perpetuate themselves and to
+expand (italics the author's):
+As the activities of the government are enlarged, more people develop a
+vested interest in the continuation and expansion of governmental functiolls.
+People who have jobs do not like to lose them; those who are habituated to
+certain skills do not welcome change; those who have become accustomaed to
+the exercise of a certain kind of power do not like to relinquish their control-
+
+if anything, they want to develop greater power and correspondingly greater
+prestige.
+
+Thus, government offices and bureaus, once created, in turn institute drives,
+not only to fortify themselves against assault, but to enlarge the scope of their
+operations.2
+
+Most explanations offered in history or sociology, however, fail
+to include an explicit statement of the general regularities they
+presuppose; and there seem to be at least two reasons which account
+for this:
+
+First, the universal hypotheses in question frequently relate to
+individual or social psychology, which somehow is supposed to be
+familiar to everybody through his everyday experience; thus, they
+are tacitly taken for granted. This is a situation quite similar to
+that characterized in 4.
+
+Second, it would often be very difficult to formulate the under-
+
+lying assumptions explicitly with sufficient precision and at the
+same time in such a way that they are in agreement with all the
+relevant empirical evidence available. It is highly instructive, in
+examining the adequacy of a suggested explanation, to attempt a
+reconstruction of the universal hypotheses on which it rests. Particularly, such terms as "hence, "therefore," "consequently,"
+"because," "naturally," "obviously," etc., are often indicative of
+the tacit presupposition of some general law: they are used to tie
+up the initial conditions with the event to be explained; but that
+the latter was "naturally " to be expected as "a consequence " of
+the stated conditions follows only if suitable general laws are presupposed. Consider, for example, the statement that the Dust
+Bowl farmers migrate to California "because" continual drought
+and sandstorms render their existence increasingly precarious,
+895.
+
+2 Donald W. McConnell, Economic Behavior; New York, 1939; pp. 89
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:13:59 UTC
+All use subject to https://about.jstor.org/terms
+
+FUNCTION OF GENERAL LAWS IN HISTORY 41
+
+and because California seems to them to offer so much better living conditions. This explanation rests on some such universal
+hypothesis as that populations will tend to migrate to regions which
+
+offer better living conditions. But it would obviously be difficult
+accurately to state this hypothesis in the form of a general law
+
+which is reasonably well confirmed by all the relevant evidence
+available. Similarly, if a particular revolution is explained by
+reference to the growing discontent, on the part of a large part of
+
+the population, with certain prevailing conditions, it is clear that
+a general regularity is assumed in this explanation, but we are
+hardly in a position to state just what extent and what specific
+
+form the discontenit has to assume, and what the environmental
+conditions have to be, to bring about a revolution. Analogous remarks apply to all historical explanations in terms of class struggle, economic or geographic conditions, vested interests of certain
+groups, tendency to conspicuous consumption, etc.: All of them rest
+
+on the assumption of universal hypotheses 3 which connect certain
+characteristics of individual or group life with others; but in many
+
+cases, the content of the hypotheses which are tacitly assumed in a
+given explanation can be reconstructed only quite approximately.
+
+5.3 It might be argued that the phenomena covered by the type
+
+of explanation just mentioned are of a statistical character, and
+that therefore only probability hypotheses need to be assumed in
+
+their explanation, so that the question as to the "underlying gen-
+
+eral laws" would be based oln a false premise. And indeed, it
+seems possible and justifiable to construe certain explanations
+
+offered in history as based on the assumptioln of probability hypotheses rather than of general "deterministic" laws, i.e., laws in
+the form of universal conditionals. This claim may be extended
+
+to many of the explanations offered in other fields of empirical
+science as well. Thus, e.g., if Tommy comes down with the measles
+
+two weeks after his brother, alnd if he has not been in the company of other persons having the measles, we accept the explanation that he caught the disease from his brother. Now, there is a
+general hypothesis underlying this explanation; but it can hardly
+
+be said to be a general law to the effect that any person who has
+not had the measles before will get them without fail if he stays in
+the company of somebody else who has the measles; that a contagioni will occur can be asserted only with a high probability.
+3 What is sometimes, misleadingly, called an explanation by means of a
+certain concept is, in empirical science, actually an explanation in terms of
+
+universal hypotheses containing that concept. "Explanations" involving concepts which do not function in empirically testable hypotheses-such as
+"entelechy" in biology, "historic destination of a race" or "self-unfolding
+of absolute reason" in history-are mere metaphors without cognitive content.
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:13:59 UTC
+All use subject to https://about.jstor.org/terms
+
+42 THE JOURNAL OF PHILOSOPHY
+
+Many an explanation offered in history seems to admit of an
+analysis of this kind: if fully and explicitly formulated, it would
+
+state certain initial conditions, and certain probability hypotheses,4
+such that the occurrence of the event to be explained is made highly
+probable by the initial conditions in view of the probability hy-
+
+potheses. But no matter whether explanations in history be construed as "causal" or as "probabilistic" in character, it remains
+true that in general the initial conditions and especially the universal hypotheses involved are not clearly indicated, and can not
+
+unambiguously be supplemented. (In the case of probability
+hypotheses, for example, the probability values involved will at
+best be known quite roughly.)
+
+5.4 What the explanatory analyses of historical events offer is,
+then, in most cases not an explanation in one of the meanings developed above, but something that might be called an explanation
+
+sketch. Such a sketch consists of a more or less vague indication
+of the laws and initial conditions considered as relevant, and it
+needs "filling out" in order to turn into a full-fledged explanation. This filling-out requires further empirical research, for
+which the sketch suggests the direction. (Explanation sketches
+are common also outside of history; many explanations in psychoanalysis, for instance, illustrate this point.)
+
+Obviously, an explanation sketch does not admit of an empirical
+test to the same extent as does a complete explanation; and yet, there
+is a difference between a scientifically acceptable explanation sketch
+and a pseudo-explanation (or a pseudo-explanation sketch). A
+scientifically acceptable explanation sketch needs to be filled out
+by more specific statements; but it points into the direction where
+these statements are to be found; and concrete research may tend to
+confirm or to infirm those indications; i.e., it may show that the kind
+of initial conditions suggested are actually relevant; or it may
+reveal that factors of a quite different nature have to be taken into
+account in order to arrive at a satisfactory explanation.-The fillingout process required by an explanation sketch will, in general, assume the form of a gradually increasing precision of the formulations involved; but at any stage of this process, those formulations
+will have some empirical import: it will be possible to indicate, at
+least roughly, what kind of evidence would be relevant in testing
+4 E. Zilsel, in a very stimulating paper on ''Physics and the Problem of
+Historico-Sociological Laws " (Philosophy of Science, Vol. 8, 1941, pp. 567579), suggests that all specifically historical laws are of a statistical character similar to that of the " macro-laws " in physics. The above remarks,
+however, are inot restricted to specifically historical laws since explanation in
+history rests to a large extent on non-historical laws (cf. section 8 of this
+paper).
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:13:59 UTC
+All use subject to https://about.jstor.org/terms
+
+FUNCTION OF GENERAL LAWS IN HISTORY 43
+
+them, and what findings would tend to confirm them. In the case
+of non-empirical explanations or explanation sketches, on the other
+hand-say, by reference to the historical destination of a certain
+
+race, or to a principle of historical justice-the use of empirically
+
+meaningless terms makes it impossible even roughly to indicate the
+
+type of investigation that would have a bearing upon those formulations, and that might lead to evidence either confirming or infirming
+the suggested explanation.
+
+5.5 In trying to appraise the soundness of a given explanation,
+one will first have to attempt to reconstruct as completely as possible
+the argument constituting the explanation or the explanation sketch.
+In particular, it is important to realize what the underlying explaining hypotheses are, and to judge of their scope and empirical foun-
+
+dation. A resuscitation of the assumptions buried under the grave-
+
+stones "hence," therefore," because," and the like will often reveal that the explanation offered is poorly founded or downright
+unacceptable. In many cases, this procedure will bring to light the
+
+fallacy of claiming that a large number of details of an event have
+
+been explained when, even on a very liberal interpretation, only
+some broad characteristics of it have been accounted for. Thus, for
+example, the geographic or economic conditions under which a
+group lives may account for certain general features of, say, its
+art or its moral codes; but to grant this does not mean that the
+
+artistic achievements of the group or its system of morals has thus
+been explained in detail; for this would imply that from a description of the prevalent geographic or economic conditions alone, a
+detailed account of certain aspects of the cultural life of the group
+can be deduced by means of specifiable general laws.
+A related error consists in singling out one of several important
+groups of factors which would have to be stated in the initial con-
+
+ditions, and then claiming that the phenomenon in question is "de-
+
+termined" by and thus can be explained in terms of that one group
+of factors.
+
+Occasionally, the adherents of some particular school of explanation or interpretation in history will adduce, as evidence in
+favor of their approach, a successful historical prediction which was
+
+made by a representative of their school. But though the predictive
+success of a theory is certainly relevant evidence of its soundness,
+it is important to make sure that the successful prediction is in fact
+
+obtainable by means of the theory in question. It happens sometimes that the prediction is actually an ingenious guess which may
+have been influenced by the theoretical outlook of its author, but
+which can not be arrived at by means of his theory alone. Thus, an
+adherent of a quite metaphysical "theory" of history may have a
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:13:59 UTC
+All use subject to https://about.jstor.org/terms
+
+44 THE JOURNAL OF PHILOSOPHY
+sound feeling for historical developments and may be able to make
+
+correct predictions, which he will even couch in the terminology of
+his theory, though they could not have been attained by means of
+
+it. To guard against such pseudo-confirming cases would be one
+of the functions of test (c) in 3.3.
+
+6. We have tried to show that in history no less than in any
+
+other branch of empirical inquiry, scientific explanation can be
+achieved only by means of suitable general hypotheses, or by the-
+
+ories, which are bodies of systematically related hypotheses. This
+thesis is clearly in contrast with the familiar view that genuine
+explanation in history is obtained by a method which characteristically distinguishes the social from the natural sciences, namely,
+
+the method of empathetic understanding: The historian, we are
+
+told, imagines himself in the place of the persons involved in the
+events which he wants to explain; he tries to realize as completely
+as possible the circumstances under which they acted, and the mo-
+
+tives which influenced their actions; and by this imaginary selfidentification with his heroes, he arrives at an understanding and
+thus at an adequate explanation of the events with which he is
+concerned.
+
+This method of empathy is, no doubt, frequently applied by lay-
+
+men and by experts in history. But it does not in itself constitute
+
+an explanation; it rather is essentially a heuristic device; its function is to suggest certain psychological hypotheses which might
+serve as explanatory principles in the case under consideration.
+Stated in crude terms, the idea underlying this function is the following: The historian tries to realize how he himself would act
+under the given conditions, and under the particular motivations
+of his heroes; he tentatively generalizes his findings into a general
+rule and uses the latter as an explanatory principle in accounting
+for the actions of the persons involved. Now, this procedure may
+
+sometimes prove heuristically helpful; but its use does not guarantee
+
+the soundness of the historical explanation to which it leads. The
+latter rather depends upon the factual correctness of the empirical
+generalizations which the method of understanding may have suggested.
+Nor is the use of this method indispensable for historical ex-
+
+planation. A historian may, for example, be incapable of feeling
+himself into the role of a paranoiac historic personality, and yet he
+may well be able to explain certain of his actions; notably by reference to the principles of abnormal psychology. Thus, whether
+the historian is or is not in a position to identify himself with his
+historical hero, is irrelevant for the correctness of his explanation;
+what counts, is the soundness of the general hypotheses involved, no
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:13:59 UTC
+All use subject to https://about.jstor.org/terms
+
+FUNCTION OF GENERAL LAWS IN HISTORY 45
+
+matter whether they were suggested by empathy or by a strictly
+behavioristic procedure. Much of the appeal of the "method of
+understanding" seems to be due to the fact that it tends to present
+the phenomena in question as somehow "plausible" or "natural"
+to us; 5 this is often done by means of attractively worded metaphors. But the kind of "understanding" thus conveyed must
+
+clearly be separated from scientific understanding. In history as
+anywhere else in empirical science, the explanation of a phenomenon
+
+consists in subsuming it under general empirical laws; and the
+
+criterion of its soundness is not whether it appeals to our imagination, whether it is presented in suggestive analogies, or is otherwise
+made to appear plausible-all this may occur in pseudo-explanations
+as well-but exclusively whether it rests on empirically well confirmed assumptions concerning initial conditions and general laws.
+7.1 So far, we have discussed the importance of general laws for
+
+explanation and prediction, and for so-called understanding in his-
+
+tory. Let us now survey more briefly some other procedures of
+historical research which involve the assumption of universal
+hypotheses.
+
+Closely related to explanation and understandinig is the socalled interpretation of historical phenomena in terms of some particular approach or theory. The interpretations which are actually
+
+offered in history consist either in subsuming the phenomena in
+question under a scientific explanation or explanation sketch; or
+in an attempt to subsume them under some general idea which is
+not amenable to any empirical test. In the former case, interpreta-
+
+tion clearly is explanation by means of universal hypotheses; in the
+latter, it amounts to a pseudo-explanation which may have emotive
+
+appeal and evoke vivid pictorial associations, but which does not
+further our theoretical understanding of the phenomena under
+consideration.
+
+7.2 Analogous remarks apply to the procedure of aseertaining,
+the "meaning" of given historical events; its scientific import consists in determining what other events are relevantly connected
+
+with the event in question, be it as "causes," or as "effects"; and
+the statement of the relevant connections assumes, again, the form
+of explanations or explanation sketches which involve universal
+hypotheses; this will be seen more clearly in the subsequent section.
+
+7.3 In the historical explanation of some social institutions great
+emphasis is laid upon an analysis of the development of the institu-
+
+tion up to the stage under consideration. Critics of this approach
+5 For a criticism of this kind of plausibility, cf. Zilsel, I.c., pp. 577-578,
+
+and sections 7 and 8 in the same author 's "'Problems of Empiricism,'" in
+International Encyclopedia of Unified Science, Vol. II, 8.
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:13:59 UTC
+All use subject to https://about.jstor.org/terms
+
+46 THE JOURNAL OF PHILOSOPHY
+have objected that a mere description of this kind is not a genuine
+
+explanation. This argument may be given a slightly different
+aspect in terms of the preceding reflections: A description of the
+development of an institution is obviously not simply a statement
+
+of all the events which temporally preceded it; only those events
+are meant to be included which are "relevant" to the formation of
+that institution. And whether an event is relevant to that development is not a question of the value attitude of the historian, but an
+objective question depending upon what is sometimes called a causal
+analysis of the rise of that institution.6 Now, the causal analysis
+of an event consists in establishing an explanation for it, and since
+this requires reference to general hypotheses, so do assumptions
+
+about relevance, and, consequently, so does the adequate analysis of
+the historical development of an institution.
+
+7.4 Similarly, the use of the notions of determination and of
+
+dependence in the empirical sciences, including history, involves
+reference to general laws.7 Thus, e.g., we may say that the pressure of a gas depends upon its temperature and volume, or that tem-
+
+perature and volume determine the pressure, in virtue of Boyle's
+law. But unless the underlying laws are stated explicitly, the assertion of a relation of dependence or of determination between
+
+certain magnitudes or characteristics amounts at best to claiming
+that they are connected by some unspecified empirical law; and
+that is a very meager assertion indeed: If, for example, we know
+only that there is some empirical law connecting two metrical mag-
+
+nitudes (such as length and temperature of a metal bar), we can
+not even be sure that a change of one of the two will be accompanied
+
+by a change of the other (for the law may connect the same value
+of the "dependent" or "determined " magnitude with different
+values of the other), but only that with any specific value of one
+6 See the detailed and clear exposition of this point in M. Mandelbaum's
+book; l.c., Chs. 6-8.
+
+7 According to Mandelbaum, history, in contradistinction to the physical
+sciences, consists "not in the formulation of laws of which the particular case
+
+is an instance, but in the description of the events in their actual determining
+relationships to each other; in seeing events as the products and producers of
+change" (l.c., pp. 13-14). This is essentially a view whose untenability has
+
+been pointed out already by Hume; it is the belief that a careful examination
+of two specific events alone, without any reference to similar cases and to
+general regularities, can reveal that one of the events produces or determines
+the other. This thesis does not only run counter to the scientific meaning of
+
+the concept of determination which clearly rests on that of general law, but
+it even fails to provide any objective criteria which would be indicative of the
+
+intended relationship of determination or production. Thus, to speak of empirical determination independently of any reference to general laws means
+
+to use a metaphor without cognitive content.
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:13:59 UTC
+All use subject to https://about.jstor.org/terms
+
+FUNCTION OF GENERAL LAWS IN HISTORY 47
+of the variables, there will always be associated one and the same
+value of the other; and this is obviously much less than most authors
+
+mean to assert when they speak of determination or dependence in
+historical analysis.
+
+Therefore, the sweeping assertion that economic (or geographic,
+or any other kind of) conditions "determine" the development and
+
+change of all other aspects of human society, has explanatory value
+only in so far as it can be substantiated by explicit laws which state
+just what kind of change in human culture will regularly follow
+
+upon specific changes in the economic (geographic, etc.) conditions.
+Only the establishment of concrete laws can fill the general thesis
+
+with scientific content, make it amenable to empirical tests, and
+confer upon it an explanatory function. The elaboration of such
+laws with as much precision as possible seems clearly to be the
+
+direction in which progress in scientific explanation and understanding has to be sought.
+
+8. The considerations developed in this paper are entirely neu-
+
+tral with respect to the problem of "specifically historical laws":
+neither do they presuppose a particular way of distinguishing
+historical from sociological and other laws, nor do they imply or
+
+deny the assumption that empirical laws can be found which are
+historical in some specific sense, and which are well confirmed by
+empirical evidence.
+
+But it may be worth mentioning here that those universal hy-
+
+potheses to which historians explicitly or tacitly refer in offering
+explanations, predictions, interpretations, judgments of relevance,
+etc., are taken from variousg fields of scientific research, in so far
+
+as they are not pre-scientific generalizations of everyday experiences. Many of the universal hypotheses underlying historical explanation, for instance, would commonly be classified as psycho-
+
+logical, economical, sociological, and partly perhaps as historical
+laws; in addition, historical research has frequently to resort to
+
+general laws established in physics, chemistry, and biology. Thus,
+e.g., the explanation of the defeat of an army by reference to lack
+
+of food, adverse weather conditions, disease, and the like, is based
+on a-usually tacit-assumption of such laws. The use of tree
+
+rings in dating events in history rests on the applicatioll of certain
+biological regularities. Various methods of testing the authenticity of documents, paintings, coins, etc., make use of physical and
+chemical theories.
+
+The last two examples illustrate another poilnt which is relevant
+in this context: Even if a historian should propose to restrict his
+research to a "pure description" of the past, without any attempt
+
+at offering explanations, statements about relevance and determina-
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:13:59 UTC
+All use subject to https://about.jstor.org/terms
+
+48 THE JOURNAL OF PHILOSOPHY
+
+tion, etc., he would continually have to make use of general laws.
+For the object of his studies would be the past-forever inaccessible
+
+to his direct examination. He would have to establish his knowledge by indirect methods: by the use of universal hypotheses
+which connect his present data with those past events. This fact
+has been obscured partly because some of the regularities involved
+are so familiar that they are not considered worth mentioning at all;
+and partly because of the habit of relegating the various hypotheses and theories which are used to ascertain knowledge about past
+
+events, to the " auxiliary sciences" of history. Quite probably,
+some of the historians who tend to minimize, if not to deny, the
+importance of general laws for history, are actuated by the feeling
+
+that only " genuinely historical laws " would be of interest for
+history. But once it is realized that the discovery of historical
+laws (in some specified sense of this very vague notion) would not
+make history methodologically autonomous and independent of the
+
+other branches of scientific research, it would seem that the problem of the existence of historical laws ought to lose some of its
+weight.
+
+The remarks made in this section are but special illustrations
+of two broader principles of the theory of science: first, the separa-
+
+tion of "pure description" and "hypothetical generalization and
+theory-construction" in empirical science is unwarranted; in the
+
+building of scientific knowledge the two are inseparably linked.
+And, second, it is similarly unwarranted and futile to attempt the
+
+demarcation of sharp boundary lines between the different fields
+
+of scientific research, and an autonomous development of each of
+the fields. The necessity, in historical inquiry, to make extensive
+use of universal hypotheses of which at least the overwhelming majority come from fields of research traditionally distinguished
+
+from history is just one of the aspects of what may be called the
+methodological unity of empirical science.
+CARL G. HEMPEL.
+QUEENS COLLEGE,
+NEW YORK.
+
+BOOK REVIEW
+
+A Dialectic of Morals. Towards the Foundations of Political Philosophy. MORTIMER J. ADLER. Notre Dame, Indiana: The Re-
+
+view of Politics. 1941. x + 117 pp. $1.80.
+The author calls this volume a "distillation of actual arguments
+which President Hutchins and I have had with students in courses
+
+devoted to reading the great works in Ethics and Politics.'" There
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:13:59 UTC
+All use subject to https://about.jstor.org/terms
+
+

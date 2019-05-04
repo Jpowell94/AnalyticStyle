@@ -1,0 +1,1562 @@
+Jacques Derrida (1967)
+
+Of Grammatology
+Source: Of Grammatology, publ. John Hopkins University Press., 1974. Chapter
+Two, with one section deleted.
+
+2 Linguistics and Grammatology
+Writing is nothing but the representation of speech; it is bizarre that one gives
+more care to the determining of the image than to the object. - J.-J. Rousseau,
+Fragment inédit d'un essai sur les langues.
+The concept of writing should define the field of a science. But can it be
+determined
+
+by
+
+scholars
+
+outside
+
+of
+
+all
+
+the
+
+historico-metaphysical
+
+predeterminations that we have just situated so clinically? What can a science of
+writing begin to signify, if it is granted:
+1. that the very idea of science was born in a certain epoch of writing;
+2. that it was thought and formulated, as task, idea, project, in a language implying a
+certain kind of structurally and axiologically determined relationship between
+speech and writing;
+3. that, to that extent, it was first related to the concept and the adventure of phonetic
+writing, valorised as the telos of all writing, even though what was always the
+exemplary model of scientificity — mathematics — constantly moved away from
+that goal;
+4. that the strictest notion of a general science of writing was born, for nonfortuitous
+reasons, during a certain period of the world's history (beginning around the
+eighteenth century) and within a certain determined s stem of relationships
+between “living” speech and inscription;
+5. that writing is not only an auxiliary means in the service of science and possibly
+its object — but first, as Husserl in particular pointed out in The Origin of
+Geometry, the condition of the possibility of ideal objects and therefore of
+scientific objectivity. Before being its object, writing is the condition of the
+epistémè.
+6. that historicity itself is tied to the possibility of writing; to the possibility of
+writing in general, beyond those particular forms of writing in the name of which
+we have long spoken of peoples without writing and without history. Before being
+
+the object of a history — of an historical science — writing opens the field of
+history — of historical becoming. And the former (Historie in German)
+presupposes the latter (Geschichte).
+The science of writing should therefore look for its object at the roots of
+scientificity,. The history of writing should turn back toward the origin of
+historicity. , A science of the possibility of science? A science of science which
+would no longer have the form of logic but that of grammatics? A history of the
+possibility of history which would no longer be an archaeology, a philosophy of
+history or a history of philosophy?
+The positive and the classical sciences of writing are obliged to repress this sort
+of question. Up to a certain point, such repression is even necessary to the
+progress of positive investigation. Beside the fact that it would still be held within
+a philosophising logic, the ontophenomenological question of essence, that is to
+say of the origin of writing, could, by itself, only paralyse or sterilise the
+typological or historical research of facts.
+My intention, therefore, is not to weigh that prejudicial question, that dry,
+necessary, and somewhat facile question of right, against the power and efficacy
+of the positive researches which we may witness today. The genesis and system
+of scripts bad never led to such profound, extended, and assured explorations. It
+is not really a matter of weighing the question against the importance of the
+discovery; since the questions are imponderable, they cannot be weighed. If the
+issue is not quite that, it is perhaps because its repression has real
+consequences in the very content of the researches that, in the present case and
+in a privileged way, are always arranged around problems of definition and
+beginning.
+The grammatologist least of all can avoid questioning himself about the essence
+of his object in the form of a question of origin: “What is writing?” means “where
+and when does writing begin?” The responses generally come very quickly. They
+circulate within concepts that are seldom criticised and move within evidence
+which always seems self-evident. It is around these responses that a typology of
+and a perspective on the growth of writing are always organised. All works
+
+dealing with the history of writing are composed along the same lines: a
+philosophical and teleological classification exhausts the critical problems in a
+few pages; one passes next to an exposition of facts. We have a contrast
+between the theoretical fragility of the reconstructions and the historical,
+archaeological, ethnological, philosophical wealth of information.
+The question of the origin of writing and the question of the origin of language are
+difficult to separate. Grammatologists, who are generally by training historians,
+epigraphists, and archaeologists, seldom relate their researches to the modem
+science of language. It is all the more surprising that, among the “sciences of
+man,” linguistics is the one science whose scientificity is given as an example
+with a zealous and insistent unanimity.
+Has grammatology, then, the right to expect from linguistics an essential
+assistance that it has almost never looked for? On the contrary, does one not find
+efficaciously at work, in the very movement by which linguistics is instituted as a
+science, a metaphysical presupposition about the relationship between speech
+and writing? Would that presupposition not binder the constitution of a general
+science of writing? Is not the lifting of that presupposition an overthrowing of the
+landscape upon which the science of language is peacefully installed? For better
+and for worse? For blindness as well as for productivity? This is the second type
+of question that I now wish to outlines To develop this question, I should like to
+approach, as a privileged example, the project and texts of Ferdinand de
+Saussure. That the particularity of the example does not interfere with the
+generality of my argument is a point which I shall occasionally — try not merely
+to take for granted.
+Linguistics thus wishes to be the science of language. Let us set aside all the
+implicit decisions that have established such a project and all the questions about
+its own origin that the fecundity of this science allows to remain dormant. Let us
+first simply consider that the scientificity of that science is often acknowledged
+because of its phonological foundations. Phonology, it is often said today,
+communicates its scientificity to linguistics, which in turn serves as the
+
+epistemological model for all the sciences of man. Since the deliberate and
+systematic phonological orientation of linguistics (Troubetzkoy, Jakobson,
+Martinet) carries out an intention which was originally Saussure's, I shall, at least
+provisionally, confine my-self to the latter. Will my argument be equally applicable
+a fortiori to the most accentuated forms of phonologism? The problem at least be
+stated.
+The science of linguistics determines language — its field of objectivity — in the
+last instance and in the irreducible simplicity of its essence, as the unity of the
+
+phonè, the glossa, and the logos. This determination is by rights anterior to all
+the eventual differentiations that could arise within the systems of terminology of
+the
+
+different
+
+schools
+
+(language/speech
+
+[langue/parole];
+
+code/message;
+
+scheme/usage; linguistic/logic; phonology/phonematics/phonetics/glossematics).
+And even if one wished to keep sonority on the side of the sensible and
+contingent signifier which would be strictly speaking impossible, since formal
+identities isolated within a sensible mass are already idealities that are not purely
+sensible), it would have to be admitted that the immediate and privileged unity
+which founds significance and the acts of language is the articulated unity of
+sound and sense within the phonic. With regard to this unity, writing would
+always be derivative, accidental, particular, exterior, doubling the signifier:
+phonetic. “Sign of a sign,” said Aristotle, Rousseau, and Hegel.
+Yet, the intention that institutes general linguistics ,is a science remains in this
+respect within a contradiction. Its declared purpose indeed confirms, saying what
+goes without saying, the subordination of grammatology, the historicometaphysical reduction of writing to the rank of an instrument enslaved to a full
+and originarily spoken language. But another gesture (not another statement of
+purpose, for here what does not go without saying is done without being said,
+written without being uttered) liberates the future of a general grammatology of
+which linguistics-phonology would be only a dependent and circumscribed area.
+Let us follow this tension between gesture and statement in Saussure.
+
+The
+
+Outside
+
+and the Inside
+On the one hand, true to the Western tradition that controls not only in theory, but
+in practice (in the principle of its practice) the relationships between speech and
+writing, Saussure does not recognise in the latter more than a narrow and
+derivative function. Narrow because it is nothing but one modality among others,
+a modality of the events which can befall a language whose essence, as the
+facts seem to show, can remain forever uncontaminated by writing. “Language
+does have an oral tradition that is independent of writing” (Cours de linguistique
+
+générale). Derivative because representative signifier of the first signifier,
+representation of the self-present voice, of the immediate, natural, and direct
+signification of the meaning (of the signified, of the concept, of the ideal object or
+what have you). Saussure takes up the traditional definition of writing which,
+already in Plato and Aristotle, was restricted to the model of phonetic script and
+the language of words. Let us recall the Aristotelian definition: “Spoken words are
+the symbols of mental experience and written words are the symbols of spoken
+words.” Saussure: “Language and writing are two distinct systems of signs; the
+second exists for the sole purpose of representing the first”. This representative
+determination, beside communicating without a doubt essentially with the idea of
+the sign, does not translate a choice or an evaluation, does not betray a
+psychological or metaphysical presupposition peculiar to Saussure; it describes
+or rather reflects the structure of a certain type of writing: phonetic writing, which
+we use and within whose element the epistémè in general (science and
+philosophy), and linguistics in particular, could be founded. One should,
+moreover, say mode, rather than structure; it is not a question of a system
+constructed and functioning perfectly, but of an ideal explicitly directing a
+functioning which in fact is never completely phonetic. In fact, but also for
+reasons of essence to which I shall frequently return. To be sure this factum of
+phonetic writing is massive; it commands our entire culture and our entire
+science, and it is certainly not just one fact among others. Nevertheless it does
+
+not respond to any necessity of an absolute and universal essence. Using this as
+a point of departure, Saussure defines the project and object of general
+linguistics: “The linguistic object is not defined by the combination of the written
+word and the spoken word: the spoken form alone constitutes the object”.
+The form of the question to which he responded thus entailed the response. It
+was a matter of knowing what sort of word is the object of linguistics and what
+the relationships arc between the atomic unities that are the written and the
+spoken word. Now the word (vox) is already a unity of sense and sound, of
+concept and voice, or, to speak a more rigorously Saussurian language, of the
+signified and the signifier. This last terminology was moreover first proposed in
+the domain of spoken language alone, of linguistics in the narrow sense and not
+in the domain of semiology (“I propose to retain the word sign [signe] to
+designate the whole and to replace concept and sound-image respectively by
+signified [signifié] and signifier [signifiant]”). The word is thus already, a
+constituted unity, an effect of “the somewhat mysterious fact ... that 'thoughtsound' implies divisions”. Even if the word is in its turn articulated, even if it
+implies other divisions, as long as one poses the question of the relationships
+between speech and writing in the light of the indivisible units of the “thoughtsound,” there will always be the ready response. Writing will be “phonetic,” it will
+be the outside, the exterior representation of language and of this “thoughtsound.” It must necessarily operate from already constituted units of signification,
+in the formation of which it has played no part.
+Perhaps the objection will be made that writing up to the present has not on]y not
+contradicted, but indeed, confirmed the linguistics of the word. Hitherto I seem to
+have maintained that only the fascination of the unit called word has prevented
+giving to writing the attention that it merited. By that I seemed to suppose that, by
+ceasing to accord an absolute privilege to the word, modern linguistics would
+become that much more attentive to writing and would finally cease to regard it
+with suspicion. ...
+
+It is clear that the concepts of stability,, permanence, and duration, which here
+assist thinking the relationships between speech and writing, are too lax and
+open to every uncritical investiture. They would require more attentive and
+minute analyses. The same is applicable to an explanation according to which
+“most people pay more attention to visual impressions simply because these are
+sharper and more lasting than aural impressions. This explanation of “usurpation”
+is not only empirical in its form, it is problematic in its content, it refers to a
+metaphysics and to an old physiology, of sensory faculties constantly, disproved
+by science, as by the experience of language and by the body proper as
+language. It imprudently makes of visibility the tangible, simple, and essential
+element of writing. Above all, in considering the audible as the natural milieu
+within which language must naturally fragment and articulate its instituted signs,
+thus exercising its arbitrariness, this explanation excludes all possibility,, of some
+natural relationship between speech and writing at the, very moment that it
+affirms it. Instead of deliberately dismissing the notions of nature and institution
+that it constantly uses, which ought to be done first, it thus confuses the two. It
+finally and most importantly contradicts the principal affirmation according to
+which “the thing that constitutes language [l'essentiel de la langue] is . . .
+unrelated to the phonic character of the linguistic sign”. This affirmation will soon
+occupy us; within it the other side of the Saussurian proposition denouncing the
+“illusions of script” comes to the fore.
+What do these limits and presuppositions signify? First that a linguistics is not
+
+general as long as it defines its outside and inside in terms of determined
+linguistic models; as long as it does not rigorously distinguish essence from fact
+in their respective degrees of generality. The system of writing in general is not
+exterior to the system of language in general, unless it is granted that the division
+between exterior and interior passes through the interior of the interior or the
+exterior of the exterior, to the point where the immanence of language is
+essentially exposed to the intervention of forces that are apparently alien to its
+system. For the same reason, writing in general is not “image” or “figuration” of
+
+language in general, except if the nature, the logic, and the functioning of the
+image within the system from which one wishes to exclude it be reconsidered.
+Writing is not a sign of a sign, except if one says it of all signs, which would be
+more profoundly true. If every sign refers to a sign, and if “sign of a sign” signifies
+writing, certain conclusions — which I shall consider at the appropriate moment
+will become inevitable. What Saussure saw without seeing, knew without being
+
+able to take into account, following in that the entire metaphysical tradition, is that
+a certain model of writing was necessarily but provisionally imposed (but for the
+inaccuracy in principle, insufficiency of fact, and the permanent usurpation) as
+instrument and technique of representation of a system of language. And that
+this movement, unique in style, was so profound that it permitted the thinking,
+within language, of concepts like those of the sign, technique, representation,
+language. The system of language associated with phonetic-alphabetic writing is
+that within which logocentric metaphysics, determining the sense of being as
+presence, has been produced. This logocentrism, this epoch of the full speech,
+has always placed in parenthesis, suspended, and suppressed for essential
+reasons, all free reflection on the origin and status of writing, all science of writing
+which was not technology and the history of a technique, itself leaning upon a
+mythology and a metaphor of a natural writing. It is this logocentrism which,
+limiting the internal system of language in general by a bad abstraction, prevents
+Saussure and the majority of his successors from determining fully and explicitly
+that which is called “the integral and concrete object of linguistics”
+But conversely, as I announced above, it is when he is not expressly dealing with
+writing, when he feels be has closed the parentheses on that subject, that
+Saussure opens the field of a general grammatology. Which would not only no
+longer be excluded from general linguistics, but would dominate it and contain it
+within itself. Then one realises that what was chased off limits, the wandering
+outcast of linguistics, has indeed never ceased to haunt language as its primary
+and most intimate possibility. Then something which was never spoken and
+which is nothing other than writing itself as the origin of language writes itself
+
+within Saussure's discourse. Then we glimpse the germ of a profound but indirect
+explanation of the usurpation and the traps condemned in Chapter VI. This
+explanation will overthrow even the form of the question to which it was a
+premature reply.
+
+The
+
+Outside
+
+Is
+
+the Inside
+The thesis of the arbitrariness of the sign (so grossly misnamed, and not only for
+the reasons Saussure himself recognises) must forbid a radical distinction
+between the linguistic and the graphic sign. No doubt this thesis concerns only
+the necessity of relationships between specific signifiers and signifieds within an
+allegedly natural relationship between the voice and sense in general, between
+the order of phonic signifiers and the content of the signifieds (“the only natural
+bond, the only true bond, the bond of sound”). Only these relationships between
+specific signifiers and signifieds would be regulated by arbitrariness. Within the
+“natural” relationship between phonic signifiers and their signifieds in general, the
+relationship between each determined signifier and its determined signified would
+be “arbitrary”.
+Now from the moment that one considers the totality of determined signs,
+spoken, and a fortiori written, as unmotivated institutions, one must exclude any
+relationship of natural subordination, any natural hierarchy among signifiers or
+orders of signifiers. If “writing” signifies inscription and especially the durable
+institution of a sign (and that is the only irreducible kernel of the concept of
+writing), writing in general covers the entire field of linguistic signs. In that field a
+certain sort of instituted signifiers may then appear, “graphic” in the narrow and
+derivative sense of the word, ordered by a certain relationship with other
+instituted — hence “written,” even if they are “phonic” — signifiers. The very idea
+of institution — hence of the arbitrariness of the sign — is unthinkable before the
+possibility of writing and outside of its horizon. Quite simply, that is, outside of the
+horizon itself, outside the world as space of inscription, as the opening to the
+
+emission and to the spatial distribution of signs, to the regulated play of their
+differences, even if they are “phonic.”
+Let us now persist in using this opposition of nature and institution, of physis and
+
+nomos (which also means, of course, a distribution and division regulated in fact
+by law) which a meditation on writing should disturb although it functions
+everywhere as self-evident, particularly in the discourse of linguistics. We must
+then conclude that only the signs called natural, those that Hegel and Saussure
+call “symbols,” escape semiology as grammatology. But they fall a fortiori outside
+the field of linguistics as the region of general semiology. The thesis of the
+arbitrariness of the sign thus indirectly but irrevocably contests Saussure's
+declared proposition when he chases writing to the outer darkness of language.
+This thesis successfully accounts for a conventional relationship between the
+phoneme and the grapheme (in phonetic writing, between the phoneme, signifiersignified, and the grapheme, pure signifier), but by the same token it forbids that
+the latter be an “image” of the former. Now it was indispensable to the exclusion
+of writing as “external system,” that it come to impose an “image,” a
+“representation,” or a “figuration,” an exterior reflection of the reality of language.
+It matters little, here at least, that there is in fact an ideographic filiation of the
+alphabet. This important question is much debated by historians of writing. What
+matters here is that in the synchronic structure and systematic principle of
+alphabetic writing — and phonetic writing in general — no relationship of
+“natural” representation, none of resemblance or participation, no “symbolic”
+relationship in the Hegelian-Saussurian sense, no “iconographic” relationship in
+the Peircian sense, be implied.
+One must therefore challenge, in the very name of the arbitrariness of the sign,
+the Saussurian definition of writing as “image” — hence as natural symbol — of
+language. Not to mention the fact that the phoneme is the unimaginable itself,
+and no visibility can resemble it, it suffices to take into account what Saussure
+says about the difference between the symbol and the sign in order to be
+completely baffled as to how he can at the same time say of writing that it is an
+
+“Image” or “figuration” of language and define language and writing elsewhere as
+“two distinct systems of signs”. For the property of the sign is not to be an image.
+By a process exposed by Freud in The Interpretation of Dreams, Saussure thus
+accumulates contradictory arguments to bring about a satisfactory decision: the
+exclusion of writing. In fact, even within so-called phonetic writing, the “graphic”
+signifier refers to the phoneme through a web of many dimensions which binds it,
+like all signifiers, to other written and oral signifiers, within a “total” system open,
+let us say, to all possible investments of sense. We must begin with the
+possibility of that total system.
+Saussure was thus never able to think that writing was truly an “Image,” a
+“figuration,” a “representation” of the spoken language, a symbol. If one
+considers that be nonetheless needed these inadequate notions to decide upon
+the exteriority of writing, one must conclude that an entire stratum of his
+discourse, the intention of Chapter VI (“Graphic Representation of Language”),
+was not at all scientific. When I say this, my quarry is not primarily Ferdinand de
+Saussure's intention or motivation, but rather the entire uncritical tradition which
+he inherits. To what zone of discourse does this strange functioning of
+argumentation belong, this coherence of desire producing itself in a near-oneiric
+way — although it clarifies the dream rather than allow itself to be clarified by it
+— through a contradictory logic? How is this functioning articulated with the
+entirety of theoretical discourse, throughout the history of science? Better yet,
+bow does it work from within the concept of science itself? It is only when this
+question is elaborated if it is some day — when the concepts required by this
+functioning are defined outside of all psychology (as of all sciences of man),
+outside metaphysics (which can now be “Marxist” or “structuralist”); when one is
+able to respect all its levels of generality and articulation — it is only then that
+one will be able to state rigorously the problem of the articulated appurtenance of
+a text (theoretical or otherwise) to an entire set: I obviously treat the Saussurian
+text at the moment only as a telling example within a given situation, without
+professing to use the concepts required by the functioning of which I have just
+
+spoken. My justification would be as follows: this and some other indices (in a
+general way the treatment of the concept of writing) already give us the assured
+means of broaching the de-construction of the greatest totality — the concept of
+the epistémè and logocentric metaphysics — within which are produced, without
+ever posing the radical question of writing, all the Western methods of analysis,
+explication, reading, or interpretation.
+Now we must think that writing is at the same time more exterior to speech, not
+being its “image” or its “symbol,” and more interior to speech, which is already in
+itself a writing. Even before it is linked to incision, engraving, drawing, or the
+letter, to a signifier referring in general to a signifier signified by it, the concept of
+the graphic [unit of a possible graphic system] implies the framework of the
+
+instituted trace, as the possibility common to all systems of signification. My
+efforts will now be directed toward slowly detaching these two concepts from the
+classical discourse from which I necessarily borrow them. The effort will be
+laborious and we know a priori that its effectiveness will never be pure and
+absolute.
+The instituted trace is “unmotivated” but not capricious. Like the word “arbitrary”
+according to Saussure, it “should not imply that the choice of the signifier is left
+entirely to the speaker”. Simply, it has no “natural attachment” to the signified
+within reality. For us, the rupture of that “natural attachment” puts in question the
+idea of naturalness rather than that of attachment. That is why the word
+“institution” should not be too quickly interpreted within the classical system of
+oppositions.
+The instituted trace cannot be thought without thinking the retention of difference
+within a structure of reference where difference appears as such and thus
+permits a certain liberty of variations among the full terms. The absence of
+another here-and-now, of another transcendental present, of another origin of the
+world appearing as such, presenting itself as irreducible absence within the
+presence of the trace, is not a metaphysical formula substituted for a scientific
+concept of writing. This formula, beside the fact that it is the questioning of
+
+metaphysics itself, describes the structure implied by the “arbitrariness of the
+sign,” from the moment that one thinks of its possibility short of the derived
+opposition between nature and convention, symbol and sign, etc. These
+oppositions have meaning only after the possibility of the trace. The
+“unmotivatedness” of the sign requires a synthesis in which the completely other
+is announced as such without any simplicity, any identity, any resemblance or
+continuity — within what is not it. Is announced as such: there we have all
+history,
+
+from
+
+what
+
+metaphysics
+
+has
+
+defined
+
+as
+
+“non-living”
+
+up
+
+to
+
+“consciousness,” passing through all levels of animal organisation. The trace,
+where the relationship with the other is marked, articulates its possibility, in the
+entire field of the entity [étant], which metaphysics has defined as the beingpresent starting from the occulted movement of the trace. The trace must be
+thought before the entity. But the movement of the trace is necessarily occulted,
+it produces itself as self-occultation. When the other announces itself as such, it
+presents itself in the dissimulation of itself. This formulation is not theological, as
+one might believe somewhat hastily. The “theological” is a determined moment in
+the total movement of the trace. The field of the entity, before being determined
+as the field of presence, is structured according to the diverse possibilitiesgenetic and structural — of the trace. The presentation of the other as such, that
+is to say the dissimulation of its “as such,” has always already begun and no
+structure of the entity escapes it.
+That is why the movement of “unmotivatedness” passes from one structure to the
+other when the “sign” crosses the stage of the “symbol.” It is in a certain sense
+and according to a certain determined structure of the as such” that one is
+authorised to say that there is vet no immotivation in what Saussure calls
+“symbol” and which, according to him, does not at least provisionally — interest
+semiology. The general structure of the unmotivated trace connects within the
+same possibility, and they cannot be separated except by abstraction, the
+structure of the relationship with the other, the movement of temporalisation, and
+language as writing. Without referring back to a “nature,” the immotivation of the
+
+trace has always become. In fact, there is no unmotivated trace: the trace is
+indefinitely its own becoming-unmotivated. In Saussurian language, what
+Saussure does not say would have to be said: there is neither symbol nor sign
+but a becoming-sign of the symbol.
+Thus, as it goes without saving, the trace whereof I speak is not more natural (it
+is not the mark, the natural sign, or the index in the Husserlian sense) than
+cultural, not more physical than psychic, biological than spiritual. It is that starting
+from which a becoming-unmotivated of the sign, and with it all the ulterior
+oppositions between physis and its other, is possible.
+In his project of semiotics, Peirce seems to have been more attentive than
+Saussure to the irreducibility of this becoming-unmotivated. In his terminology,
+one must speak of a becoming-unmotivated of the symbol, the notion of the
+symbol playing here a role analogous to that of the sign which Saussure opposes
+precisely to the symbol:
+Symbols grow. They come into being by development out of other signs,
+particularly from icons, or from mixed signs partaking of the nature of icons and
+symbols. We think only in signs. These mental signs are of mixed nature; the
+symbol parts of them are called concepts. If a man makes a new symbol, it is by
+thoughts involving concepts. So it is only out of symbols that a new symbol can
+grow. Omne symbolum de symbolo. [Elements of Logic, Hartshorne and Weiss]
+Peirce complies with two apparently incompatible exigencies. The mistake here
+would be to sacrifice one for the other. It must be recognised that the symbolic (in
+Peirce's sense: of “the arbitrariness of the sign”) is rooted in the non-symbolic, in
+an anterior and related order of signification: “Symbols grow. They come into
+being by development out of other signs, particularly from icons, or from mixed
+signs.” But these roots must not compromise the structural originality of the field
+of symbols, the autonomy of a domain, a production, and a play: “So it is only out
+of symbols that a new symbol can grow. Omne symbolum de symbolo.”
+But in both cases, the genetic root-system refers from sign to sign. No ground of
+nonsignification — understood as insignificance or an intuition of a present truth
+
+— stretches out to give it foundation under the play and the coming into being of
+signs. Semiotics no longer depends on logic. Logic, according to Peirce, is only a
+semiotic: “Logic, in its general sense, is, as I believe I 'have shown, only another
+name for semiotics (semeiotike), the quasi-necessary, or formal, doctrine of
+signs.” And logic in the classical sense, logic “properly speaking,” nonformal logic
+commanded by the value of truth, occupies in that semiotics only a determined
+and not a fundamental level. As in Husserl (but the analogy, although it is most
+thought-provoking, would stop there and one must apply it carefully), the lowest
+level, the foundation of the possibility of logic (or semiotics) corresponds to the
+project of the Grammatica speculative of Thomas d'Erfurt, falsely attributed to
+Duns Scotus. Like Husserl, Peirce expressly refers to it. It is a matter of
+elaborating, in both cases, a formal doctrine of conditions which a discourse must
+satisfy, in order to have a sense, in order to “mean,” even if it is false or
+contradictory. The general morphology of that meaning (Bedeutung, vouloir-dire)
+is independent of all logic of truth.
+The science of semiotic has three branches. The first is called by Duns Scotus
+
+grammatica speculative. We may term it pure grammar. It has for its task to
+ascertain what must be true of the representamen used by every scientific
+intelligence in order that they may embody any meaning. The second is logic
+proper. It is the science of what is quasi-necessarily true of the representamina of
+any scientific intelligence in order that they may hold good of any object, that is,
+may be true. Or say, logic proper is the formal science of the conditions of the
+truth of representations, The third, in imitation of Kant's fashion of preserving old
+associations of words in finding nomenclature for new conceptions, I call pure
+
+rhetoric. Its task is to ascertain the laws by which in every scientific intelligence
+one sign gives birth to another, and especially one thought brings forth another.
+[Peirce]
+Peirce goes very far in the direction that I have called the de-construction of the
+transcendental signified, which, at one time or another, would place a reassuring
+end to the reference from sign to sign. I have identified logocentrism and the
+
+metaphysics of presence as the exigent, powerful, systematic, and irrepressible
+desire for such a signified. Now Peirce considers the indefiniteness of reference
+as the criterion that allows us to recognise that we are indeed dealing with a
+system of signs. What broaches the movement of signification is what makes its
+
+interruption impossible. The thing itself is a sign. An unacceptable proposition for
+Husserl, whose Phenomenology remains therefore — in its “principle of
+principles” — the most radical and most critical restoration of the metaphysics of
+presence. The difference between Husserl's and Peirce's phenomenologies is
+fundamental since it concerns the concept of the sign and of the manifestation of
+presence, the relationships between the re-presentation and the originary
+presentation of the thing itself (truth). On this point Peirce is undoubtedly closer
+to the inventor of the word phenomenology: Lambert proposed in fact to “reduce
+
+the theory of things to the theory of signs.” According to the “phaneoroscopy” or
+“Phenomenology” of Peirce, manifestation itself does not reveal a presence, it
+makes a sign. One may read in the Principle of Phenomenology that “the idea of
+
+manifestation is the idea of a sign.” There is thus no phenomenality reducing the
+sign or the representer so that the thing signified may be allowed to glow finally in
+the luminosity of its presence. The so-called “thing itself” is always already a
+representamen shielded from the simplicity of intuitive evidence. The
+representamen functions only by giving rise to an interpretant that itself becomes
+a sign and so on to infinity. The self-identity of the signified conceals itself
+unceasingly and is always on the move. The property of the representamen is to
+be itself and another, to be produced as a structure of reference, to be separated
+from itself. The property of the representamen is not to be proper [propre], that is
+to say absolutely proximate to itself (prope, proprius). The represented is always
+already a representamen. Definition of the sign:
+Anything which determines something else (its interpretant) to refer to an object
+to which itself refers (its object) in the same way, this interpretant becoming in
+turn a sign, and so on ad infinitum. . . . If the series of successive interpretants
+
+comes to an end, the sign is thereby rendered imperfect, at least. [Elements of
+
+Logic]
+From the moment that there is meaning there are nothing but signs. We think
+only in signs. Which amounts to ruining the notion of the sign at the very moment
+when, as in Nietzsche, its exigency is recognised in the absoluteness of its right.
+One could call play the absence of the transcendental signified as limitlessness
+of play, that is to say as the destruction of ontotheology and the metaphysics of
+presence. It is not surprising that the shock, shaping and undermining
+metaphysics since its origin, lets itself be named as such in the period when,
+refusing to bind linguistics to semantics (which all European linguists, from
+Saussure to Hjemslev, still do), expelling the problem of meaning outside of their
+researches, certain American linguists constantly refer to the model of a game.
+Here one must think of writing as a game within language. (The Phaedrus
+condemned writing precisely as play — paidia — and opposed such childishness
+to the adult gravity [spoudè] of speech), This play, thought as absence of the
+transcendental signified, is not a play in the world, as it has always been defined,
+for the purposes of containing it, by the philosophical tradition and as the
+theoreticians of play also consider it (or those who, following and going beyond
+Bloomfield, refer semantics to psychology or some other local discipline). To
+think play radically the ontological and transcendental problematics must first be
+seriously exhausted; the question of the meaning of being, the being of the entity
+and of the transcendental origin of the world — of the world-ness of the world —
+must be patiently and rigorously worked through, the critical movement of the
+Husserlian and Heideggerian questions must be effectively followed to the very
+end, and their effectiveness and legibility must be conserved. Even if it were
+crossed out, without it the concepts of play and writing to which I shall have
+recourse will remain caught within regional limits and an empiricist, positivist, or
+metaphysical discourse. The counter-move that the holders of such a discourse
+would oppose to the precritical tradition and to metaphysical speculation would
+be nothing but the worldly representation of their own operation. It is therefore
+
+the game of the world that must be first thought; before attempting to understand
+all the forms of play in the world.
+From the very opening of the game, then, we are within the becomingunmotivated of the symbol. With regard to this becoming, the opposition of
+diachronic and synchronic is also derived. It would not be able to command a
+grammatology pertinently. The immotivation of the trace ought now to be
+understood as an operation and not as a state, as an active movement, a
+demotivation, and not as a given structure. Science of “the arbitrariness of the
+sign,” science of the immotivation of the trace, science of writing before speech
+and in speech, grammatology would thus cover a vast field within which
+linguistics would, by abstraction, delineate its own area, with the limits that
+Saussure prescribes to its internal system and which must be carefully reexamined in each speech/writing system in the world and history.
+By a substitution which would be anything but verbal, one may replace semiology
+by grammatology in the program of the Course in General Linguistics:
+I shall call it [grammatology] .... Since the science does not yet exist, no one can
+say what it would be; but it has a right to existence, a place staked out in
+advance. Linguistics is only a part of [that] general science . . . ; the laws
+discovered by [grammatology] will be applicable to linguistics.
+The advantage of this substitution will not only be to give to the theory of writing
+the scope needed to counter logocentric repression and the subordination to
+linguistics. It will liberate the semiological project itself from what, in spite of its
+greater theoretical extension, remained governed by linguistics, organised as if
+linguistics were at once its center and its telos. Even though semiology was in
+
+fact more general and more comprehensive than linguistics, it continued to be
+regulated as if it were one of the areas of linguistics. The linguistic sign remained
+exemplary for semiology, it dominated it as the master-sign and as the
+generative model: the pattern [patron].
+One could therefore say that signs that are wholly arbitrary realise better than the
+others the ideal of the semiological process; that is why language, the most
+
+complex and universal of all systems of expression, is also the most
+characteristic; in this sense linguistics can become the master-pattern for all
+
+branches of semiology although language is only one particular semiological
+system (italics added).
+Consequently, reconsidering the order of dependence prescribed by Saussure,
+apparently inverting the relationship of the part to the whole, Barthes in fact
+carries out the profoundest intention of the Course:
+From now on we must admit the possibility of reversing Saussure's proposition
+some day: linguistics is not a part, even if privileged, of the general science of
+signs, it is semiology that is a part of linguistics. [Communications]
+This coherent reversal, submitting semiology to a “translinguistics,” leads to its
+full explication a linguistics historically dominated by logocentric metaphysics, for
+which in fact there is not and there should not be “any meaning except as
+named” (ibid.). Dominated by the so-called “civilisation of writing” that we inhabit,
+a civilisation of so-called phonetic writing, that is to say of the logos where the
+sense of being is, in its telos, determined as parousia. The Barthesian reversal is
+fecund and indispensable for the description of the fact and the vocation of
+signification within the closure of this epoch and this civilisation that is in the
+process of disappearing in its very globalisation.
+Let us now try to go beyond these formal and architectonic considerations. Let us
+ask in a more intrinsic and concrete way, how language is not merely a sort of
+writing, “comparable to a system of writing” — Saussure writes curiously — but a
+species of writing. Or rather, since writing no longer relates to language as an
+extension or frontier, let us ask bow language is a possibility founded on the
+general possibility of writing. Demonstrating this, one would give at the same
+time an account of that alleged “usurpation” which could not be an unhappy
+accident. It supposes on the contrary a common root and thus excludes the
+resemblance of the “image,” derivation, or representative reflexion. And thus one
+would bring back to its true meaning, to its primary possibility, the apparently
+innocent and didactic analogy which makes Saussure say:
+
+Language is [comparable to] a system of signs that express ideas, and is
+therefore comparable to writing, the alphabet of deaf-mutes, symbolic rites, polite
+formulas, military signals, etc. But it is the most important of all these systems
+(italics added).
+Further, it is not by chance that, a hundred and thirty pages later, at the moment
+of explaining phonic difference as the condition of linguistic value (“from a
+material viewpoint”) he must again borrow all his pedagogic resources from the
+example of writing:
+Since an identical state of affairs is observable in writing, another system of
+signs, we, shall use writing to draw some comparisons that will clarify the whole
+issue.
+Four demonstrative items, borrowing pattern and content from writing, follow.
+Once more, then, we definitely have to oppose Saussure to himself. Before being
+or not being “noted,” “represented,” “figured,” in a “graphie,” the linguistic sign
+implies an originary writing. Henceforth, it is not to the thesis of the arbitrariness
+of the sign that I shall appeal directly, but to what Saussure associates with it as
+an indispensable correlative and which would seem to me rather to lay the
+foundations for it: the thesis of difference as the source of linguistic value.
+What are, from the grammatological point of view, the consequences of this
+theme that is now so well-known (and upon which Plato already reflected in the
+
+Sophist)?
+By definition, difference is never in itself a sensible plenitude. Therefore, its
+necessity contradicts the allegation of a naturally phonic essence of language. It
+contests by the same token the professed natural dependence of the graphic
+signifier. That is a consequence Saussure himself draws against the premises
+defining the internal system of language. He must now exclude the very thing
+which had permitted him to exclude writing: sound and its “natural bond” [lien
+
+naturel] with meaning. For example: “The thing that constitutes language is, as I
+shall show later, unrelated to the phonic character of the linguistic sign”. And in a
+paragraph on difference:
+
+It is impossible for sound alone, a material element, to belong to language. It is
+only a secondary thing, substance to be put to use. All our conventional values
+have the characteristic of not being confused with the tangible element which
+supports them. . . . The linguistic signifier . . . is not [in essence] phonic but
+incorporeal — constituted not by its material substance but the differences that
+separate its sound-image from all others. The idea or phonic substance that a
+sign contains is of less importance than the other signs that surround it.
+Without this reduction of phonic matter, the distinction between language and
+speech, decisive for Saussure, would have no rigour. It would be the same for
+the oppositions that happened to descend from it: between code and message,
+pattern and usage, etc. Conclusion: “Phonologythis bears repeating — is only an
+auxiliary discipline [of the science of language] and belongs exclusively to
+speaking”. Speech thus draws from this stock of writing, noted or not, that
+language is, and it is here that one must meditate upon the complicity between
+the two “stabilities.” The reduction of the phonè reveals this complicity. What
+Saussure says, for example, about the sign in general and what he “confirms”
+through the example of writing, applies also to language: “Signs are governed by
+a principle of general semiology: continuity in time is coupled to change in time;
+this is confirmed by orthrographic systems, the speech of deaf-mutes, etc.”.
+The reduction of phonic substance thus does not only permit the distinction
+between phonetics on the one hand (and a fortiori acoustics or the physiology of
+the phonating organs) and phonology on the other. It also makes of phonology
+itself an “auxiliary discipline.” Here the direction indicated by Saussure takes us
+beyond the phonologism of those who profess to follow him on this point: in fact,
+Jakobson believes indifference to the phonic substance of expression to be
+impossible and illegitimate. He thus criticises the glossematic. — of Hjelmslev
+which requires and practices the neutralising of sonorous substance. And in the
+text cited above, Jakobson and Halle maintain that the “theoretical requirement”
+of a research of invariables placing sonorous substance in parenthesis (as an
+empirical and contingent content) is:
+
+1. impracticable since, as “Eli Fischer-Jorgensen exposes [it]”, “the sonorous
+substance [is taken into account] at every step of the analysis.” [Jakobson and
+Halle] But is that a “troubling discrepancy,” as Jakobson and Halle would have it?
+Can one not account for it as a fact serving as an example, as do the
+phenomenologists who always need, keeping it always within sight, an exemplary
+empirical content in the reading of an essence which is independent of it by right?
+2. inadmissible in principle since one cannot consider “that in language form is
+opposed to substance as a constant to a variable.” It is in the course of this second
+demonstration that the literally Saussurian formulas reappear within the question
+of the relationships between speech and writing; the order of writing is the order
+of exteriority of the “occasional,” of the accessory,” of the “auxiliary,” of the
+“parasitic” (italics added). The argument of Jakobson and Halle appeals to the
+factual genesis and invokes the secondariness of writing in the colloquial sense:
+“Only after having mastered speech does one graduate to reading and writing.
+Even if this commonsensical proposition were rigorously proved — something
+that I do not believe (since each of its concepts harbours an immense problem) —
+one would still have to receive assurance of its pertinence to the argument. Even
+if “after” were here a facile representation, if one knew perfectly well what one
+thought and stated while assuring that one learns to write after having learned to
+speak, would that suffice to conclude that what thus comes “after” is parasitic?
+And what is a parasite? And what if writing were precisely that which makes us
+reconsider our logic of the parasite?
+In another moment of the critique, Jakobson and Halle recall the imperfection of
+graphic representation; that imperfection is due to “the cardinally dissimilar
+patterning of letters and phonemes:”
+Letters never, or only partially, reproduce the different distinctive features on
+which the phonemic pattern is based and unfailingly disregard the structural
+relationship of these features.
+I have suggested it above: does not the radical dissimilarity of the two elementsgraphic and phonic-exclude derivation? Does not the inadequacy of graphic
+representation concern only common alphabetic writing, to which glossematic
+formalism does not essentially refer? Finally, if one accepts all the phonologist
+arguments thus presented, it must still be recognised that they oppose a
+“scientific” concept of the spoken word to a vulgar concept of writing. What I
+would wish to show is that one cannot exclude writing from the general
+experience of “the structural relationship of these features.” Which amounts, of
+course, to reforming the concept of writing.
+
+In short, if the Jakobsonian analysis is faithful to Saussure in this matter, is it not
+especially so to the Saussure of Chapter VI? Up to what point would Saussure
+have maintained the inseparability of matter and form, which remains the most
+important argument of Jakobson and Halle? The question may be repeated in the
+case of the position of André Martinet who, in this debate, follows Chapter VI of
+the Course to the letter. And only Chapter VI, from which Martinet expressly
+dissociates the doctrine of what, in the Course, effaces the privilege of phonic
+substance. After having explained why “a dead language with a perfect
+ideography,” that is to say a communication effective through the system of a
+generalised script, “could not have any real autonomy,” and why nevertheless,
+“such a system would be something so particular that one can well understand
+why linguists want to exclude it from the domain of their science” (La linguistique
+
+syncronique, p. i8; italics added), Martinet criticises those who, following a certain
+trend in Saussure, question the essentially phonic character of the linguistic sign:
+“Much will be attempted to prove that Saussure is right when he announces that
+'the thing that constitutes language [1'essentiel de la langue] is . . . unrelated to
+the phonic character of the linguistic sign,' and, going beyond the teaching of the
+master, to declare that the linguistic sign does not necessarily have that phonic
+character”.
+On that precise point, it is not a question of “going beyond” the master's teaching
+but of following and extending it. Not to do it is to cling to what in Chapter VI
+greatly limits formal and structural research and contradicts the least contestable
+findings of Saussurian doctrine. To avoid “going beyond,” one risks returning to a
+point that falls short.
+I believe that generalised writing is not just the idea of a system to be invented,
+an hypothetical characteristic or a future possibility. I think on the contrary that
+oral language already belongs to this writing. But that presupposes a modification
+of the concept of writing that we for the moment merely anticipate. Even
+supposing that one is not given that modified concept, supposing that one is
+considering a system of pure writing as an hypothesis for the future or a working
+
+hypothesis, faced with that hypothesis, should a linguist refuse himself the
+means of thinking it and of integrating its formulation within his theoretical
+discourse? Does the fact that most linguists do so create a theoretical right?
+Martinet seems to be of that opinion. After having elaborated a purely
+“dactylological” hypothesis of language, he writes, in effect:
+It must be recognised that the parallelism between this “dactylology” and
+phonology is complete as much in synchronic as in diachronic material, and that
+the terminology associated with the latter may be used for the former, except of
+course when the terms refer to the phonic substance. Clearly, if we do not desire
+to exclude from the domain of linguistics the systems of the type we have just
+imagined, it is most important to modify traditional terminology relative to the
+articulation of signifiers so as to eliminate all reference to phonic substance; as
+does Louis Hjelmslev when he uses “ceneme” and “cenematics” instead of
+“phoneme” and “phonematics.” Yet it is understandable that the majority of
+
+linguists hesitate to modify completely the traditional terminological edifice for the
+only theoretical advantages of being able to include in the field of their science
+some purely hypothetical systems. To make them agree to engage such a
+
+revolution, they must be persuaded that, in attested linguistic systems, they have
+no advantage in considering the phonic substance of units of expression as to be
+of direct interest (italics added).
+Once again, we do not doubt the value of these phonological arguments, the
+presuppositions behind which I have attempted to expose above. Once one
+assumes these presuppositions, it would be absurd to reintroduce confusedly a
+derivative writing, in the area of oral language and within the system of this
+derivation. Not only would ethnocentrism not be avoided, but all the frontiers
+within the sphere of its legitimacy would then be confused. It is not a question of
+rehabilitating writing in the narrow sense, nor of reversing the order of
+dependence when it is evident. Phonologism does not brook any objections as
+long as one conserves the colloquial concepts of speech and writing which form
+the solid fabric of its argumentation. Colloquial and quotidian conceptions,
+
+inhabited besides — uncontradictorily enough — by an old history, limited by
+frontiers that are hardly visible yet all the more rigorous by that very fact.
+I would wish rather to suggest that the alleged derivativeness of writing, however
+real and massive, was possible only on one condition: that the original,” “natural,”
+etc. language had never existed, never been intact and untouched by writing,
+that it bad itself always been a writing. An archewriting whose necessity and new
+concept I wish to indicate and outline here; and which I continue to call writing
+only because it essentially communicates with the vulgar concept of writing. The
+latter could not have imposed itself historically except by the dissimulation of the
+arche-writing, by the desire for a speech displacing its other and its double and
+working to reduce its difference. If I persist in calling that difference writing, it is
+because, within the work of historical repression, writing was, by its situation,
+destined to signify the most formidable difference. It threatened the desire for the
+living speech from the closest proximity, it breached living speech from within
+and from the very beginning. And as we shall begin to see, difference cannot be
+thought without the trace.
+This arche-writing, although its concept is invoked by the themes of “the
+arbitrariness of the sign” and of difference, cannot and can never be recognised
+as the object of a science. It is that very thing which cannot let itself be reduced
+to the form of presence. The latter orders all objectivity of the object and all
+relation of knowledge. That is why what I would be tempted to consider in the
+development of the Course as “progress,” calling into question in return the
+uncritical positions of Chapter VI, never gives rise to a new “scientific” concept of
+writing.
+Can one say as much of the algebraism of Hjelmslev, which undoubtedly drew
+the most rigorous conclusions from that progress?
+The Principes de grammaire générale (1928) separated out within the doctrine of
+the Course the phonological principle and the principle of difference: It isolated a
+concept of form which permitted a distinction between formal difference and
+
+phonic difference, and this even within “spoken” language. Grammar is
+independent of semantics and phonology.
+That independence is the very principle of glossematics as the formal science of
+language. Its formality supposes that “there is no necessary connection between
+sounds and language.” [On the Principles of Phnomatics] That formality is itself
+the condition of a purely functional analysis. The idea of a linguistic function and
+of a purely linguistic unit — the glosseme — excludes then not only the
+consideration of the substance of expression (material substance) but also that of
+the substance of the content (immaterial substance). Since language is a form
+and not a substance (Saussure), the glossemes are by definition independent of
+substance, immaterial (semantic, psychological and logical) and material (phonic,
+graphic, etc.).” [Hjelmslev and Uldall] The study of the functioning of language, of
+its play, presupposes that the substance of meaning and, among other possible
+substances, that of sound, be placed in parenthesis. The unity of sound and of
+sense is indeed here, as I proposed above, the reassuring closing of plan,.
+Hjelmslev situates his concept of the scheme or play of language within
+Saussure's heritage of Saussure's formalism and his theory of value. Although he
+prefers to compare linguistic value to the “value of exchange in the economic
+sciences” rather than to the “purely logico-mathematical value,” he assigns a limit
+to this analogy.
+An economic value is by definition a value with two faces: not only does it play
+the role of a constant vis-á-vis the concrete units of money, but it also itself plays
+the role of a variable vis-á-vis a fixed quantity of merchandise which serves it as
+a standard. In linguistics on the other hand there is nothing that corresponds to a
+standard. That is why the game of chess and not economic fact remains for
+Saussure the most faithful image of a grammar. The scheme of language is in
+the last analysis a game and nothing more. [Langue et parole, Essais
+
+linguistiques]
+In the Prolegomena to a Theory of Language (1943), setting forth the opposition
+
+expression/content, which he substitutes for the difference signifier/signified, and
+
+in which each term may be considered from the point of view of form or
+
+substance, Hjelmslev criticises the idea of a language naturally bound to the
+substance of phonic expression. It is by mistake that it has hitherto been
+supposed “that the substance-expression of a spoken language should consist of
+'sounds':”
+Thus, as has been pointed out by the Zwirners in particular, the fact has been
+overlooked that speech is accompanied by, and that certain components of
+speech can be replaced by, gesture, and that in reality, as the Zwirners say, not
+only the so-called organs of speech (throat, mouth, and nose), but very nearly all
+the striate musculature cooperate in the exercise of “natural” language. Further, it
+is possible to replace the usual sound-and-gesture substance with any other that
+offers itself as appropriate under changed external circumstances. Thus the
+same linguistic form may also be manifested in writing, as happens with a
+phonetic or phonemic notation and with the so-called phonetic orthographies, as
+for example the Finnish. Here is a “graphic” substance which is addressed
+exclusively to the eve and which need not be transposed into a phonetic
+“substance” in order to be grasped or understood. And this graphic “substance”
+can, precisely from the point of view of the substance, be of quite various sorts.
+[Prolegomena to A Theory of Language, 1943]
+Refusing to presuppose a “derivation” of substances following from the
+substance of phonic expression, Hjelmslev places this problem outside the area
+of structural analysis and of linguistics.
+Moreover it is not always certain what is derived and what not; we must not
+forget that the discovery of alphabetic writing is hidden in prehistory [n.: Bertrand
+Russell quite rightly calls attention to the fact that we have no means of deciding
+whether writing or speech is the older form of human expression (An Outline of
+
+Philosophy , so that the assertion that it rests on a phonetic analysis is only one
+of the possible diachronic hypotheses; it may, also be rested on a formal analysis
+of linguistic structure. But in any case, as is recognised by modern linguistics,
+diachronic considerations are irrelevant for synchronic descriptions.
+
+H. J. Uldall provides a remarkable formulation of the fact that glossematic
+criticism operates at the same time thanks to Saussure and against him; that, as
+I suggested above, the proper space of a grammatology is at the same time
+opened and closed by The Course in General Linguistics. To show that Saussure
+did not develop “all the theoretical consequences of his discovery” he writes:
+It is even more curious when we consider that the practical consequences have
+been widely drawn, indeed had been drawn thousands of years before Saussure,
+for it is only through the concept of a difference between form and substance that
+we can explain the possibility of speech and writing existing at the same time as
+expressions of one and the same language. If either of these two substances, the
+stream of air or the stream of ink, were an integral part of the language itself, it
+would not be possible to go from one to the other without changing the language.
+[Speech and Writing, 1938]
+Undoubtedly the Copenhagen School thus frees a field of research: it becomes
+possible to direct attention not only to the purity of a form freed from all “natural”
+bonds to a substance but also to everything that, in the stratification of language,
+depends on the substance of graphic expression. An original and rigorously
+delimited description of this may thus be promised. Hjelmslev recognises that an
+“analysis of writing without regard to sound has not yet been undertaken”. While
+regretting also that “the substance of ink has not received the same attention on
+the part of linguists that they have so lavishly bestowed on the substance of air,”
+H. J. Uldall delimits these problems and emphasises the mutual independence of
+the substances of expression. He illustrates it particularly by the fact that, in
+orthography, no grapheme corresponds to accents of pronunciation (for
+Rousseau this was the misery, and the menace of writing) and that, reciprocally,
+in pronunciation, no phoneme corresponds to the spacing between written words.
+Recognising the specificity of writing, glossematics did not merely give itself the
+means of describing the graphic element. It showed bow to reach the literary
+element, to what in literature passes through an irreducibly graphic text, tying the
+play of form to a determined substance of expression. If there is something in
+
+literature which does not allow itself to be reduced to the voice, to epos or to
+poetry, one cannot recapture it except by rigorously isolating the bond that links
+
+the play of form to the substance of graphic expression. (It will by the same token
+be seen that “pure literature,” thus respected in its irreducibilty, also risks limiting
+the play, restricting it. The desire to restrict play is, moreover, irresistible.) This
+interest in literature is effectively manifested in the Copenhagen School. It thus
+removes the Rousseauist and Saussurian caution with regard to literary arts. It
+radicalises the efforts of the Russian formalists, specifically of the O.PO.IAZ,
+who, in their attention to the being-literary of literature, perhaps favoured the
+phonological instance and the literary models that it dominates. Notably poetry.
+That which, within the history of literature and in the structure of a literary text in
+general, escapes that framework, merits a type of description whose norms and
+conditions of possibility glossematics has perhaps better isolated. It has perhaps
+thus better prepared itself to study the purely graphic stratum within the structure
+of the literary text within the history of the becoming-literary of literality, notably in
+its “modernity.”
+Undoubtedly a new domain is thus opened to new and fecund researches. But I
+am not primarily interested in such a parallelism or such a recaptured parity of
+substances of expression. It is clear that if the phonic substance lost its privilege,
+it was not to the advantage of the graphic substance, which lends itself to the
+same substitutions. To the extent that it liberates and is irrefutable, glossematics
+still operates with a popular concept of writing. However original and irreducible it
+might be, the “form of expression” linked by correlation to the graphic “substance
+of expression” remains very determined. It is very dependent and very derivative
+with regard to the arche-writing of which I speak. This arche-writing would be at
+work not only in the form and substance of graphic expression but also in those
+of non-graphic expression. It would constitute not only the pattern uniting form to
+all substance, graphic or otherwise, but the movement of the sign-function linking
+a content to an expression, whether it be graphic or not. This theme could not
+have a place in Hjelmslev's system.
+
+It is because arche-writing, movement of difference, irreducible archesynthesis,
+opening in one and the same possibility, temporalisation as well as relationship
+with the other and language, cannot, as the condition of all linguistic systems,
+form a part of the linguistic system itself and be situated as an object in its field.
+(which does not mean it has a real field elsewhere, another assignable site.) Its
+concept could in no way enrich the scientific, positive, and “immanent” (in the
+Hjelmslevian sense) description of the system itself. Therefore, the founder of
+glossematics would no doubt have questioned its necessity, as be rejects, en
+bloc and legitimately, all the extra-linguistic theories which do not arise from the
+irreducible immanence of the linguistic system. He would have seen in that
+notion one of those appeals to experience which a theory should dispense with.
+He would not have understood why the name writing continued — to be used for
+that X which becomes so different from what has always been called “writing.”
+I have already begun to justify this word, and especially the necessity of the
+communication between the concept of arche-writing and the vulgar concept of
+writing submitted to deconstruction by it. I shall continue to do so below. As for
+the concept of experience, it is most unwieldy here. Like all the notions I am
+using here, it belongs to the history of metaphysics and we can only use it under
+erasure [sous rature]. “Experience” has always designated the relationship with a
+presence, whether that relationship bad the form of consciousness or not. At any
+rate, we must, according to this sort of contortion and contention which the
+discourse is obliged to undergo, exhaust the resources of the concept of
+experience before attaining and in order to attain, by deconstruction, its ultimate
+foundation. It is the only way to escape “empiricism” and the “naive” critiques of
+experience at the same time. Thus, for example, the experience whose “theory,”
+Hjelmslev says, ,'must be independent” is not the whole of experience. It always
+corresponds to a certain type of factual or regional experience (historical,
+psychological, physiological, sociological, etc.), giving rise to a science that is
+itself regional and, as such, rigorously outside linguistics. That is not so at all in
+the case of experience as arche-writing. The parenthesising of regions of
+
+experience or of the totality of natural experience must discover a field of
+transcendental experience. This experience is only accessible in so far as, after
+having, like Hjelmslev, isolated the specificity of the linguistic system and
+excluded all the extrinsic sciences and metaphysical speculations, one asks the
+question of the transcendental origin of the system itself, as a system of the
+objects of a science, and, correlatively, of the theoretical system which studies it:
+here of the objective and “deductive” system which glossematics wishes to be.
+Without that, the decisive progress accomplished by a formalism respectful of the
+originality of its object, of “the immanent system of its objects,” is plagued by a
+scientificist objectivism, that is to say by another unperceived or unconfessed
+metaphysics. This is often noticeable in the work of the Copenhagen School. It is
+to escape falling back into this naive objectivism that I refer here to a
+transcendentality that I elsewhere put into question. It is because I believe that
+there is a short-of and a beyond of transcendental criticism. To see to it that the
+beyond does not return to the within is to recognise in the contortion the
+necessity of a pathway [parcours]. That pathway must leave a track in the text.
+Without that track, abandoned to the simple content of its conclusions, the ultratranscendental text will so closely resemble the precritical text as to be
+indistinguishable from it. We must now form and meditate upon the law of this
+resemblance. What I call the erasure of concepts ought to mark the places of that
+future meditation. For example, the value of the transcendental arche [archie]
+must make its necessity felt before letting itself be erased. The concept of archetrace must comply with both that necessity and that erasure. It is in fact
+contradictory and not acceptable within the logic of identity. The trace is not only
+the disappearance of origin — within the discourse that we sustain and according
+to the path that we follow it means that the origin did not even disappear, that it
+was never constituted except reciprocally by a non-origin, the trace, which thus
+becomes the origin of the origin. From then on, to wrench the concept of the
+trace from the classical scheme, which would derive it from a presence or from
+an originary non-trace and which would make of it an empirical mark, one must
+
+indeed speak of an originary trace or arche-trace. Yet we know that that concept
+destroys its name and that, if all begins with the trace, there is above all no
+originary trace. We must then situate, as a simple moment of the discourse, the
+phenomenological reduction and the Husserlian reference to a transcendental
+experience. To the extent that the concept of experience in general — and of
+transcendental experience, in Husserl in particular — remains governed by the
+theme of presence, it participates in the movement of the reduction of the trace.
+The Living Present (lebendige Gegenwart) is the universal and absolute form of
+transcendental experience to which Husserl refers us. In the descriptions of the
+movements of temporalisation, all that does not torment the simplicity and the
+domination of that form seems to indicate to us how much transcendental
+phenomenology belongs to metaphysics. But that must come to terms with the
+forces of rupture. In the originary temporalisation and the movement of
+relationship
+
+with
+
+the
+
+outside,
+
+as
+
+Husserl
+
+actually
+
+describes
+
+them,
+
+nonpresentation or depresentation is as “originary” as presentation. That is why a
+
+thought of the trace can no more break with a transcendental phenomenology
+than be reduced to it. Here as elsewhere, to pose the problem in terms of choice,
+to oblige or to believe oneself obliged to answer it by a yes or no, to conceive of
+appurtenance as an allegiance or non-appurtenance as plain speaking, is to
+confuse very different levels, paths, and styles. In the deconstruction of the
+arche, one does not make a choice.
+Therefore I admit the necessity of going through the concept of the arche-trace.
+How does that necessity direct us from the interior of the linguistic system? How
+does the path that leads from Saussure to Hjelmslev forbid us to avoid the
+originary trace?
+In that its passage through form is a passage through the imprint. And the
+meaning of difference in general would be more accessible to us if the unity of
+that double passage appeared more clearly.
+In both cases, one must begin from the possibility of neutralising the phonic
+substance.
+
+On the one band, the phonic element, the term, the plenitude that is called
+sensible, would not appear as such without the difference or opposition which
+gives them form. Such is the most evident significance of the appeal to difference
+as the reduction of phonic substance. Here the appearing and functioning of
+difference presupposes an originary synthesis not preceded by any absolute
+simplicity. Such would be the originary trace. Without a retention in the minimal
+unit of temporal experience, without a trace retaining the other as other in the
+same, no difference would do its work and no meaning would appear. It is not the
+question of a constituted difference here, but rather, before all determination of
+the content, of the pure movement which produces difference. The (pure) trace is
+
+difference. It does not depend on any sensible plenitude, audible or visible,
+phonic or graphic. It is, on the contrary, the condition of such a plenitude.
+Although it does not exist, although it is never a being-present outside of all
+plenitude, its possibility is by rights anterior to all that one calls sign
+(signified/signifier, content/expression, etc.), concept or operation, motor or
+sensory. This difference is therefore not more sensible than intelligible and it
+permits the articulation of signs among themselves within the same abstract
+order — a phonic or graphic text for example — or between two orders of
+expression. It permits the articulation of speech and writing — in the colloquial
+sense — as it founds the metaphysical opposition between the sensible and the
+intelligible, then between signifier and signified, expression and content, etc. If
+language were not already, in that sense, a writing, no derived “notation” would
+be possible; and the classical problem of relationships between speech and
+writing could not arise. Of course, the positive sciences of signification can only
+describe the work and the fact of differance, the determined differences and the
+determined presences that they make possible. There cannot be a science of
+difference itself in its operation, as it is impossible to have a science of the origin
+of presence itself, that is to say of a certain non-origin.
+Differance is therefore the formation of form. But it is on the other hand the
+being-imprinted of the imprint. It is well-known that Saussure distinguishes
+
+between the “sound-image” and the objective sound. He thus gives himself the
+right to “reduce,” in the phenomenological sense, the sciences of acoustics and
+physiology at the moment that he institutes the science of language. The soundimage is the structure of the appearing of the sound [l'apparaître du son] which is
+anything but the sound appearing [le son apparaissant]. It is the sound-image
+that be calls signifier, reserving the name signified not for the thing, to be sure (it
+is reduced by the act and the very ideality of language), but for the “concept,”
+undoubtedly an unhappy notion here; let us say for the ideality of the sense. “I
+propose to retain the word sign [signe] to designate the whole and to replace
+concept and sound-image respectively by signified [signifé] and signifier
+[signifiant].” The sound-image is what is heard; not the sound heard but the
+being-beard of the sound. Being-heard is structurally phenomenal and belongs to
+an order radically dissimilar to that of the real sound in the world. One can only
+divide this subtle but absolutely decisive heterogeneity by a phenomenological
+reduction. The latter is therefore indispensable to all analyses of being-heard,
+whether they be inspired by linguistic, psychoanalytic, or other preoccupations.
+Now the “sound-image,” the structured appearing [l'apparaître] of the sound, the
+“sensory matter” lived and informed by difference, what Husserl would name the
+
+hylè/morphé structure, distinct from all mundane reality, is called the “psychic
+image” by Saussure: “The latter [the sound-image] is not the material sound, a
+purely physical thing, but the psychic imprint of the sound, the impression that it
+makes on our senses [la représentation que nous en donne le témoignage de
+
+nos sens]. The sound-image is sensors,, and if I happen to call it 'material,' it is
+only in that sense, and by way of opposing it, to the other term of the association,
+the concept, which is generally more abstract”. Although the word “psychic” is not
+perhaps convenient, except for exercising in this matter a phenomenological
+caution, the originality of a certain place is well marked.
+Before specifying it, let us note that this is not necessarily what Jakobson and
+other linguists could criticise as “the mentalist point of view”:
+
+In the oldest of these approaches, going back to Baudouin de Courtenay and still
+surviving, the phoneme is a sound imagined or intended, opposed to the emitted
+sound as a “psychophonetic” phenomenon to the “physiophonetic” fact. It is the
+psychic equivalent of an exteriorised sound.
+Although the notion of the “psychic image” thus defined (that is to say according
+to a pre-phenomenological psychology of the imagination) is indeed of this
+mentalist inspiration, it could be defended against Jakobson's criticism by
+specifying: (i) that it could be conserved without necessarily affirming that “our
+internal speech is confined to the distinctive features to the exclusion of the
+configurative, or redundant features;” (2) that the qualification psychic is not
+retained if it designates exclusively another natural reality, internal and not
+external. Here the Husserlian correction is indispensable and transforms even
+the premises of the debate. Real (reell and not real) component of lived
+experience, the hylè/morphé structure is not a reality (Realität). As to the
+intentional object, for example, the content of the image, it does not really (reall)
+belong either to the world or to lived experience: the non-real component of lived
+experience. The psychic image of which Saussure speaks must not be an
+internal reality copying an external one. Husserl, who criticises this concept of
+“portrait” in Idee shows also in the Krisis how phenomenology should overcome
+the naturalist opposition whereby psychology and the other sciences of man
+survive — between internal” and “external” experience. It is therefore
+indispensable to preserve the distinction between the appearing sound [le son
+
+apparaissant] and the appearing of the sound [l'apparaître du son] in order to
+escape the worst and the most prevalent of confusions; and it is in principle
+possible to do it without “attempt[ing] to overcome the antinomy between
+invariance and variability by assigning the former to the internal and the latter to
+the external experience” (Jakobson). The difference between invariance and
+variability does not separate the two domains from each other, it divides each of
+them within itself. That gives enough indication that the essence of the phonè
+
+cannot be read directly and primarily in the text of a mundane science, of a
+psycho-physiophonetics.
+These precautions taken, it should be recognised that it is in the specific zone of
+this imprint and this trace, in the temporalisation of a lived experience which is
+neither in the world nor in “another world,” which is not more sonorous than
+luminous, not more in time than in space, that differences appear among the
+elements or rather produce them, make them emerge as such and constitute the
+texts, the chains, and the systems of traces. These chains and systems cannot
+be outlined except in the fabric of this trace or imprint. The unheard difference
+between the appearing and the appearance [I'apparaissant et I'apparaître]
+(between the “world” and “lived experience”) is the condition of all other
+differences, of all other traces, and it is already a trace. This last concept is thus
+absolutely and by rights “anterior” to all physiological problematics concerning
+the nature of the engramme [the unit of engraving], or metaphysical problematics
+concerning the meaning of absolute presence whose trace is thus opened to
+deciphering. The trace is in fact the absolute origin of sense in general. Which
+
+amounts to saying once again that there is no absolute origin of sense in general.
+The trace is the difference which opens appearance [I'apparaître] and
+signification. Articulating the living upon the non-living in general, origin of all
+repetition, origin of ideality, the trace is not more ideal than real, not more
+intelligible than sensible, not more a transparent signification than an opaque
+energy and no concept of metaphysics can describe it. And as it is a fortiori
+anterior to the distinction between regions of sensibility, anterior to sound as
+much as to light, is there a sense in establishing a “natural” hierarchy between
+the sound-imprint, for example, and the visual (graphic) imprint? The graphic
+image is not seen; and the acoustic image is not heard. The difference between
+the full unities of the voice remains unheard. And, the difference in the body of
+the inscription is also invisible.
+
+The Hinge [La Brisure]
+
+You have, I suppose, dreamt of finding a single word for designating difference
+and articulation. I have perhaps located it by chance in Robert['s Dictionary] if I
+play on the word, or rather indicate its double meaning. This word is brisure [joint,
+break] “ — broken, cracked part. Cf. breach, crack, fracture, fault, split, fragment,
+
+[bréche, cassure, fracture, faille, fente, fragment.] — Hinged articulation of two
+parts of wood- or metal-work. The hinge, the brisure [folding-joint] of a shutter.
+Cf. joint.” — Roger Laporte (letter)
+Origin of the experience of space and time, this writing of difference, this fabric of
+the trace, permits the difference between space and time to be articulated, to
+appear as such, in the unity of an experience (of a “same” lived out of a “same”
+body proper [corps propre]). This articulation therefore permits a graphic (“visual”
+or “tactile,” “spatial”) chain to be adapted, on occasion in a linear fashion, to a
+spoken (“phonic,” “temporal”) chain. It is from the primary possibility of this
+articulation that one must begin. Difference is articulation.
+This is, indeed, what Saussure says, contradicting Chapter VI:
+The question of the vocal apparatus obviously takes a secondary place in the
+problem of language. One definition of articulated language might confirm that
+conclusion. In Latin, articulus means a member, part, or subdivision of a
+sequence; applied to speech [langage], articulation designates either the
+subdivision of a spoken chain into syllables or the subdivision of the chain of
+meanings into significant units. . . . Using the second definition, we can say that
+what is natural to mankind is not spoken language but the faculty of constructing
+a language; i.e., a system of distinct signs Corresponding to distinct ideas (italics
+added).
+The idea of the “psychic imprint” therefore relates essentially to the idea of
+articulation. Without the difference between the sensory appearing [apparaissant]
+and its lived appearing [apparaître] (“mental imprint”), the temporalising
+synthesis, which permits differences to appear in a chain of significations, could
+not operate. That the “imprint” is irreducible means also that speech is originarily
+passive, but in a sense of passivity that all intramundane metaphors would only
+
+betray. This passivity is also the relationship to a past, to an always-already-there
+that no reactivation of the origin could fully master and awaken to presence. This
+impossibility of reanimating absolutely the manifest evidence of an originary
+presence refers us therefore to an absolute past. That is what authorised us to
+call trace that which does not let itself be summed up in the simplicity of a
+present. It could in fact have been objected that, in the indecomposable
+synthesis of temporalisation, protection is as indispensable as retention. And
+their two dimensions are not added up but the one implies the other in a strange
+fashion. To be sure, what is anticipated in protention does not sever the present
+any less from its self-identity than does that which is retained in the trace. But if
+anticipation were privileged, the irreducibility of the always-already-there and the
+fundamental passivity that is called time would risk effacement. On the other
+hand, if the trace refers to an absolute past, it is because it obliges us to think a
+past that can no longer be understood in the form of a modified presence, as a
+present-past. Since past has always signified present-past, the absolute past that
+is retained in the trace no longer rigorously merits the name “past.” Another
+name to erase, especially since the strange movement of the trace proclaims as
+much as it recalls: difference defers-differs [differs]. With the same precaution
+and under the same erasure, it may be said that its passivity is also its
+relationship with the “future.” The concepts of present, past, and future,
+everything in the concepts of time and history which implies evidence of them —
+the metaphysical concept of time in general — cannot adequately describe the
+structure of the trace. And deconstructing the simplicity of presence does not
+amount only to accounting for the horizons of potential presence, indeed of
+“dialectic of protention and retention that one would install in the heart of the
+present instead of surrounding it with it. It is not a matter of complicating the
+structure of time while conserving its homogeneity and its fundamental
+successivity, by demonstrating for example that the past present and the future
+present constitute originarily, by dividing it, the form of the living present. Such a
+complication, which is in effect the same that Husserl described, abides, in spite
+
+of an audacious phenomenological reduction, by the evidence and presence of a
+linear, objective, and mundane model. Now B would be as such constituted by
+the retention of Now A and the protention of Now C; in spite of all the play that
+would follow from it, from the fact that each one of the three Now-s reproduces
+that structure in itself, this model of successivity would prohibit a Now X from
+taking the place of Now A, for example, and would prohibit that, by a delay that is
+inadmissible to consciousness, an experience be determined, in its very present,
+by a present which would not have preceded it immediately but would be
+considerably “anterior” to it. It is the problem of the deferred effect
+(Nachträglichkeit) of ,which Freud speaks. The temporality to which he refers
+cannot be that which lends itself to a phenomenology of consciousness or of
+presence and one may indeed wonder by what right all that is in question here
+should still be called time, now, anterior present, delay, etc.
+In its greatest formality, this immense problem would be formulated thus: is the
+temporality described by a transcendental phenomenology as “dialectical” as
+possible, a ground which the structures, let us say the unconscious structures, of
+temporality would simply modify? Or is the phenomenological model itself
+constituted, as a warp of language, logic, evidence, fundamental security, upon a
+woof that is not its own? And which — such is the most difficult problem — is no
+longer at all mundane? For it is not by chance that the transcendental
+phenomenology of the internal time-consciousness, so careful to place cosmic
+time
+
+within
+
+brackets,
+
+must,
+
+as
+
+consciousness
+
+and
+
+even
+
+as
+
+internal
+
+consciousness, live a time that is an accomplice of the time of the world.
+Between consciousness, perception (internal or external), and the “world,” the
+rupture, even in the subtle form of the reduction, is perhaps not possible.
+It is in a certain “unheard” sense, then, that speech is in the world, rooted in that
+passivity which metaphysics calls sensibility in general. Since there is no nonmetaphoric language to oppose to metaphors here, one must, as Bergson
+wished, multiply antagonistic metaphors. “Wish sensibilised,” is bow Maine de
+Biran, with a slightly different intention, named the vocalic word. That the logos is
+
+first imprinted and that that imprint is the writing-resource of language, signifies,
+to be sure, that the logos is not a creative activity, the continuous full element of
+the divine word, etc. But it would not mean a single step outside of metaphysics if
+nothing more than a new motif of “return to finitude,” of “God's death,” etc., were
+the result of this move. It is that conceptuality and that problematics that must be
+deconstructed. They belong to the onto-theology they fight against. Differance is
+also something other than finitude.
+According to Saussure, the passivity of speech is first its relationship with
+language. The relationship between passivity and difference cannot be
+distinguished from the relationship between the fundamental unconsciousness of
+language (as rootedness within the language) and the spacing (pause, blank,
+punctuation, interval in general, etc.) which constitutes the origin of signification.
+It is because “language is a form and not a substance” that, paradoxically, the
+activity of speech can and must always draw from it. But if it is a form, it is
+because “in language there are only differences”. Spacing (notice that this word
+speaks the articulation of space and time, the becoming-space of time and the
+becoming-time of space) is always the unperceived, the non-present, and the
+non-conscious. As such, if one can still use that expression in a nonphenomenological way; for here we pass the very limits of phenomenology.
+Arche-writing as spacing cannot occur as such within the phenomenological
+experience of a presence. It marks the dead time within the presence of the living
+present, within the general form of all presence. The dead time is at work. That is
+why, once again, in spite of all the discursive resources that the former may
+borrow from the latter, the concept of the trace will never be merged with a
+phenomenology of writing. As the phenomenology of the sign in general, a
+phenomenology of writing is impossible. No intuition can be realised in the place
+where “the 'whites' indeed take on an importance” (Preface to Coup de dés).
+Perhaps it is now easier to understand why Freud savs of the dreamwork that it
+is comparable rather to a writing than to a language, and to a hieroglyphic rather
+than to a phonetic writing. And to understand why Saussure savs of language
+
+that it “is not a function of the speaker”. With or without the complicity of their
+authors, all these propositions must be understood as more than the simple
+
+reversals of a metaphysics of presence or of conscious subjectivity. Constituting
+and dislocating it at the same time, writing is other than the subject, in whatever
+sense the latter is understood. Writing can never be thought under the category
+of the subject; however it is modified, however it is endowed with consciousness
+or unconsciousness, it will refer, by the entire thread of its history, to the
+substantiality of a presence unperturbed by accidents, or to the identity of the
+selfsame [le propre] in the presence of self-relationship.
+And the thread of that history clearly does not run within the borders of
+metaphysics. To determine an X as a subject is never an operation of a pure
+convention, it is never an indifferent gesture in relation to writing.
+Spacing as writing is the becoming-absent and the becoming-unconscious of the
+subject. By the movement of its drift/derivation [dérive] the emancipation of the
+sign constitutes in return the desire of presence. That becoming-or that
+drift/derivation-does not befall the subject which would choose it or would
+passively let itself be drawn along by it. As the subject's relationship with its own
+death, this becoming is the constitution of subjectivity. On all levels of life's
+organisation, that is to say, of the economy of death. All graphemes are of a
+testamentary essence. And the original absence of the subject of writing is also
+the absence of the thing or the referent.
+Within the horizontality of spacing, which is in fact the precise dimension I have
+been speaking of so far, and which is not opposed to it as surface opposes
+depth, it is not even necessary to say that spacing cuts, drops, and causes to
+drop within the unconscious: the unconscious is nothing without this cadence and
+before this caesura. This signification is formed only within the hollow of
+difference: of discontinuity and of discreteness, of the diversion and the reserve
+of what does not appear. This hinge [brisure] of language as writing, this
+discontinuity, could have, at a given moment within linguistics, run up against a
+rather precious continuist prejudice. Renouncing it, phonology must indeed
+
+renounce all distinctions between writing and the spoken word, and thus
+renounce not itself, phonology, but rather phonologism. What Jakobson
+recognises in this respect is most important for us:
+The stream of oral speech, physically continuous, originally confronted the
+mathematical theory of communication with a situation “considerably more
+involved” [The Mathematical Theory of Communication, Urbana, 1949] than in
+the case of a finite set of discrete constituents, as presented by written speech.
+Linguistic analysis, however, came to resolve oral speech into a finite series of
+elementary informational units. These ultimate discrete units, the so-called
+“distinctive features,” are aligned into simultaneous bundles termed “phonemes,”
+which in turn are concatenated into sequences. Thus form in language has a
+manifestly granular structure and is subject to a quantal description. [Linguistique
+
+et théorie de la communication]
+The hinge [brisure] marks the impossibility that a sign, the unity of a signifier and
+a signified, be produced within the plenitude of a present and an absolute
+presence. That is why there is no full speech, however much one might wish to
+restore it by means or without benefit of psychoanalysis. Before thinking to
+reduce it or to restore the meaning of the full speech which claims to be truth,
+one must ask the question of meaning and of its origin in difference. Such is the
+place of a problematic of the trace.
+Why of the trace? What led us to the choice of this word? I have begun to answer
+this question. But this question is such, and such the nature of my answer, that
+the place of the one and of the other must constantly be in movement. If words
+and concepts receive meaning only in sequences of differences, one can Justify
+one's language, and one's choice of terms, only within a topic [an orientation in
+space] and an historical strategy. The justification can therefore never be
+absolute and definitive. It corresponds to a condition of forces and translates an
+historical calculation. Thus, over and above those that I have already defined, a
+certain number of givens belonging to the discourse of our time have
+progressively imposed this choice upon me. The word trace must refer to itself to
+
+a certain number of contemporary discourses whose force I intend to take into
+account. Not that I accept them totally,. But the word trace establishes the
+clearest connections with them and thus permits me to dispense with certain
+developments which have already demonstrated their effectiveness in those
+fields. Thus, I relate this concept of trace to what is at the center of the latest
+work of Emmanuel Levinas and his critique of ontology: relationship to the illeity
+as to the alterity of a past that never was and can never be lived in the originary
+or modified form of presence. Reconciled here to a Heideggerian intention, — as
+it is not in Levinas's thought — this notion signifies, sometimes beyond
+Heideggerian discourse, the undermining of an ontology which, in its innermost
+course, has determined the meaning of being as presence and the meaning of
+language as the full continuity of speech. To make enigmatic what one thinks one
+understands by the words “proximity,” “immediacy,” “Presence” (the proximate
+[proche], the own [propre], and the pre- of presence), is my final intention in this
+book. This deconstruction of presence accomplishes itself through the
+deconstruction of consciousness, and therefore through the irreducible notion of
+the trace (Spur), as it appears in both Nietzschean and Freudian discourse. And
+finally, in all scientific fields, notably in biology, this notion seems currently to be
+dominant and irreducible.
+If the trace, arche-phenomenon of “memory,” which must be thought before the
+opposition of nature and culture, animality and humanity, etc., belongs to the very
+movement of signification, then signification is a priori written, whether inscribed
+or not, in one form or another, in a “sensible” and “spatial” element that is called
+“exterior.” Arche-writing, at first the possibility of the spoken word, then of the
+
+“graphie” in the narrow sense, the birthplace of “usurpation,” denounced from
+Plato to Saussure, this trace is the opening of the first exteriority in general, the
+enigmatic relationship of the living to its other and of an inside to an outside:
+spacing. The outside, “spatial” and “objective” exteriority which we believe we
+know as the most familiar thing in the world, as familiarity itself, would not appear
+without the grammé, without difference as temporalisation, without the
+
+nonpresense of the other inscribed within the sense of the present, without the
+relationship with death as the concrete structure of the living present. Metaphor
+would be forbidden. The presence-absence of the trace, which one should not
+even call its ambiguity but rather its play (for the word “ambiguity” requires the
+logic of presence, even when it begins to disobey that logic), carries in itself the
+problems of the letter and the spirit, of body and soul, and of all the problems
+whose primary affinity I have recalled. All dualisms, all theories of the immortality
+of the soul or of the spirit, as well as all monisms, spiritualist or materialist,
+dialectical or vulgar, are the unique theme of a metaphysics whose entire history
+was compelled to strive toward the reduction of the trace. The subordination of
+the trace to the full presence summed up in the logos, the humbling of writing
+beneath a speech dreaming its plenitude, such are the gestures required by an
+onto-theology determining the archaeological and eschatological meaning of
+being as presence, as parousia, as life without difference: another name for
+death, historical metonymy where God's name holds death in check. That is why,
+if this movement begins its era in the form of Platonism, it ends in infinitist
+metaphysics. Only infinite being can reduce the difference in presence. In that
+sense, the name of God, at least as it is pronounced within classical rationalism,
+is the name of indifference itself. Only a positive infinity can lift the trace,
+“sublimate” it (it has recently been proposed that the Hegelian Aufhebung be
+translated as sublimation; this translation may be of dubious worth as translation,
+but the juxtaposition is of interest here). We must not therefore speak of a
+“theological prejudice,” functioning sporadically when it is a question of the
+plenitude of the logos; the logos as the sublimation of the trace is theological.
+Infinitist theologies are always logocentrisms, whether they are creationisms or
+not. Spinoza himself said of the understanding — or logos — that it was the
+immediate infinite mode of the divine substance, even calling it its eternal son in
+the Short Treatise. [Spinoza] It is also to this epoch, “reaching completion” with
+Hegel, with a theology of the absolute concept as logos, that all the non-critical
+concepts accredited by linguistics belong, at least to the extent that linguistics
+
+must confirm — and how can a science avoid it? — the Saussurian decree
+marking out “the internal system of language.”
+It is precisely these concepts that permitted the exclusion of writing: image or
+representation, sensible and intelligible, nature and culture, nature and technics,
+etc. They are solidary with all metaphysical conceptuality and particularly with a
+naturalist, objectivist, and derivative determination of the difference between
+outside and inside.
+And above all with a “vulgar concept of time.” I borrow this expression from
+Heidegger. It designates, at the end of Being and Time, a concept of time
+thought in terms of spatial movement or of the now, and dominating all
+philosophy from Aristotle's Physics to Hegel's Logic. This concept, which
+determines all of classical ontology, was not born out of a philosopher's
+carelessness or from a theoretical lapse. It is intrinsic to the totality of the history
+of the Occident, of what unites its metaphysics and its technics. And we shall see
+it later associated with the linearisation of writing, and with the linearist concept of
+speech. This linearism is undoubtedly inseparable from phonologism; it can raise
+its voice to the same extent that a linear writing can seem to submit to it.
+Saussure's entire theory of the “linearity of the signifier” could be interpreted from
+this point of view.
+Auditory signifiers have at their command only the dimension of time. Their
+elements are presented in succession; they form a chain. This feature becomes
+readily apparent when they are represented in writing.... The signifier, being
+auditory, is unfolded solely in time from which it gets the following characteristics:
+(a) it represents a span, and (b) the span is measurable in a single dimension; it
+is a line.
+It is a point on which Jakobson disagrees with Saussure decisively by
+substituting for the homogeneousness of the line the structure of the musical
+staff, “the chord in music.” What is here in question is not Saussure's affirmation
+of the temporal essence of discourse but the concept of time that guides this
+affirmation and analysis: time conceived as linear successivity, as “consecutivity.”
+
+This model works by itself and all through the Course, but Saussure is seemingly
+less sure of it in the Anagrams. At any rate, its value seems problematic to him
+and an interesting paragraph elaborates a question left suspended:
+That the elements forming a word follow one another is a truth that it would be
+better for linguistics not to consider uninteresting because evident, but rather as
+the truth which gives in advance the central principle of all useful reflections on
+words. In a domain as infinitely special as the one I am about to enter, it is
+always by virtue of the fundamental law of the human word in general that a
+question like that of consecutiveness or non-consecutiveness may be posed.
+[Mercure de France, 1964]
+This linearist concept of time is therefore one of the deepest adherences of the
+modem concept of the sign to its own history. For at the limit it is indeed the
+concept of the sign itself, and the distinction, however tenuous, between the
+signifying and signified faces, that remain committed to the history of classical
+ontology. The parallelism and correspondence of the faces or the planes change
+nothing. That this distinction, first appearing in Stoic logic, was necessary for the
+coherence of a scholastic thematics dominated by infinitist theology, forbids us to
+treat today's debt to it as a contingency or a convenience. I suggested this at the
+outset, and perhaps the reasons are clearer now. The signatum always referred,
+as to its referent, to a res, to an entity created or at any rate first thought and
+spoken, thinkable and speakable, in the eternal present of the divine logos and
+specifically in its breath. If it came to relate to the speech of a finite being
+(created or not; in any case of an intracosmic entity) through the intermediary of
+a signans, the signatum had an immediate relationship with the divine logos
+which thought it within presence and for which it was not a trace. And for modem
+linguistics, if the signifier is a trace, the signified is a meaning thinkable in
+principle within the full presence of an intuitive consciousness. The signfied face,
+to the extent that it is still originarily distinguished from the signifying face, is not
+considered a trace; by rights, it has no need of the signifier to be what it is. It is at
+the depth of this affirmation that the problem of relationships between linguistics
+
+and semantics must be posed. This reference to the meaning of a signified
+thinkable and possible outside of all signifiers remains dependent upon the
+ontotheo-teleology that I have just evoked. It is thus the idea of the sign that must
+be deconstructed through a meditation upon writing which would merge, as it
+must, with the undoing [sollicitation] of onto-theology, faithfully repeating it in its
+totality and making it insecure in its most assured evidences. One is necessarily
+led to this from the moment that the trace affects the totality of the sign in both its
+faces. That the signified is originarily and essentially (and not only for a finite and
+created spirit) trace, that it is always already in the position of the signifier, is the
+apparently innocent proposition within which the metaphysics of the logos, of
+presence and consciousness, must reflect upon writing as its death and its
+resource.
+Further
+
+Reading:
+
+Speech & Writing according to Hegel, Derrida 1971 | Spectres of Marx, Derrida
+1994 | Biography | Rousseau | Saussure | Jakobson | Barthes | Foucault |
+Althusser | Rorty | Chomsky | Vygotsky
+Philosophy Archive @ marxists.org
+
+

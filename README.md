@@ -137,3 +137,26 @@ combined.features <- c(zeta.results$words.preferred[1:20],
 
 To identify most characterstic words using [Craig's Zeta Function](https://www.rdocumentation.org/packages/stylo/versions/0.6.9/topics/zeta.craig), I produced the following list of words characterstic of the analytic and Continental authors in my corpus:
 
+[Characteristic Words](https://bitbucket.org/JesseRP/analyticstyle/raw/aaeebfb289da511fc4aa1cc21d34aaf6c71ea534/Image%205-3-19%20at%208.48%20PM.jpg)
+
+We can see a few things immediately:
+
+1. Though all philosophy is concerned with arguments, and continental philosophy is surely concerned with logic, it seems that analytics *really are* uniquely obsessed with it.
+2. Analytic philosphers are concerned with linguistic entities in a special way that continental philosphers are not. 
+3. Continental philosophers seem especially fond of discussing features of our everyday lives as we experience them, as is evidenced by *dream* and *perception*, but also *consciousness*, *life*, and *being*.
+4. Marxists notions seem to dominate; Marxist theory is disproportionally represented.
+
+one way we might sum these differences up: The contintal writers much prefer to use words having to do with **intentionality**, with human subjectivity and experience, and human intentional action. The analytic really is best conceived as a person preferring to use terms about **language** and **logic**; the one is concerned with Being and **action**, the other with **knowing**, **proof**, and **explanation**, and by way of all these, **computation**. I think this characterizes the way in which they are concerned
+
+I do think the highest ranked words on both sides can definitely serve as approximations of what is distinctive of the two groups; one concerned with creating a useful reconsciliation of the two would be wise to start with an account of theory and Being.
+
+#Conclusion
+
+None of this is meant nor can serve as an end to the question of what Analytic style might be, but it surely has gotten us a step closer, in at least demonstrating that there is something that it is for a style to be analytic, and that it is related to the traditional understading of it, though neither fact counts as a breakthrough in our understanding of what this relation consists in. I think more than anything, it has demonstrated the usefulness of these techniques for the philosophical and humanities enterprises. 
+
+#Works Cited
+
+* Eder, M., Rybicki, J. and Kestemont, M. (2016). Stylometry with R:
+  a package for computational text analysis. R   Journal 8(1): 107-121.
+  <https://journal.r-project.org/archive/2016/J-2016-007/index.html>
+

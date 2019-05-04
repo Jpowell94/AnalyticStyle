@@ -1,0 +1,1943 @@
+Is the Brain a Digital Computer?
+Author(s): John R. Searle
+Source: Proceedings and Addresses of the American Philosophical Association, Vol. 64, No.
+3 (Nov., 1990), pp. 21-37
+Published by: American Philosophical Association
+Stable URL: https://www.jstor.org/stable/3130074
+Accessed: 11-04-2019 12:37 UTC
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+American Philosophical Association is collaborating with JSTOR to digitize, preserve and
+extend access to Proceedings and Addresses of the American Philosophical Association
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:37:52 UTC
+All use subject to https://about.jstor.org/terms
+
+IS THE BRAIN A DIGITAL COMPUTER?
+John R. Searle
+University of California/Berkeley
+
+Presidential Address delivered before the Sixty-fourth Annual Pacific Division Meeting of the
+
+American Philosophical Association in Los Angeles, California, March 30, 1990.
+
+I. Introduction, Strong AI, Weak AI and Cognitivism.
+There are different ways to present a Presidential Address to the APA; the one I have
+
+chosen is simply to report on work that I am doing right now, on work in progress. I am
+going to present some of my further explorations into the computational model of the
+mind. [1]
+The basic idea of the computer model of the mind is that the mind is the program and
+the brain the hardware of a computational system. A slogan one often sees is "the mind
+is to the brain as the program is to the hardware." [2]
+
+Let us begin our investigation of this claim by distinguishing three questions:
+
+1. Is the brain a digital computer?
+2. Is the mind a computer program?
+3. Can the operations of the brain be simulated on a digital computer?
+I will be addressing 1 and not 2 or 3. I think 2 can be decisively answered in the
+negative. Since programs are defined purely formally or syntactically and since minds have
+
+an intrinsic mental content, it follows immediately that the program by itself cannot
+constitute the mind. The formal syntax of the program does not by itself guarantee the
+
+presence of mental contents. I showed this a decade ago in the Chinese Room Argument
+(Searle, 1980). A computer, me for example, could run the steps of the program for some
+mental capacity, such as understanding Chinese, without understanding a word of Chinese.
+The argument rests on the simple logical truth that syntax is not the same as, nor is it by
+itself sufficient for, semantics. So the answer to the second question is obviously "No".
+
+The answer to 3. seems to me equally obviously "Yes", at least on a natural
+interpretation. That is, naturally interpreted, the question means: Is there some description
+
+of the brain such that under that description you could do a computational simulation of
+the operations of the brain. But since according to Church's thesis, anything that can be
+
+given a precise enough characterization as a set of steps can be simulated on a digital
+computer, it follows trivially that the question has an affirmative answer. The operations
+of the brain can be simulated on a digital computer in the same sense in which weather
+systems, the behavior of the New York stock market or the pattern of airline flights over
+Latin America can. So our question is not, "Is the mind a program?" The answer to that
+
+21
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:37:52 UTC
+All use subject to https://about.jstor.org/terms
+
+22 APA PROCEEDINGS, VOL. 64, NO.3
+
+is, "No". Nor is it, "Can the brain be simu
+
+question is, "Is the brain a digital computer?
+taking that question as equivalent to: "Are b
+One might think that this question would
+receives a negative answer. That is, one migh
+there is no interest to the question whether t
+the case. Even for those who agree that pro
+mental phenomena, there is still an importan
+mind than the syntactical operations of the d
+
+case that mental states are at least comp
+
+computational processes operating over the f
+in fact, seems to me the position taken by a
+I am not saying that the view is fully cle
+some level of description brain processes are
+
+in the head". These need not be sentences
+
+"Language of Thought" (Fodor, 1975). Now, l
+structure and a semantics or meaning, and th
+
+the problem of semantics. The problem of s
+
+head get their meanings? But that questi
+
+question: How does the brain work in process
+
+latter question is: The brain works as a di
+operations over the syntactical structure of
+
+Just to keep the terminology straight, I cal
+
+is having a program, Strong AI, the view tha
+be simulated computationally, Weak AI, and
+Cognitivism.
+This paper is about Cognitivism, and I had better say at the beginning what motivates
+it. If you read books about the brain (say Shepherd (1983) or Kuffler and Nicholls (1976))
+you get a certain picture of what is going on in the brain. If you then turn to books about
+computation (say Boolos and Jeffrey, 1989) you get a picture of the logical structure of the
+
+theory of computation. If you then turn to books about cognitive science, (say Pylyshyn,
+1985) they tell you that what the brain books describe is really the same as what the
+computability books were describing. Philosophically speaking, this does not smell right to
+me and I have learned, at least at the beginning of an investigation, to follow my sense of
+smell.
+
+II. The Primal Story
+I want to begin the discussion by trying to state as strongly as I can why Cognitivism
+has seemed intuitively appealing. There is a story about the relation of human intelligence
+
+to computation that goes back at least to Turing's classic paper (1950), and I believe it is
+the foundation of the Cognitivist view. I will call it the Primal Story:
+We begin with two results in mathematical logic, the Church-Turing thesis (sometimes
+called Church's thesis) and Turing's theorem. For our purposes, the Church-Turing
+thesis states that for any algorithm there is some Turing machine that can implement
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:37:52 UTC
+All use subject to https://about.jstor.org/terms
+
+PRESIDENTIAL
+
+ADDRESSES
+
+23
+
+that algorithm. Turing's theorem
+can simulate any Turing Machi
+result that a Universal Turing
+
+But now, what made this result s
+spines of a whole generation of y
+thought: Suppose the brain is a U
+Well, are there any good reasons
+Machine? Let us continue with t
+
+It
+
+is
+
+can
+
+clear
+
+that
+
+consciously
+
+at
+
+least
+
+do
+
+long
+
+some
+
+hu
+
+division
+
+b
+long division problems. It is fur
+and Turing's theorem that any
+
+a
+
+Universal Turing Machine.
+that I use for long division
+
+Turing
+
+(1950),
+
+implementing
+
+both
+
+the
+
+I,
+
+same
+
+the
+
+I ca
+on
+
+hu
+
+algorith
+
+nonconsciously. Now it seems r
+mental processes going on in
+And if so, we could find out ho
+on a digital computer. Just as w
+
+of
+
+long
+
+division, so
+language, visual
+
+we
+
+could get a co
+perception, cate
+
+"But what about semantics? After
+of logico-mathematical results co
+The
+
+development
+
+of
+
+proof
+
+theor
+
+semantic relations between pro
+relations between the sentences
+mental contents in the head are
+need to account for mental pro
+syntactical elements in the head
+take care of itself; and that is w
+
+We thus have a well defined rese
+implemented in the brain by pro
+We do this in turn by getting th
+human computer (i.e. to pass the
+for evidence that the internal pr
+Now in what follows I would lik
+
+especially Turing's contrast betwe
+human computer and the noncons
+or by the mechanical computer; n
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:37:52 UTC
+All use subject to https://about.jstor.org/terms
+
+24 APA PROCEEDINGS, VOL. 64, NO.3
+programs running in nature, the very same
+computers.
+
+If one looks at the books and articles suppor
+assumptions, often unstated, but nonetheless
+only alternative to the view that the brain is
+The idea is that unless you believe in the exis
+
+believe that the brain is a computer. Indee
+
+question whether the brain is a physical mec
+whether the brain is a digital computer are t
+idea is to bully the reader into thinking tha
+some kind of computer, he is committed to s
+
+field has opened up a bit to allow that the
+Neumann style digital computer, but rather a
+
+computational equipment. Still, to deny that
+
+your membership in the scientific community
+
+Second, it is also assumed that the question
+is just a plain empirical question. It is to be s
+
+way that such questions as whether the h
+
+photosynthesis were settled as matters of fa
+conceptual analysis, since we are talking abou
+think many people who work in this field wo
+appropriate philosophic question at all. "Is the
+a philosophical question than "Is the neurotra
+acetylcholene?"
+Even people who are unsympathetic to Cogn
+to treat it as a straightforward factual issue
+question what sort of claim it might be that
+question: What sort of fact about the brain c
+Third, another stylistic feature of this lit
+carelessness with which the foundational ques
+anatomical and physiological features of brai
+a digital computer? And how are the answers
+The usual procedure in these books and artic
+l's, give a popular summary of the Church-Tu
+exciting things such as computer achievement
+literature I have found that there seems to b
+hand, we have a very elegant set of mathema
+to Church's thesis to recursive function theor
+
+set of electronic devices which we use ev
+
+mathematics and such good electronics, we a
+done the basic philosophical work of connect
+as far as I can tell that is not the case. On th
+where there is little theoretical agreement a
+fundamental questions as, What exactly is a d
+What exactly is a computational process? Und
+systems implementing the same program?
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:37:52 UTC
+All use subject to https://about.jstor.org/terms
+
+PRESIDENTIAL
+
+m.
+
+ADDRESSES
+
+The
+
+25
+
+Definition
+
+of
+
+Since there is no universal agree
+to go back to the sources, back to
+
+According to Turing, a Turing m
+It can rewrite a 0 on its tape as
+tape 1 square to the left, or it ca
+a program of instruction and eac
+carried out if the condition is sat
+That
+
+is
+
+the
+
+misleading.
+1's or even
+
+standard
+
+definition
+
+o
+
+If you open up your h
+a tape. But this does
+
+object
+
+and
+
+is really a digital computer
+l's, etc.; rather we just have t
+
+or could be used to function as O's
+it turns out that this machine cou
+says, "It could be made out of cog
+
+it
+
+could
+
+be
+
+made
+
+out
+
+of
+
+a
+
+hydraul
+
+out of transistors etched into a s
+could even be carried out by the
+to
+
+represent
+
+binary
+
+symbols--the
+
+level of the voltage and perhaps
+Similar remarks are made by mo
+Ned Block (Block, 1990), shows h
+are assigned to voltage levels of
+
+we should go and look for voltage
+assigned to a certain voltage level
+further that we did not need to u
+
+system of cats and mice and che
+strain at the leash and pull open
+The point, as Block is anxious to
+computational
+
+description. These
+equivalent" (p. 26
+al sequence could be realized by "a
+(Pylyshn, 1985, p. 57)
+
+computationally
+
+But now if we are trying to take
+we get the uncomfortable result t
+
+does out of pretty much anythin
+a "brain" that functions just like
+or
+
+water
+
+pipes
+
+or
+
+pigeons
+
+or
+
+anyt
+
+"computationally equivalent". You
+waterpipes, or whatever it might
+sheer and unconcealed delight. Bu
+going to try to show that it is jus
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:37:52 UTC
+All use subject to https://about.jstor.org/terms
+
+26 APA PROCEEDINGS, VOL. 64, NO.3
+
+IV. First Difficulty: Syntax is not In
+
+Why are the defenders of computationalism n
+
+realizability? The answer is that they think
+
+same function admits of multiple realization
+
+carburetors and thermostats. Just as carb
+
+computers can be made of an indefinite range
+But there is a difference: The classes of car
+
+terms of the production of certain physical ef
+
+you can make carburetors out of pigeons
+
+syntactically in terms of the assignment of
+consequence not of the fact that the same p
+physical substances, but that the relevant pro
+
+irrelevant except insofar as it admits of t
+
+transitions between them.
+
+But this has two consequences which might
+
+1. The same principle that implies mult
+
+universal realizability. If computation is
+
+syntax then everything would be a digita
+
+could have syntactical ascriptions made t
+terms of O's and l's.
+
+2. Worse yet, syntax is not intrinsic to
+
+properties is always relative to an agent o
+
+phenomena as syntactical.
+
+Now why exactly would these consequence
+Well, we wanted to know how the brain w
+
+phenomena. And it would not answer that q
+
+computer in the sense in which stomach, liver
+
+are all digital computers. The model we had
+the operation of the brain which would show
+if there was not some sense in which brains
+
+that green leaves intrinsically perform photo
+It is not a matter of us arbitrarily or "conven
+
+or "photosynthesis" to leaves. There is an ac
+asking is, "Is there in that way a fact of the
+digital computers?" It does not answer that
+computers because everything is a digital com
+On the standard textbook definition of com
+
+1. For any object there is some descript
+
+description the object is a digital comput
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:37:52 UTC
+All use subject to https://about.jstor.org/terms
+
+PRESIDENTIAL
+2.
+
+For
+
+any
+
+ADDRESSES
+
+program
+
+description
+
+of
+
+27
+
+there
+
+the
+
+is
+
+object
+
+so
+
+unde
+
+example the wall behind my
+program, because there is s
+isomorphic
+Wordstar
+
+any
+
+with
+
+then
+
+program
+
+the
+
+if
+
+it
+
+formal
+is
+
+a
+
+str
+
+big
+
+en
+
+implemented
+
+in
+
+I think the main reason that t
+realizability is a problem is that
+point, namely that the "syntax"
+On the contrary they talk of "sy
+talk were like that of gasoline en
+of fact that the brain or anythin
+I
+
+think
+
+it
+
+is
+
+probably
+
+possible
+
+to
+
+up our definition of computation
+and engineers regard it as a quirk
+
+of
+
+computation.
+
+suggest
+
+causal
+
+that
+
+a
+
+relations
+
+mechanism,
+
+Unpublished
+
+more
+
+and
+
+realistic
+
+among
+
+w
+
+defi
+
+program
+
+situatedness
+
+in
+
+definition of computation are n
+problem is that syntax is essenti
+of
+
+computationally equivalent pro
+the processes were abstract, but
+depended on an interpretation fr
+which would make brain process
+computation, there never could
+
+hand, say that anything is a dig
+suppose there is a factual questi
+natural system such as the brain
+And if the word "syntax" seem
+That is, someone might claim tha
+
+of speaking and that what we ar
+discrete physical phenomena and
+really
+
+no
+
+need
+
+help.
+
+A
+
+assignment
+
+O's
+
+and
+
+I's;
+
+physical
+to
+
+that
+
+they
+
+state
+
+state
+
+of
+
+are
+
+of
+
+a
+
+some
+
+problem arises without O's and 1
+program do not name intrinsic p
+discovered within the physics, the
+This is a different argument fr
+it ten years ago but I did not. Th
+intrinsic
+
+to
+
+syntax.
+
+I
+
+am
+
+now
+
+ma
+
+intrinsic to physics. For the purp
+the syntactical characterization o
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:37:52 UTC
+All use subject to https://about.jstor.org/terms
+
+28 APA PROCEEDINGS, VOL. 64, NO.3
+
+There is no way you could discover that som
+because the characterization of it as a digital
+who assigns a syntactical interpretation to th
+applied to the Language of Thought hypothe
+is incoherent. There is no way you could disc
+sentences in your head because something is a
+
+who uses it as a sentence. As applied to t
+
+characterization of a process as computationa
+from outside; and the identification of the pr
+intrinsic feature of the physics, it is essential
+This point has to be understood precisely. I
+the patterns we could discover in nature. We
+
+in my brain that was isomorphic to the im
+
+computer. But to say that something is func
+
+something more than that a pattern of ph
+
+assignment of a computational interpretatio
+discover in nature objects which had the sam
+
+therefore be used as chairs; but we could
+
+functioning as chairs, except relative to some
+chairs.
+
+V. Second Difficulty: The Homunculus Fallacy
+is Endemic to Cognitivism
+So far, we seem to have arrived at a problem. Syntax is not part of physics. This has
+the consequence that if computation is defined syntactically then nothing is intrinsically
+a digital computer solely in virtue of its physical properties. Is there any way out of this
+problem? Yes, there is, and it is a way standardly taken in cognitive science, but it is out
+of the frying pan and into the fire. Most of the works I have seen in the computational
+
+theory of the mind commit some variation on the homunculus fallacy. The idea always
+is to treat the brain as if there were some agent inside it using it to compute with. A
+typical case is David Marr (1982) who describes the task of vision as proceeding from a
+two-dimensional visual array on the retina to a three-dimensional description of the
+
+external world as output of the visual system. The difficulty is: Who is reading the
+description? Indeed, it looks throughout Marr's book, and in other standard works on the
+subject, as if we have to invoke a homunculus inside the system in order to treat its
+operations as genuinely computational.
+Many writers feel that the homunculus fallacy is not really a problem, because, with
+Dennett (1978), they feel that the homunculus can be "discharged". The idea is this: Since
+the computational operations of the computer can be analyzed into progressively simpler
+units, until eventually we reach simple flip-flop, "yes-no", "1-0" patterns, it seems that the
+
+higher-level homunculi can be discharged with progressively stupider homunculi, until
+finally we reach the bottom level of a simple flip-flop that involves no real homunculus at
+all. The idea, in short, is that recursive decomposition will eliminate the homunculi.
+It took me a long time to figure out what these people were driving at, so in case
+someone else is similarly puzzled I will explain an example in detail: Suppose that we have
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:37:52 UTC
+All use subject to https://about.jstor.org/terms
+
+PRESIDENTIAL
+
+ADDRESSES
+
+29
+
+a
+
+computer that multiplies six tim
+it?" Well, the answer might be t
+"How does it add six to itself seve
+of
+
+on
+
+the
+
+numerals into binary notati
+binary notation until finally w
+
+are
+
+of
+
+the
+
+form,
+
+"Print
+
+intelligent
+
+homunculus
+
+But
+
+next
+
+at
+
+the
+
+actually
+
+know
+
+a
+
+says
+
+lower-level
+
+how
+
+to
+
+do
+
+zero
+"I
+
+kn
+
+he
+
+is
+
+multi
+
+stupider ones who say 'We do not
+we know how to convert decima
+do not know anything about any
+symbols." At the bottom level ar
+zero one". All of the higher leve
+really exists; the top levels are al
+
+Various authors (e.g. Haugeland
+say that the system is a syntact
+face the question we had before:
+What facts about the bottom leve
+ones?
+
+Without
+
+a
+
+homunculus
+
+that
+
+s
+
+have a syntax to operate with. Th
+recursive decomposition fails, be
+physics is to put a homunculus in
+There
+higher
+
+really
+
+is
+
+a
+
+fascinating
+
+levels
+
+of
+
+there
+
+feature
+
+computation,
+
+that
+
+to
+
+e.g.
+
+"
+
+corresponds
+
+homunculus/beholder. But they
+electronic circuit, they admit, d
+
+manipulate O's and l's and these m
+to concede that the higher levels
+to
+
+concede
+us.
+
+with
+
+For
+
+real
+
+that
+
+the
+
+computers
+
+lower
+of
+
+levels
+
+the
+
+kind
+
+a
+
+y
+
+each user is the homunculus in
+digital computer, we are still fac
+
+homunculus questions in cognitiv
+system compute shape from shad
+retinal image?" A parallel question
+to travel in the board from the im
+the answer is the same in both sor
+intrinsically neither nails nor vis
+might describe them computatio
+understand hammering by suppo
+hammering algorithms and you
+implementing, e.g., the shape fro
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:37:52 UTC
+All use subject to https://about.jstor.org/terms
+
+30 APA PROCEEDINGS, VOL. 64, NO.3
+
+VI. Third Difficulty: Syntax Has No
+
+Certain sorts of explanations in the natu
+
+function causally in the production of the ph
+common in the biological sciences. Think of t
+photosynthesis, the DNA theory of inherited
+
+natural selection. In each case a causal mech
+
+specification gives an explanation of the outp
+and look at the Primal Story it seems clear tha
+Cognitivism. The mechanisms by which brain
+
+to be computational, and by specifying the pr
+cognition. One beauty of this research program
+
+to know the details of brain functioning in o
+
+provide only the hardware implementation of th
+
+is where the real cognitive explanations are g
+
+Newell for example, there are three levels
+intentionality (Newell calls this last level,
+
+contribution of cognitive science is made at th
+But if what I have said so far is correct, then
+
+project. I used to believe that as a causal acc
+
+false; but I now am having difficulty formula
+
+the point where it could be an empirical thes
+lot of symbols being manipulated in the brai
+lightning speed and invisible not only to the
+electron microscope, and it is these which caus
+O's and 1's as such have no causal powers at al
+the eyes of the beholder. The implemented pro
+of the implementing medium because the pro
+beyond that of the implementing medium. Ph
+a separate "program level".
+
+You can see this if you go back to the Pr
+
+difference between the mechanical computer
+human computer there really is a program level
+
+causally at that level to convert input to outpu
+
+following the rules for doing a certain com
+performance. But when we program the m
+
+computation, the assignment of a computation
+outside homunculi. And there is no longer a le
+
+system. The human computer is consciously f
+behavior, but the mechanical computer is not
+designed to behave exactly as if it were follow
+purposes it does not matter. Now Cognitivism
+
+commercial computer and this causes cog
+
+commercial computer and brain have only patt
+in addition to those of the implementing med
+
+could give a causal account of cognition.
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:37:52 UTC
+All use subject to https://about.jstor.org/terms
+
+PRESIDENTIAL
+
+However
+
+casually
+
+ADDRESSES
+
+there
+
+knows
+
+is
+
+a
+
+31
+
+puzzle
+
+that
+
+we
+
+for
+
+often
+
+program. For example, we can s
+because the machine is implemen
+looks like an ordinary causal exp
+
+that syntax, as such, has no
+explanations that appeal to pr
+explanations
+Could
+
+we
+
+notion
+
+provide
+
+for
+
+"thermostat"
+
+physics
+
+of
+
+its
+
+independent
+
+To
+
+explore
+
+Primal
+
+an
+
+example
+
+appropri
+
+rescue
+
+the
+
+figures
+
+in
+
+implementation,
+
+of
+
+the
+
+this
+
+gives
+
+running
+
+for
+
+same
+
+a
+
+sense
+
+let
+
+at
+
+in
+
+least
+
+us
+
+tr
+
+the
+
+Turing
+
+program
+
+the
+
+as
+
+that?
+
+the
+
+and
+
+we
+
+can
+
+Doesn't
+
+e
+
+the
+
+evid
+
+behavior
+
+which
+
+that
+
+program,
+
+how
+
+psychological
+
+with
+
+know
+
+show
+
+same
+
+explain
+
+wrong
+
+We
+
+us
+
+the
+
+indirect
+
+causally
+is
+
+to
+
+physics.
+
+puzzle
+
+Co
+practice. The idea, typically, is
+some cognitive capacity, such as
+
+that
+
+Story
+
+c
+
+so
+
+of
+
+expl
+
+it
+
+sou
+
+commercial
+
+in
+
+the
+
+brain
+
+c
+
+w
+
+explanation.
+Two
+
+things ought to worry us
+this mode of explanation fo
+it worked at the neurobiolo
+
+accept
+
+how
+of
+
+system
+
+example,
+
+that
+
+the
+
+we
+
+can
+
+famous
+
+simulate
+
+account
+
+c
+
+of
+
+al. 1959 in McCulloch, 1965). The
+physiology of the frog's nervou
+
+this:
+
+1. Sustained Contrast Detectors
+
+An unmyelinated axon of this group does not respond when the general illumination
+is turned on or off. If the sharp edge of an object either lighter or darker than the
+background moves into its field and stops, it discharges promptly and continues
+discharging, no matter what the shape of the edge or whether the object is smaller or
+larger than the receptive field. (p. 239).
+I have never heard anyone say that all this is just the hardware implementation, and
+that they should have figured out which program the frog was implementing. I do not
+doubt that you could do a computer simulation of the frog's "bug detectors". Perhaps
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:37:52 UTC
+All use subject to https://about.jstor.org/terms
+
+32 APA PROCEEDINGS, VOL. 64, NO.3
+
+someone has done it. But we all know that o
+
+system actually works, the "computational lev
+To illustrate the second point, consider sim
+
+for example, typing these words on a mac
+
+fashioned mechanical typewriter. [4] As sim
+simulates a typewriter better than any Al pr
+
+sane person thinks: "At long last we unde
+
+implementations of word processing program
+computational simulations provide causal exp
+So what is going on? We do not in general
+of brain processes give us any explanations i
+
+accounts of how the brain actually work
+computational simulation of Y" to name a
+
+suppose that because the computer simulates
+simulates a computer. We do not suppose tha
+hurricane, that the causal explanation of the
+
+program. So why should we make an excepti
+processes are concerned? Are there any good
+what kind of a causal explanation is an expla
+Here, I believe, is the solution to our puzzle
+the system, you are left only with a pattern
+
+could attach a computational interpretation. N
+
+of the pattern by itself provides a causal ex
+pattern exists in a system you know that some
+
+So you can, for example, predict later stages
+already know that the system has been prog
+give explanations that make reference to th
+
+say, e.g., this machine behaves the way it
+
+explaining that this book begins with a bit ab
+
+long passages about a bunch of brothers, bec
+Dostoevsky's The Brothers Karamazov. But y
+a typewriter or a brain by identifying a pat
+simulation, because the existence of the patte
+works as a physical system. In the case of cog
+of abstraction to explain such concrete ment
+occurrence of a visual perception or the unde
+Now, I think it is obvious that we cannot ex
+
+by pointing to formal patterns they share w
+it not obvious in the case of the brain?
+
+Here we come to the second part of our so
+
+for Cognitivism we were tacitly supposing that
+
+for cognition, in the same sense that Tur
+
+computer implement algorithms. But it is pr
+to be mistaken. To see this, ask yourself wh
+
+algorithm. In the human computer the system
+algorithm, so the process is both causal and l
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:37:52 UTC
+All use subject to https://about.jstor.org/terms
+
+PRESIDENTIAL
+
+ADDRESSES
+
+33
+
+a
+
+set of rules for deriving the o
+agent is making a conscious eff
+mechanical computer, the whol
+
+homunculus the system is bo
+provides an interpretation to
+hardware of the machine caus
+
+cannot be met by the brute, blin
+In the brain computer there is n
+as
+to
+
+is
+
+there
+
+is
+
+attach
+
+in
+
+the
+
+a
+
+in
+
+the
+
+mechanical
+
+human
+
+com
+
+computer,
+
+bu
+interpre
+
+computational
+
+the
+
+brain is a pattern of events
+the mechanical computer, but t
+and hence explains nothing.
+In sum, the fact that the attri
+fatal to the claim that programs
+consequences of this, let us remi
+like. Explanations such as Choms
+account of vision proceed by sta
+converted into a symbolic outpu
+S, is converted into any one of a
+
+application
+dimensional
+in
+
+of
+
+a
+
+set
+
+visual
+
+accordance
+
+of
+
+array
+
+with
+
+syntac
+are
+
+certain
+
+con
+
+algor
+
+tational
+
+task, the algorithmic sol
+algorithm has (like Newell's dist
+pattern of the explanation.
+
+If
+
+you
+
+take
+
+these
+
+explanations
+
+that it is just as if a man alone i
+rules to generate English senten
+
+us ask what facts in the real wo
+applied to the brain. In Chomsk
+the agent consciously goes thro
+supposed to think that he is un
+Rather the rules are "computatio
+what does that mean? Well, we
+computer. The sort of thing tha
+a commercial computer is suppo
+brain. But we have seen that in t
+
+relative,
+
+the
+
+ascription
+
+interpretations
+
+just
+
+an
+
+to
+
+the
+
+electronic
+
+homunculus?
+
+As
+
+is
+
+circuit.
+
+far
+
+as
+
+mad
+
+hardware
+I
+
+So
+
+h
+
+know,
+
+n
+
+even thought there was such
+explanatory power to the post
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:37:52 UTC
+All use subject to https://about.jstor.org/terms
+
+34 APA PROCEEDINGS, VOL. 64, NO.3
+mechanism, the brain, with its various real
+description.
+
+VII. Fourth Difficulty: The Brain Does
+Not Do Information Processing
+In this section I turn finally to what I think is, in some ways, the central issue in all
+
+of this, the issue of information processing. Many people in the "cognitive science"
+scientific paradigm will feel that much of my discussion is simply irrelevant and they will
+
+argue against it as follows:
+There is a difference between the brain and all of these other systems you have been
+describing, and this difference explains why a computational simulation in the case of
+
+the other systems is a mere simulation, whereas in the case of the brain a computational simulation is actually duplicating and not merely modeling the functional
+properties of the brain. The reason is that the brain, unlike these other systems, is an
+information processing system. And this fact about the brain is, in your words,
+
+"intrinsic". It is just a fact about biology that the brain functions to process
+information, and since we can also process the same information computationally,
+
+computational models of brain processes have a different role altogether from
+computational models of, for example, the weather. So there is a well defined research
+question: "Are the computational procedures by which the brain processes information
+
+the same as the procedures by which computers process the same information?
+
+What I just imagined an opponent saying embodies one of the worst mistakes in
+cognitive science. The mistake is to suppose that in the sense in which computers are used
+
+to process information, brains also process information. To see that that is a mistake,
+contrast what goes on in the computer with what goes on in the brain. In the case of the
+computer, an outside agent encodes some information in a form that can be processed by
+the circuitry of the computer. That is, he or she provides a syntactical realization of the
+information that the computer can implement in, for example, different voltage levels.
+
+The computer then goes through a series of electrical stages that the outside agent can
+interpret both syntactically and semantically even though, of course, the hardware has no
+intrinsic syntax or semantics: It is all in the eye of the beholder. And the physics does not
+matter provided only that you can get it to implement the algorithm. Finally, an output
+is produced in the form of physical phenomena which an observer can interpret as symbols
+with a syntax and a semantics.
+But now contrast that with the brain. In the case of the brain, none of the relevant
+neurobiological processes are observer relative (though of course, like anything, they can
+be described from an observer relative point of view) and the specificity of the neurophysi-
+
+ology matters desperately. To make this difference clear, let us go through an example.
+Suppose I see a car coming toward me. A standard computational model of vision will
+take in information about the visual array on my retina and eventually print out the
+sentence, "There is a car coming toward me". But that is not what happens in the actual
+biology. In the biology a concrete and specific series of electro-chemical reactions are set
+up by the assault of the photons on the photo receptor cells of my retina, and this entire
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:37:52 UTC
+All use subject to https://about.jstor.org/terms
+
+PRESIDENTIAL
+process
+of
+
+a
+
+of
+
+eventually
+
+bunch
+
+a
+
+ADDRESSES
+
+of
+
+results
+
+words
+
+concrete
+
+or
+
+specific
+
+35
+in
+
+a
+
+co
+
+symbols
+
+consciou
+
+concrete visual event is as specif
+meal. We can, with the compute
+of its production, as we can do an
+or any other phenomenon, but
+processing
+
+systems.
+
+In short, the sense of informa
+much too high a level of abstrac
+intentionality. The "information"
+
+It
+
+is
+
+specific
+
+information
+
+to
+
+thought,
+
+processing
+
+or
+
+which
+
+vi
+
+is
+
+of cognition, on the other hand,
+in response to a set of symbols a
+
+We
+
+are
+
+blinded
+
+to
+
+this
+
+differe
+
+coming toward me", can be used
+of the computational model of v
+
+the visual experience is a concret
+chemical biological processes. To
+manipulation is to confuse the r
+discussion is that in the sense of
+to say that the brain is an infor
+
+VI.
+This
+
+brief
+
+Summary
+
+argument
+
+of
+
+has
+
+a
+
+the
+
+simp
+
+1. On the standard textbook
+of symbol manipulation.
+
+2.
+
+But
+
+syntax
+
+tokens
+
+terms
+
+are
+
+of
+
+and
+
+always
+
+physical
+
+A
+
+def
+
+symbols
+physical
+
+ar
+
+tok
+
+features.
+
+Sy
+
+3. This has the consequence tha
+assigned to it. Certain physic
+or interpreted syntactically. S
+
+4. It follows that you could
+intrinsically a digital comp
+interpretation
+
+to
+
+it
+
+as
+
+you
+
+cou
+
+"The brain is a digital compu
+of falsehood. It does not have
+account if you think that I am
+digital computer. The question
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:37:52 UTC
+All use subject to https://about.jstor.org/terms
+
+36 APA PROCEEDINGS, VOL. 64, NO.3
+
+as the questions "Is it an abacus?", "Is it a
+a set of mathematical formulae?"
+
+5. Some physical systems facilitate the com
+
+That is why we build, program, and
+
+homunculus in the system interpreting th
+terms.
+
+6. But the causal explanations we then give do not cite causal properties d
+
+from the physics of the implementation and the intentionality of the hom
+
+7. The standard, though tacit, way out of this is to commit the homunculu
+The homunculus fallacy is endemic to computational models of cognit
+cannot be removed by the standard recursive decomposition arguments
+addressed to a different question.
+
+8. We cannot avoid the foregoing results by supposing that the brai
+"information processing". The brain, as far as its intrinsic operat
+
+concerned, does no information processing. It is a specific biological org
+
+specific neurobiological processes cause specific forms of intentionalit
+brain, intrinsically, there are neurobiological processes and sometimes t
+consciousness. But that is the end of the story. [5]
+Footnotes
+
+[1] For earlier explorations see Searle (1980) and Searle (1984).
+
+[2] This view is announced and defended in a large number of books and articles
+many of which appear to have more or less the same title, e.g. Computers and Though
+(Feigenbaum and Feldman, eds. 1963), Computers and Thought (Sharples et al, 1988), Th
+Computer and the Mind (Johnson-Laird, 1988), Computation and Cognition (Pylyshyn, 198
+
+"The Computer Model of the Mind" (Block, 1990, forthcoming), and of course,
+
+"Computing Machinery and Intelligence" (Turing, 1950).
+[3] People sometimes say that it would have to add six to itself eight times. But tha
+is bad arithmetic. Six added to itself eight times is fifty-four, because six added to itsel
+zero times is still six. It is amazing how often this mistake is made.
+[4] The example was suggested by John Batali.
+[5] I am indebted to a remarkably large number of people for discussions of the issue
+
+in this paper. I cannot thank them all, but special thanks are due to John Batali, Vino
+Goel, Ivan Havel, Kirk Ludwig, Dagmar Searle and Klaus Strelau.
+References
+
+Block, Ned (1990), forthcoming "The Computer Model of the Mind".
+Boolos, George S. and Jeffrey, Richard C. (1989). Computability and Logic. Cambridge
+University Press, Cambridge.
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:37:52 UTC
+All use subject to https://about.jstor.org/terms
+
+PRESIDENTIAL
+
+Dennett,
+
+Press,
+
+ADDRESSES
+
+Daniel
+
+C.
+
+(1978).
+
+Cambridge,
+
+Feigenbaum,
+
+E.A.
+
+37
+
+Brainst
+
+Mass.
+
+and
+
+Feldman
+
+Company, New York and San
+Fodor, J. (1975). The Language
+
+F
+o
+
+Haugeland, John, ed. (1981). M
+Johnson-Laird, P.N. (1988). Th
+Cambridge,
+
+Kuffler,
+
+Associates,
+
+Lettvin,
+Frog's
+
+W.
+
+and
+
+Sunderland,
+
+J.Y.,
+
+Eye
+
+1940-1951,
+
+Marr,
+
+Mass.
+
+Stephen
+
+Maturana,
+
+Tells
+
+the
+
+(1982).
+
+H.R
+
+Frog's
+
+reprinted
+
+David
+
+Nich
+
+Mass.
+
+in
+
+Brai
+McCu
+
+Vision.
+
+W
+
+McCulloch, Warren S. (1965). Th
+Pylyshyn, Z. (1985). Computatio
+Searle, John R. (1980). "Minds,
+
+3, pp. 417-424.
+Searle, John R. (1984). Minds, Brains and Science. Harvard University Press, Cambridge,
+Mass.
+
+Sharples, M., Hogg, D., Hutchinson, C., Torrance, S., and Young, D. (1988). Computers
+and Thought. MIT Press, Cambridge, Mass. and London.
+
+Shepherd, Gordon M. (1983). Neurobiology. Oxford University Press, New York and
+Oxford.
+
+Turing, Alan (1950). "Computing Machinery and Intelligence." Mind, 59, 433-460.
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:37:52 UTC
+All use subject to https://about.jstor.org/terms
+
+

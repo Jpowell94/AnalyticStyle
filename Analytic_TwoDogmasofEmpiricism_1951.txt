@@ -1,0 +1,1263 @@
+Philosophical Review
+
+Main Trends in Recent Philosophy: Two Dogmas of Empiricism
+Author(s): W. V. Quine
+Source: The Philosophical Review, Vol. 60, No. 1 (Jan., 1951), pp. 20-43
+Published by: Duke University Press on behalf of Philosophical Review
+Stable URL: https://www.jstor.org/stable/2181906
+Accessed: 11-04-2019 12:15 UTC
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Philosophical Review, Duke University Press are collaborating with JSTOR to digitize,
+preserve and extend access to The Philosophical Review
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+TWO DOGMAS OF EMPIRICISM'
+M ODERN empiricism has been conditioned in large part by two
+
+dogmas. One is a belief in some fundamental cleavage between
+
+truths which are analytic, or grounded in meanings independently o
+matters of fact, and truth which are synthetic, or grounded in fact.
+The other dogma is reductionism: the belief that each meaningful
+statement is equivalent to some logical construct upon terms which
+refer to immediate experience. Both dogmas, I shall argue, are ill
+founded. One effect of abandoning them is, as we shall see, a blurring
+of the supposed boundary between speculative metaphysics and natural
+science. Another effect is a shift toward pragmatism.
+I. BACKGROUND FOR ANALYTICITY
+
+Kant's cleavage between analytic and synthetic truths was foreshadowed in Hume's distinction between relations of ideas and matters of
+fact, and in Leibniz's distinction between truths of reason and truths of
+
+fact. Leibniz spoke of the truths of reason as true in all possible worlds.
+Picturesqueness aside, this is to say that the truths of reason are those
+which could not possibly be false. In the same vein we hear analytic
+statements defined as statements whose denials are self-contradictory.
+But this definition has, small explanatory value; for the notion of self-
+
+contradictoriness, in the quite broad sense needed for this definition
+of analyticity, stands in exactly the same need of clarification as does
+the notion of analyticity itself.2 The two notions are the two sides of
+a single dubious coin.
+
+Kant conceived of an analytic statement as one that attributes to its
+subject no more than is already conceptually contained in the subject.
+' Much of this paper is devoted to a critique of analyticity which I have been
+urging orally and in correspondence for years past. My debt to the other partici-
+
+pants in those discussions, notably Carnap, Church, Goodman, Tarski, and White,
+is large and indeterminate. White's excellent essay "The Analytic and the
+Synthetic: An Untenable Dualism," in John Dewey: Philosopher of Science
+and Freedom (New York, I950), says much of what needed to be said on the
+topic; but in the present paper I touch on some further aspects of the problem.
+I am grateful to Dr. Donald L. Davidson for valuable criticism of the first draft.
+2 See White, Op. Cit., p. 324.
+20
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+MAIN TRENDS IN RECENT PHILOSOPHY
+
+This formulation has two shortcomings: it limits itself to statements
+
+of subject-predicate form, and it appeals to a notion of containment
+which is left at a metaphorical level. But Kant's intent, evident more
+from the use he makes of the notion of analyticity than from his defini-
+
+tion of it, can be restated thus: a statement is analytic when it is true
+
+by virtue of meanings and independently of fact. Pursuing this line,
+
+let us examine the concept of meaning which is presupposed.
+We must observe to begin with that meaning is not to be identified
+with naming, or reference. Consider Frege's example of 'Evening
+Star' and 'Morning Star'. Understood not merely as a recurrent
+evening apparition but as a body, the Evening Star is the planet
+Venus, and the Morning Star is the same. The two singular terms
+name the same thing. But the meanings must be treated as distinct,
+since the identity 'Evening Star = Morning Star' is a statement of
+fact established by astronomical observation. If 'Evening Star' and
+
+'Morning Star' were alike in meaning, the identity 'Evening Star =
+Morning Star' would be analytic.
+
+Again there is Russell's example of 'Scott' and 'the author of
+
+Waverley'. Analysis of the meanings of words was by no means sufficient to reveal to George IV that the person named by these two
+singular terms was one and the same.
+
+The distinction between meaning and naming is no less important
+at the level of abstract terms. The terms '9' and 'the number of planets'
+name one and the same abstract entity but presumably must be re-
+
+garded as unlike in meaning; for astronomical observation was needed,
+and not mere reflection on meanings, to determine the sameness of
+the entity in question.
+
+Thus far we have been considering singular terms. With general
+terms, or predicates, the situation is somewhat different but parallel.
+Whereas a singular term purports to name an entity, abstract or con-
+
+crete, a general term does not; but a general term is true of an entity,
+or of each of many, or of none. The class of all entities of which a
+general term is true is called the extension of the term. Now paralleling
+
+the contrast between the meaning of a singular term and the entity
+named, we must distinguish equally between the meaning of a general
+term and its extension. The general terms 'creature with a heart' and
+21
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+THE PHILOSOPHICAL REVIEW
+
+'creature with a kidney', e.g., are perhaps alike in extension but unlike
+in meaning.
+
+Confusion of meaning with extension, in the case of general terms,
+is less common than confusion of meaning with naming in the case of
+
+singular terms. It is indeed a commonplace in philosophy to oppose
+
+intension (or meaning) to extension, or, in a variant vocabulary,
+connotation to denotation.
+
+The Aristotelian notion of essence was the forerunner, no doubt, of
+
+the modern notion of intension or meaning. For Aristotle it was essential in men to be rational, accidental to be two-legged. But there is an
+important difference between this attitude and the doctrine of meaning. From the latter point of view it may indeed be conceded (if only
+
+for the sake of argument) that rationality is involved in the meaning
+of the word 'man' while two-leggedness is not; but two-leggedness
+may at the same time be viewed as involved in the meaning of 'biped'
+while rationality is not. Thus from the point of view of the doctrine
+
+of meaning it makes no sense to say of the actual individual, who is
+at once a man and a biped, that his rationality is essential and his twoleggedness accidental or vice versa. Things had essences, for Aristotle,
+
+but only linguistic forms have meanings. Meaning is what essence
+becomes when it is divorced from the object of reference and wedded
+to the word.
+
+For the theory -of meaning the most conspicuous question is as to
+the nature of its objects: what sort of things are meanings? They are
+evidently intended to be ideas, somehow - mental ideas for some
+semanticists, Platonic ideas for others. Objects of either sort are so
+
+elusive, not to say debatable, that there seems little hope of erecting
+a fruitful science about them. It is not even clear, granted meanings,
+when we have two and when we have one; it is not clear when linguistic forms should be regarded as synonymous, or alike in meaning,
+and when they should not. If a standard of synonymy should be arrived at, we may reasonably expect that the appeal to meanings as
+
+entities will not have played a very useful part in the enterprise.
+A felt need for meant entities may derive from an earlier failure to
+
+appreciate that meaning and reference are distinct. Once the theory of
+meaning is sharply separated from the theory of reference, it is a
+short step to recognizing as the business of the theory of meaning
+22
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+MAIN TRENDS IN RECENT PHILOSOPHY
+
+simply the synonymy of linguistic forms and the analyticity
+
+ments; meanings themselves, as obscure intermediary ent
+well be abandoned.
+
+The description of analyticity as truth by virtue of meanings started
+us off in pursuit of a concept of meaning. But now we have abandoned
+
+the thought of any special realm of entities called meanings. So the
+problem of analyticity confronts us anew.
+
+Statements which are analytic by general philosophical acclaim are
+
+not, indeed, far to seek. They fall into two classes. Those of the first
+class, which may be called logically true, are typified by:
+(i) No unmarried man is married.
+
+The relevant feature of this example is that it is not merely true as it
+
+stands, but remains true under any and all reinterpretations of 'man'
+and 'married'. If we suppose a prior inventory of logical particles, com-
+
+prising 'no', 'un-', 'not', 'if', 'then', 'and', etc., then in general a logical
+truth is a statement which is true and remains true under all reinterpretations of its components other than the logical particles.
+
+But there is also a second class of analytic statements, typified by:
+(2) No bachelor is married.
+
+The characteristic of such a statement is that it can be turned into
+logical truth by putting synonyms for synonyms; thus (2) can be
+
+turned into (i) by putting 'unmarried man' for its synonym 'bache
+lor'. We still lack a proper characterization of this second class of
+
+analytic statements, and therewith of analyticity generally, inasmuc
+
+as we have had in the above description to lean on a notion of "synonymy" which is no less in need of clarification than analyticity itself.
+
+In recent years Carnap has tended to explain analyticity by appeal
+
+to what he calls state-descriptions.3 A state-description is any exhau
+tive assignment of truth values to the atomic, or noncompound, state-
+
+ments of the language. All other statements of the language are, Car
+
+nap assumes, built up of their component clauses by means of the
+
+familiar logical devices, in such a way that the truth value of any
+complex statement is fixed for each state-description by specifiabl
+logical laws. A statement is then explained as analytic when it come
+
+out true under every state-description. This account is an adaptatio
+'R. Carnap, Meaning and Necessity (Chicago, I947), pp. 9ff.; Logical Founda-
+
+tions of Probability (Chicago, I950), pp. 70ff.
+23
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+THE PHILOSOPHICAL REVIEW
+
+of Leibniz's "true in all possible worlds." But note that this version of
+analyticity serves its purpose only if the atomic statements of the language are, unlike 'John is a bachelor' and 'John is married', mutually
+independent. Otherwise there would be a state-description which assigned truth to 'John is a bachelor' and falsity to 'John is married', and
+
+consequently 'All bachelors are married' would turn out synthetic
+rather than analytic under the proposed criterion. Thus the criterion
+of analyticity in terms of state-descriptions serves only for languages
+
+devoid of extralogical synonym-pairs, such as 'bachelor' and 'unmarried man': synonym-pairs of the type which give rise to the "second
+class" of analytic statements. The criterion in terms of state-descriptions is a reconstruction at best of logical truth.
+
+I do not mean to suggest that Carnap is under any illusions on this
+
+point. His simplified model language with its state-descriptions is
+aimed primarily not at the general problem of analyticity but at another
+
+purpose, the clarification of probability and induction. Our problem,
+however, is analyticity; and here the major difficulty lies not in the
+first class of analytic statements, the logical truths, but rather in the
+second class, which depends on the notion of synonymy.
+II. DEFINITION
+
+There are those who find it soothing to say that the analytic state-
+
+ments of the second class reduce to those of the first class, the logical
+truths, by definition; 'bachelor', e.g., is defined as 'unmarried man'.
+But how do we find that 'bachelor' is defined as 'unmarried man'?
+Who defined it thus, and when? Are we to appeal to the nearest dictionary, and accept the lexicographer's formulation as law? Clearly
+this would be to put the cart before the horse. The lexicographer is an
+
+empirical scientist, whose business is the recording of antecedent facts;
+and if he glosses 'bachelor' as 'unmarried man' it is because of his belief
+that there is a relation of synonymy between these forms, implicit in
+
+general or preferred usage prior to his own work. The notion of
+synonymy presupposed here has still to be clarified, presumably in
+terms relating to linguistic behavior. Certainly the "definition" which
+is the lexicographer's report of an observed synonymy cannot be taken
+as the ground of the synonymy.
+
+Definition is not, indeed, an activity exclusively of philologists.
+Philosophers and scientists frequently have occasion to "define" a
+24
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+MAIN TRENDS IN RECENT PHILOSOPHY
+
+recondite term by paraphrasing it into terms of a more familiar vo-
+
+cabulary. But ordinarily such a definition, like the philologist's, is pure
+lexicography, affirming a relationship of synonymy antecedent to the
+exposition in hand.
+
+Just what it means to affirm synonymy, just what the interconnec-
+
+tions may be which are necessary and sufficient in order that two linguistic forms be properly describable as synonymous, is far from
+clear; but, whatever these interconnections may be, ordinarily they
+are grounded in usage. Definitions reporting selected instances of
+synonymy come then as reports upon usage.
+
+There is also, however, a variant type of definitional activity which
+does not limit itself to the reporting of pre-existing synonymies. I
+have in mind what Carnap calls explication - an activity to which
+philosophers are given, and scientists also in their more philosophical
+moments. In explication the purpose is not merely to paraphrase the
+
+definiendum into an outright synonym, but actually to improve upon
+the definiendum by refining or supplementing its meaning. But even
+explication, though not merely reporting a pre-existing synonymy
+between definiendum and definiens, does rest nevertheless on other
+pre-existing synonymies. The matter may be viewed as follows. Any
+
+word worth explicating has some contexts which, as wholes, are clear
+and precise enough to be useful; and the purpose of explication is to
+preserve the usage of these favored contexts while sharpening the
+
+usage of other contexts. In order that a given definition be suitable for
+purposes of explication, therefore, what is required is not that the
+
+definiendum in its antecedent usage be synonymous with the
+definiens, but just that each of these favored contexts of the definiendum, taken as a whole in its antecedent usage, be synonymous with the
+corresponding context of the definiens.
+
+Two alternative definientia -may be equally appropriate for the purposes of a given task of explication and yet not be synonymous with
+each other; for they may serve interchangeably within the favored
+contexts but diverge elsewhere. By cleaving to one of these definientia
+
+rather than the other, a definition of explicative kind generates, by
+fiat, a relationship of synonymy between definiendum and definiens
+which did not hold before. But such a definition still owes its explicative function, as seen, to pre-existing synonymies.
+25
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+THE PHILOSOPHICAL REVIEW
+
+There does, however, remain still an extreme sort of definition
+which does not hark back to prior synonymies at all; viz., the explicitly conventional introduction of novel notations for purposes of sheer
+abbreviation. Here the definiendum becomes synonymous with the
+definiens simply because it has been created expressly for the purpose
+
+of being synonymous with the definiens. Here we have a really transparent case of synonymy created by definition; would that all species
+of synonymy were as intelligible. For the rest, definition rests on
+
+synonymy rather than explaining it.
+The word 'definition' has come to have a dangerously reassuring
+
+sound, due no doubt to its frequent occurrence in logical and mathematical writings. We shall do well to digress now into a brief appraisal
+of the role of definition in formal work.
+
+In logical and mathematical systems either of two mutually antag-
+
+onistic types of economy may be striven for, and each has its peculiar
+practical utility. On the one hand we may seek economy of practical
+
+expression: ease and brevity in the statement of multifarious relationships. This sort of economy calls usually for distinctive concise notations for a wealth of concepts. Second, however, and oppositely, we
+may seek economy in grammar and vocabulary; we may try to find a
+
+minimum of basic concepts such that, once a distinctive notation has
+been appropriated to each of them, it becomes possible to express any
+
+desired further concept by mere combination and iteration of our
+basic notations. This second sort of economy is impractical in one
+
+way, since a poverty in basic idioms tends to a necessary lengthening
+of discourse. But it is practical in another way: it greatly simplifies
+
+theoretical discourse about the language, through minimizing the terms
+and the forms of construction wherein the language consists.
+
+Both sorts of economy, though prima facie incompatible, are valuable in their separate ways. The custom has consequently arisen of
+combining both sorts of economy by forging in effect two languages,
+
+the one a part of the other. The inclusive language, though redundant
+in grammar and vocabulary, is economical in message lengths, while
+
+the part, called primitive notation, is economical in grammar and vo-
+
+cabulary. Whole and part are correlated by rules of translation whereby each idiom not in primitive notation is equated to some complex
+built up of primitive notation. These rules of translation are the so26
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+MAIN TRENDS IN RECENT PHILOSOPHY
+
+called definitions which appear in formalized systems. They are best
+viewed not as adjuncts to one language but as correlations between
+two languages, the one a part of the other.
+
+But these correlations are not arbitrary. They are supposed to show
+how the primitive notations can accomplish all purposes, save brevity
+and convenience, of the redundant language. Hence the definiendum
+and its definiens may be expected, in each case, to be related in one
+or another of the three ways lately noted. The definiens may be a
+faithful paraphrase of the definiendum into the narrower notation,
+preserving a direct synonymy as of antecedent usage; or the definiens
+
+may, in the spirit of explication, improve upon the antecedent usage
+of the definiendum; or finally, the definiendum may be a newly created
+notation, newly endowed with meaning here and now.
+In formal and informal work alike, thus, we find that definition-
+
+except in the extreme case of the explicitly conventional introduction
+
+of new notations - hinges on prior relationships of synonymy. Recognizing then that the notion of definition does not hold the key to
+synonymy and analyticity, let us look further into synonymy and say
+no more of definition.
+III. INTERCHANGEABILITY
+
+A natural suggestion, deserving close examination, is that the
+synonymy of two linguistic forms consists simply in their interchange-
+
+ability in all contexts without change of truth value; interchangeability, in Leibniz's phrase, salva veritate. Note that synonyms so
+conceived need not even be free from vagueness, as long as the vaguenesses match.
+
+But it is not quite true that the synonyms 'bachelor' and 'unmarried
+
+many are everywhere interchangeable salva veritate. Truths which become false under substitution of 'unmarried man' for 'bachelor' are
+easily constructed with help of 'bachelor of arts' or 'bachelor's but-
+
+tons'. Also with help of quotation, thus:
+'Bachelor' has less than ten letters.
+
+Such counterinstances can, however, perhaps be set aside by treating
+
+the phrases 'bachelor of arts' and 'bachelor's buttons' and the quotation ''bachelor'' each as a single indivisible word and then stipu-
+
+lating that the interchangeability salva veritate which is to be the
+touchstone of synonymy is not supposed to apply to fragmentary oc27
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+THE PHILOSOPHICAL REVIEW
+
+currences inside of a word. This account of synonymy, supposing it
+acceptable on other counts, has indeed the drawback of appealing to
+a prior conception of "word" which can be counted on to present difficulties of formulation in its turn. Nevertheless some progress might
+be claimed in having reduced the problem of synonymy to a problem
+of wordhood. Let us pursue this line a bit, taking "word" for granted.
+The question remains whether interchangeability satlva veritate
+(apart from occurrences within words) is a strong enough condition
+for synonymy, or whether, on the contrary, some nonsynonymous
+expressions might be thus interchangeable. Now let us be clear that
+we are not concerned here with synonymy in the sense of complete
+identity in psychological associations or poetic quality; indeed no two
+expressions are synonymous in such a sense. We are concerned only
+with what may be called cognitive synonymy. Just what this is cannot
+be said without successfully finishing the present study; but we know
+something about it from the need which arose for it in connection
+with analyticity in Section I. The sort of synonymy needed there was
+merely such that any analytic statement could be turned into a logical
+truth by putting synonyms for synonyms. Turning the tables and assuming analyticity, indeed, we could explain cognitive synonymy of
+terms as follows (keeping to the familiar example): to say that 'bachelor' and 'unmarried man' are cognitively synonymous is to say no
+more nor less than that the statement:
+
+(3) All and only bachelors are unmarried men
+is analytic.4
+
+What we need is an account of cognitive synonymy not presuppos-
+
+ing analyticity - if we are to explain analyticity conversely with help
+
+of cognitive synonymy as undertaken in Section I. And indeed such
+an independent account of cognitive synonymy is at present up for
+consideration, viz., interchangeability salva veritate everywhere except within words. The question before us, to resume the thread at
+
+last, is whether such interchangeability is a sufficient condition for
+'This is cognitive synonymy in a primary, broad sense. Carnap (Meaning
+and Necessity, pp. 56ff.) and Lewis (Analysis of Knowledge and Valuation
+
+[La Salle, Ill.,'i946], pp. 83ff.) have suggested how, once this notion is at hand,
+a narrower sense of cognitive synonymy which is preferable for some purposes
+can in turn be derived. But this special ramification of concept-building lies aside
+from the present purposes and must not be confused with the broad sort of cognitive synonymy here concerned.
+28
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+MAIN TRENDS IN RECENT PHILOSOPHY
+
+cognitive synonymy. We can quickly assure ourselves that it is, by
+
+examples of the following sort. The statement:
+(4) Necessarily all and only bachelors are bachelors
+is evidently true, even supposing 'necessarily' so narrowly construed
+
+as to be truly applicable only to analytic statements. Then, if 'bachelor'
+and 'unmarried man' are interchangeable salva veritate, the result
+(5) Necessarily, all and only bachelors are unmarried men
+
+of putting 'unmarried man' for an occurrence of 'bachelor' in (4)
+must, like (4), be true. But to say that (5) is true is to say that (3)
+is analytic, and hence that 'bachelor' and 'unmarried men' are cognitively synonymous.
+Let us see what there is about the above argument that gives it its
+
+air of hocus-pocus. The condition of interchangeability salva ve-ritate
+varies in its force with variations in the richness of the language at
+hand. The above argument supposes we are working with a language
+rich enough to contain the adverb 'necessarily', this adverb being so
+
+construed as to yield truth when and only when applied to an analytic
+statement. But can we condone a language which contains such an
+adverb? Does the adverb really make sense? To suppose that it does
+is to suppose that we have already made satisfactory sense of 'analytic'.
+
+Then what are we so hard at work on right now?
+Our argument is not flatly circular, but something like it. It has
+
+the form, figuratively speaking, of a closed curve in space.
+Interchangeability salva veritate is meaningless until relativized to
+a language whose extent is specified in relevant respects. Suppose
+now we consider a language containing just the following materials.
+
+There is an indefinitely large stock of one- and many-place predicates,
+mostly having to do with extralogical subject matter. The rest of the
+language is logical. The atomic sentences consist each of a predicate
+followed by one or more variables; and the complex sentences are
+built up of atomic ones by truth functions and quantification. In effect
+such a language enjoys the benefits also of descriptions and class
+names and indeed singular terms generally, these being contextually
+definable in known ways.5 Such a language can be adequate to classical mathematics and indeed to scientific discourse generally, except
+' See, e.g., my Mathematical Logic (New York, 1940; Cambridge, Mass.,
+I947), sec. 24, 26, 27; or Methods of Logic (New York, 1950), sec. 37ff.
+29
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+THE PHILOSOPHICAL REVIEW
+
+in so far as the latter involves debatable devices such as modal adverbs
+and contrary-to-fact conditionals. Now a language of this type is
+
+extensional, in this sense: any two predicates which agree extensional-
+
+ly (i.e., are true of the same objects) are interchangeable salva yeritate.
+
+In an extensional language, therefore, interchangeability salva yeritate is no assurance of cognitive synonymy of the desired type. That
+'bachelor' and 'unmarried man' are interchangeable salva veritate' in
+
+an extensional language assures us of no more than that (3) is true
+There is no assurance here that the extensional agreement of 'bachelor'
+
+and 'unmarried man' rests on meaning rather than merely on accidental matters of fact, as does extensional agreement of 'creature with a
+heart' and 'creature with a kidney'.
+For most purposes extensional agreement is the nearest approxima-
+
+tion to synonymy we need care about. But the fact remains that extensional agreement falls far short of cognitive synonymy of the type
+required for explaining analyticity in the manner of Section I. The
+type of cognitive synonymy required there is such as to equate the
+synonymy of 'bachelor' and 'unmarried man' with the analyticity of
+
+(3), not merely with the truth of (3).
+So we must recognize that interchangeability salva veritate, if construed in relation to an extensional language, is not a sufficient condition of cognitive synonymy in the sense needed for deriving analyticity in the manner of Section I. If a language contains an intentional
+adverb 'necessarily' in the sense lately noted, or other particles to the
+
+same effect, then interchangeability salva veritate in such a language
+does afford a sufficient condition of cognitive synonymy; but such a
+language is intelligible only if the notion of analyticity is already clearly understood in advance.
+The effort to explain cognitive synonymy first, for the sake of deriv-
+
+ing analyticity from it afterward as in Section I, is perhaps the wrong
+approach. Instead we might try explaining analyticity somehow with-
+
+out appeal to cognitive synonymy. Afterward we could doubtless derive cognitive synonymy from analyticity satisfactorily enough if desired. We have seen that cognitive synonymy of 'bachelor' and 'un-
+
+married man' can be explained as analyticity of (3). The same explanation works for any pair of one-place predicates, of course, and it
+
+can be extended in obvious fashion to many-place predicates. Other
+30
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+MAIN TRENDS IN RECENT PHILOSOPHY
+
+syntactical categories can also be accommodated in fairly parallel
+fashion. Singular terms may be said to be cognitively synonymous
+when the statement of identity formed by putting '=' between them is
+analytic. Statements may be said simply to be cognitively synonymous
+when their biconditional (the result of joining them by 'if and only if')
+is analytic.6 If we care to lump all categories into a single formulation,
+at the expense of assuming again the notion of "word" which was
+
+appealed to early in this section, we can describe any two linguistic
+forms as cognitively synonymous when the two forms are interchangeable (apart from occurrences within "words") salva (no longer veri-
+
+tate but) canalyticitate. Certain technical questions arise, indeed, over
+cases of ambiguity or homonymy; let us not pause for them, however,
+
+for we are already digressing. Let us rather turn our backs on the
+problem of synonymy and address ourselves anew to that of analyticity.
+
+IV. SEMANTICAL RULES
+
+Analyticity at first seemed most naturally definable by appeal to a
+realm of meanings. On refinement, the appeal to meanings gave way
+to an appeal to synonymy or definition. But definition turned out to
+
+be a will-o'-the-wisp, and synonymy turned out to be best understood
+only by dint of a prior appeal to analyticity itself. So we are back at
+
+the problem of analyticity.
+I do not know whether the statement 'Everything green is extended'
+is analytic. Now does my indecision over this example really betray
+
+an incomplete understanding, an incomplete grasp of the "meanings",
+
+of 'green' and 'extended'? I think not. The trouble is not with 'green'
+or 'extended', but with 'analytic'.
+
+It is often hinted that the difficulty in separating analytic state-
+
+ments from synthetic ones in ordinary language is due to the vagueness of ordinary language and that the distinction is clear when we
+
+have a precise artificial language with explicit "semantical rules."
+This, however, as I shall now attempt to show, is a confusion.
+The notion of analyticity about which we are worrying is a pur-
+
+ported relation between statements and languages: a statement S is
+said to be analytic for a language L, and the problem is to make sense
+8 The 'if and only if' itself is intended in the truth functional sense. See Carnap, Meaning and Necessity, p. 14.
+3'
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+THE PHILOSOPHICAL REVIEW
+
+of this relation generally, i.e., for variable 'S' and 'L'. The point that I
+want to make is that the gravity of this problem is not perceptibly less
+
+for artificial languages than for natural ones. The problem of making
+sense of the idiom 'S is analytic for L', with variable 'S' and 'L', retains its stubbornness even if we limit the range of the variable 'L' to
+artificial languages. Let me now try to make this point evident.
+
+For artificial languages and semantical rules we look naturally to
+the writings of Carnap. His semantical rules take various forms, and
+
+to make my point I shall have to distinguish certain of the forms. Let
+
+us suppose, to begin with, an artificial language L. whose semantical
+rules have the form explicitly of a specification, by recursion or other-
+
+wise, of all the analytic statements of L,. The rules tell us that such
+
+and such statements, and only those, are the analytic statements of L,.
+Now here the difficulty is simply that the rules contain the word
+'analytic', which we do not understand! We understand what expressions the rules attribute analyticity to, but we do not understand what
+
+the rules attribute to those expressions. In short, before we can understand a rule which begins "A statement S is analytic for language Lo
+if and only if... ," we must understand the general relative term
+
+'analytic for'; we must understand 'S is analytic for L' where 'S' and
+'L' are variables.
+
+Alternatively we may, indeed, view the so-called rule as a conventional definition of a new simple symbol 'analytic-for-LO', which might
+better be written untendentiously as 'K' so as not to seem to throw
+
+light on the interesting word 'analytic'. Obviously any number of
+classes K, M, N, etc. of statements of Lo can be specified for various
+purposes or for no purpose; what does it mean to say that K, as against
+M, N, etc., is the class of the "analytic" statements of Lo?
+
+By saying what statements are analytic for Lo we explain 'analytic-
+
+for-L,' but not 'analytic', not 'analytic for'. We do not begin to explain
+the idiom 'S is analytic for L' with variable 'S' and 'L', even though we
+be content to limit the range of 'L' to the realm of artificial languages.
+Actually we do know enough about the intended significance of
+
+'analytic' to know that analytic statements are supposed to be true.
+
+Let us then turn to a second form of semantical rule, which says not
+
+that such and such statements are analytic but simply that such and
+such statements are included among the truths. Such a rule is not
+
+subject to the criticism of containing the un-understood word 'analy32
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+MAIN TRENDS IN RECENT PHILOSOPHY
+
+tic'; and we may grant for the sake of argument that there is no diffi-
+
+culty over the broader term 'true'. A semantical rule of this second
+
+type, a rule of truth, is not supposed to specify all the truths of the
+language; it merely stipulates, recursively or otherwise, a certain
+
+multitude of statements which, along with others unspecified, are to
+count as true. Such a rule may be conceded to be quite clear. Derivatively, afterward, analyticity can be demarcated thus: a statement is
+
+analytic if it is (not merely true but) true according to the semantical
+rule.
+
+Still there is really no progress. Instead of appealing to an unex-
+
+plained word 'analytic', we are now appealing to an unexplained
+phrase 'semantical rule'. Not every true statement which says that
+
+the statements of some class are true can count as a semantical rule otherwise all truths would be "analytic" in the sense of being true
+according to semantical rules. Semantical rules are distinguishable,
+apparently, only by the fact of appearing on a page under the heading
+'Semantical Rules'; and this heading is itself then meaningless.
+We can say indeed that a statement is anclytic-for-L0 if and only
+if it is true according to such and such specifically appended "seman-
+
+tical rules," but then we find ourselves back at essentially the same
+case which was originally discussed: "S is analytic-for-LO if and only
+
+if .... " Once we seek to explain 'S is analytic for L' generally for vari-
+
+able 'L' (even allowing limitation of 'L' to artificial languages), the
+explanation 'true according to the semantical rules of L' is unavailing;
+for the relative term 'semantical rule of' is as much in need of clarifica-
+
+tion, at least, as 'analytic for'.
+It might conceivably be protested that an artificial language L (unlike a natural one) is a language in the ordinary sense plus a set of
+explicit semantical rules -the whole constituting, let us say, an or-
+
+dered pair; and that the semantical rules of L then are specifiable simply as the second component of the pair L. But, by the same token and
+
+more simply, we might construe an artificial language L outright as an
+
+ordered pair whose second component is the class of its analytic statements; and then the analytic statements of L become specifiable simply
+as the statements in the second component of L. Or better still, we
+might just stop tugging at our bootstraps altogether.
+
+Not all the explanations of analyticity known to Carnap and his
+readers have been covered explicitly in the above considerations, but
+33
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+THE PHILOSOPHICAL REVIEW
+
+the extension to other forms is not hard to see. Just one additional
+factor should be mentioned which sometimes enters: sometimes the
+semantical rules are in effect rules of translation into ordinary language, in which case the analytic statements of the artificial language
+
+are in effect recognized as such from the analyticity of their specified
+translations in ordinary language. Here certainly there can be no
+thought of an illumination of the problem of analyticity from the side
+of the artificial language.
+
+From the point of view of the problem of analyticity the notion of
+
+an artificial language with semantical rules is a feu follet par excellence. Semantical rules determining the analytic statements of an artificial language are of interest only in so far as we already understand
+the notion of analyticity; they are of no help in gaining this understanding.
+
+Appeal to hypothetical languages of an artificially simple kind could
+conceivably be useful in clarifying analyticity, if the mental or behavioral or cultural factors relevant to analyticity -whatever they
+may be-were somehow sketched into the simplified model. But a
+model which takes analyticity merely as in irreducible character is
+unlikely to throw light on the problem of explicating analyticity.
+It is obvious that truth in general depends on both language and
+extralinguistic fact. The statement 'Brutus killed Caesar' would be
+false if the world had been different in certain ways, but it would also
+
+be false if the word 'killed' happened rather to have the sense of 'begat'.
+Hence the temptation to suppose in general that the truth of a statement is somehow analyzable into a linguistic component and a factual
+component. Given this supposition, it next seems reasonable that in
+some statements the factual component should be null; and these are
+the analytic statements. But, for all its a priori reasonableness, a boun-
+
+dary between analytic and synthetic statements simply has not been
+drawn. That there is such a distinction to be drawn at all is an un-
+
+empirical dogma of empiricists, a metaphysical article of faith.
+V. THE VERIFICATION THEORY AND REDUCTIONISM
+In the course of these somber reflections we have taken a dim view
+first of the notion of meaning, then of the notion of cognitive synony-
+
+my, and finally of the notion of analyticity. But what, it may be asked,
+34
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+MAIN TRENDS IN RECENT PHILOSOPHY
+
+of the verification theory of meaning? This phrase has est
+self so firmly as a catchword of empiricism that we should be very
+unscientific indeed not to look beneath it for a possible key to the
+problem of meaning and the associated problems.
+
+The verification theory of meaning, which has been conspicuous in
+the literature from Peirce onward, is that the meaning of a statement
+is the method of empirically confirming or infirming it. An analytic
+statement is that limiting case which is confirmed no matter what.
+
+As urged in Section I, we can as well pass over the question of
+meanings as entities and move straight to sameness of meaning, or
+synonymy. Then what the verification theory says is that statements
+are synonymous if and only if they are alike in point of method of
+empirical confirmation or infirmation.
+
+This is an account of cognitive synonymy not of linguistic forms
+
+generally, but of statements.7 However, from the concept of synonymy
+of statements we could derive the concept of synonymy for other linguistic forms, by considerations somewhat similar to those at the end
+of Section III. Assuming the notion of "word," indeed, we could explain any two forms as synonymous when the putting of the one form
+
+for an occurrence of the other in any statement (apart from occurrences within "words") yields a synonymous statement. Finally, given
+the concept of synonymy thus for linguistic forms generally, we could
+define analyticity in terms of synonymy and logical truth as in Section
+I. For that matter, we could define analyticity more simply in terms of
+
+just synonymy of statements together with logical truth; it is not
+necessary to appeal to synonymy of linguistic forms other than state-
+
+ments. For a statement may be described as analytic simply when it
+is synonymous with a logically true statement.
+
+So, if the verification theory can be accepted as an adequate account
+of statement synonymy, the notion of analyticity is saved after all.
+
+However, let us reflect. Statement synonymy is said to be likeness of
+method of empirical confirmation or infirmation. Just what are these
+
+methods which are to be compared for likeness? What, in other words,
+'The doctrine can indeed be formulated with terms rather than statements as
+the units. Thus C. I. Lewis describes the meaning of a term as "a criterion in
+mind, by reference to which one is able to apply or refuse to apply the expression
+in question in the case of presented, or imagined, things or situations" (op. cit.,
+p. I33).
+35
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+THE PHILOSOPHICAL REVIEW
+
+is the nature of the relationship between a statement
+
+ences which contribute to or detract from its confirmat
+
+The most naive view of the relationship is that it is
+
+report. This is radical reductionism. Every meaningfu
+
+held to be translatable into a statement (true or false) abo
+
+experience. Radical reductionism, in one form or anot
+
+dates the verification theory of meaning explicitly so
+
+Locke and Hume held that every idea must either origina
+
+sense experience or else be compounded of ideas thus o
+
+taking a hint from Tooke8 we might rephrase this doc
+
+tical jargon by saying that a term, to be significant a
+
+either a name of a sense datum or a compound of such
+abbreviation of such a compound. So stated, the doct
+ambiguous as between sense data as sensory events and
+
+sensory qualities; and it remains vague as to the adm
+compounding. Moreover, the doctrine is unnecessarily
+
+restrictive in the term-by-term critique which it imp
+
+sonably, and without yet exceeding the limits of wha
+radical reductionism, we may take full statements as
+units - thus demanding that our statements as wholes
+
+into sense-datum language, but not that they be trans
+term.
+
+This emendation would unquestionably have been we
+
+and Hume and Tooke, but historically it had to await two
+
+developments. One of these developments was the incr
+on verification or confirmation, which came with the explicitly so-
+
+called verification theory of meaning. The objects of verification or
+confirmation being statements, this emphasis gave the statement -an
+ascendency over the word or term as unit of significant discourse. The
+
+other development, consequent upon the first, was Russell's discovery
+of the concept of incomplete symbols defined in use.
+
+Radical reductionism, conceived now with statements as units, sets
+itself the task of specifying a sense-datum language and showing how
+to translate the rest of significant discourse, statement by statement,
+into it. Carnap embarked on this project in the Aufbau.9
+8John Horne Tooke, The Diversions of Purley (London, I776; Boston, i8o6),
+I, ch. ii.
+
+9R. Carnap, Der logische Aufbau der Welt (Berlin, I928).
+36
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+MAIN TRENDS IN RECENT PHILOSOPHY
+
+The language which Carnap adopted as his starting point was not
+a sense-datum language in the narrowest conceivable sense, for it in-
+
+cluded also the notations of logic, up through higher set theory. In
+effect it included the whole language of pure mathematics. The ontology implicit in it (i.e., the range of values of its variables) embraced
+not only sensory events but classes, classes of classes, and so on. Empiricists there are who would boggle at such prodigality. Carnap's
+
+starting point is very parsimonious, however, in its extralogical or
+sensory part. In a series of constructions in which he exploits the re-
+
+sources of modern logic with much ingenuity, he succeeds in defining
+
+a wide array of important additional sensory concepts which, but for
+his constructions, one would not have dreamed were definable on so
+
+slender a basis. Carnap was the first empiricist who, not content with
+asserting the reducibility of science to terms of immediate experience,
+
+took serious steps toward carrying out the reduction.
+Even supposing Carnap's starting point satisfactory, his construc-
+
+tions were, as he himself stressed, only a fragment of the full program.
+
+The construction of even the simplest statements about the physical
+
+world was left in a sketchy state. Carnap's suggestions on this subject
+were, despite their sketchiness, very suggestive. He explained spatiotemporal point-instants as quadruples of real numbers and envisaged
+assignment of sense qualities to point-instants according to certain
+
+canons. Roughly summarized, the plan was that qualities should be
+assigned to point-instants in such a way as to achieve the laziest world
+
+compatible with our experience. The principle of least action was to be
+
+our guide in constructing a world from experience.
+Carnap did not seem to recognize, however, that his treatment of
+physical objects fell short of reduction not merely through sketchiness,
+
+but in principle. Statements of the form 'Quality q is at point-instant
+
+x; y; z; t' were, according to his canons, to be apportioned truth values in such a way as to maximize and minimize certain over-all features, and with growth of experience the truth values were to be
+
+progressively revised in the same spirit. I think this is a good schematization (deliberately oversimplified, to be sure) of what science really
+does; but it provides no indication, not even the sketchiest, of how a
+
+statement of the form 'Quality q is at x; y; z; t' could ever be translated into Carnap's initial language of sense data and logic. The con37
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+THE PHILOSOPHICAL REVIEW
+
+nective 'is at' remains an added undefined connective; the canons
+counsel us in its use but not in its elimination.
+
+Carnap seems to have appreciated this point afterward; for in his
+later writings he abandoned all notion of the translatability of state-
+
+ments about the physical world into statements about immediate experience. Reductionism in its radical form has long since ceased to
+figure in Carnap's philosophy.
+
+But the dogma of reductionism has, in a subtler and more tenuous
+
+form, continued to influence the thought of empiricists. The notion
+lingers that to each statement, or each synthetic statement, there is
+associated a unique range of possible sensory events such that the
+occurrence of any of them would add to the likelihood of truth of the
+statement, and that there is associated also another unique range of
+
+possible sensory events whose occurrence would detract from that
+likelihood. This notion is of course implicit in the verification theory
+of meaning.
+
+The dogma of reductionism survives in the supposition that each
+statement, taken in isolation from its fellows, can admit of confirmation
+
+or infirmation at all. My countersuggestion, issuing essentially from
+Carnap's doctrine of the physical world in the Aufbau, is that our
+statements about the external world face the tribunal of sense experience not individually but only as a corporate body.
+The dogma of reductionism, even in its attenuated form, is intimately connected with the other dogma: that there is a cleavage between
+
+the analytic and the synthetic. We have found ourselves led, indeed,
+from the latter problem to the former through the verification theory
+of meaning. More directly, the one dogma clearly supports the other in
+
+this way: as long as it is taken to be significant in general to speak of
+the confirmation and infirmation of a statement, it seems significant to
+
+speak also of a limiting kind of statement which is vacuously confirmed, ipso facto, come what may; and such a statement is analytic.
+The two dogmas are, indeed, at root identical. We lately reflected
+
+that in general the truth of statements does obviously depend both
+upon language and upon extralinguistic fact; and we noted that this
+obvious circumstance carries in its train, not logically but all too nat-
+
+urally, a feeling that the truth of a statement Is somehow analyzable
+into a linguistic component and a factual component. The factual component must, if we are empiricists, boil down to a range of confirma38
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+MAIN TRENDS IN RECENT PHILOSOPHY
+
+tory experiences. In the extreme case where the linguistic component
+is all that matters, a true statement is analytic. But I hope we are now
+impressed with how stubbornly the distinction between analytic and
+synthetic has resisted any straightforward drawing. I am impressed
+
+also, apart from prefabricated examples of black and white balls in an
+urn, with how baffling the problem has always been of arriving at any
+explicit theory of the empirical confirmation of a synthetic statement.
+My present suggestion is that it is nonsense, and the root of much
+nonsense, to speak of a linguistic component and a factual component
+in the truth of any individual statement. Taken collectively, science
+
+has its double dependence upon language and experience; but this
+duality is not significantly traceable into the statements of science
+taken one by one.
+
+Russell's concept of definition in use was, as remarked, an advance
+
+over the impossible term-by-term empiricism of Locke and Hume.
+The statement, rather than the term, came with Russell to be recog-
+
+nized as the unit accountable to an empiricist critique. But what I am
+now urging is that even in taking the statement as unit we have drawn
+
+our grid too finely. The unit of empirical significance is the whole of
+science.
+
+VI. EMPIRICISM WITHOUT THE DOGMAS
+The totality of our so-called knowledge or beliefs, from the most
+casual matters of geography and history to the profoundest laws of
+
+atomic physics or even of pure mathematics and logic, is a man-made
+
+fabric which impinges on experience only along the edges. Or, to
+change the figure, total science is like a field of force whose boundary
+
+conditions are experience. A conflict with experience at the periphery
+occasions readjustments in the interior of the field. Truth values have
+to be redistributed over some of our statements. Re-evaluation of some
+statements entails re-evaluation of others, because of their logical
+interconnections - the logical laws being in turn simply certain fur-
+
+ther statements of the system, certain further elements of the field.
+Having re-evaluated one statement we must re-evaluate some others,
+
+whether they be statements logically connected with the first or whether they be the statements of logical connections themselves. But the
+total field is so undetermined by its boundary conditions, experience,
+that there is much latitude of choice as to what statements to re39
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+THE PHILOSOPHICAL REVIEW
+
+evaluate in the light of any single contrary experience. No particular
+experiences are linked with any particular statements in the interior
+
+of the field, except indirectly through considerations of equilibrium
+affecting the field as a whole.
+If this view is right, it is misleading to speak of the empirical content of an individual statement - especially if it be a statement at all
+
+remote from the experiential periphery of the field. Furthermore it
+becomes folly to seek a boundary between synthetic statements, which
+
+hold contingently on experience, and analytic statements which hold
+come what may. Any statement can be held true come what may, if
+we make drastic enough adjustments elsewhere in the system. Even a
+
+statement very close to the periphery can be held true in the face of
+recalcitrant experience by pleading hallucination or by amending cer-
+
+tain statements of the kind called logical laws. Conversely, by the same
+
+token, no statement is immune to revision. Revision even of the logical law of the excluded middle has been proposed as a means of simplifying quantum mechanics; and what difference is there in principle
+
+between such a shift and the shift whereby Kepler superseded Ptolemy,
+or Einstein Newton, or Darwin Aristotle?
+For vividness I have been speaking in terms of varying distances
+from a sensory periphery. Let me try now to clarify this notion with-
+
+out metaphor. Certain statements, though about physical objects and
+not sense experience, seem peculiarly germane to sense experience and in a selective way: some statements to some experiences, others
+to others. Such statements, especially germane to particular experi-
+
+ences, I picture as near the periphery. But in this relation of "ger-
+
+maneness" I envisage nothing more than a loose association reflecting
+the relative likelihood, in practice, of our choosing one statement
+
+rather than another for revision in the event of recalcitrant experience
+For example, we can imagine recalcitrant experiences to which we
+
+would surely be inclined to accommodate our system by re-evaluating
+just the statement that there are brick houses on Elm Street, together
+with related statements on the same topic. We can imagine other re-
+
+calcitrant experiences to which we would be inclined to accommodate
+our system by re-evaluating just the statement that there are no cen-
+
+taurs, along with kindred statements. A recalcitrant experience can, I
+have already urged, be accommodated by any of various alternative
+re-evaluations in various alternative quarters of the total system; but,
+40
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+MAIN TRENDS IN RECENT PHILOSOPHY
+
+in the cases which we are now imagining, our natural tendency to
+disturb the total system as little as possible would lead us to focus our
+revisions upon these specific statements concerning brick houses or
+centaurs. These statements are felt, therefore, to have a sharper empirical reference than highly theoretical statements of physics or logic or
+ontology. The latter statements may be thought of as relatively centrally located within the total network, meaning merely that little preferential connection with any particular sense data obtrudes itself.
+As an empiricist I continue to think of the conceptual scheme of
+science as a tool, ultimately, for predicting future experience in the
+light of past experience. Physical objects are conceptually imported
+into the situation as convenient intermediaries - not by definition in
+terms of experience, but simply as irreducible posits comparable,
+epistemologically, to the gods of Homer. Let me interject that for my
+part I do, qua lay physicist, believe in physical objects and not in
+Homer's gods; and I consider it a scientific error to believe otherwise.
+But in point of epistemological footing the physical objects and the
+gods differ only in degree and not in kind. Both sorts of entities enter
+our conception only as cultural posits. The myth of physical objects
+is epistemologically superior to most in that it has proved more efficacious than other myths as a device for working a manageable structure into the flux of experience.
+
+Imagine, for the sake of analogy, that we are given the rational
+numbers. We develop an algebraic theory for reasoning about them,
+but we find it inconveniently complex, because certain functions such
+as square root lack values for some arguments. Then it is discovered
+
+that the rules of our algebra can be much simplified by conceptually
+augmenting our ontology with some mythical entities, to be called irrational numbers. All we continue to be really interested in, first and
+last, are rational numbers; but we find that we can commonly get from
+
+one law about rational numbers to another much more quickly and
+simply by pretending that the irrational numbers are there too.
+I think this a fair account of the introduction of irrational numbers
+and other extensions of the number system. The fact that the mythical
+status of irrational numbers eventually gave way to the DedekindRussell version of them as certain infinite classes of ratios is irrelevant
+
+to my analogy. That version is impossible anyway as long as reality is
+limited to the rational numbers and not extended to classes of them.
+4I
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+THE PHILOSOPHICAL REVIEW
+
+Now I suggest that experience is analogous to the rational numbers and that the physical objects, in analogy to the irrational numbers,
+are posits which serve merely to simplify our treatment of experience.
+The physical objects are no more reducible to experience than the
+irrational numbers to rational numbers, but their incorporation into
+the theory enables us to get more easily from one statement about
+experience to another.
+The salient differences between the positing of physical objects and
+the positing of irrational numbers are, I think, just two. First, the
+factor of simplification is more overwhelming in the case of physical
+
+objects than in the numerical case. Second, the positing of physical
+
+objects is far more archaic, being indeed coeval, I expect, with language itself. For language is social and so depends for its development
+upon intersubjective reference.
+
+Positing does not stop with macroscopic physical objects. Objects at
+the atomic level and beyond are posited to make the laws of macro-
+
+scopic objects, and ultimately the laws of experience, simpler and more
+manageable; and we need not expect or demand full definition of
+atomic and subatomic entities in terms of macroscopic ones, any more
+than definition of macroscopic things in terms of sense data. Science
+
+is a continuation of common sense, and it continues the common-sense
+
+expedient of swelling ontology to simplify theory.
+Physical objects, small and large, are not the only posits. Forces
+
+are another example; and indeed we are told nowadays that the boun-
+
+dary between energy and matter is obsolete. Moreover, the abstract
+entities which are the substance of mathematics - ultimately classes
+and classes of classes and so on up -are another posit in the same
+
+spirit. Epistemologically these are myths on the same footing with
+physical objects and gods, neither better nor worse except for differences in the degree to which they expedite our dealings with sense
+experiences.
+
+The over-all algebra of rational and irrational numbers is underdetermined by the algebra of rational numbers, but is smoother and
+more convenient; and it includes the algebra of rational numbers as a
+
+jagged or gerrymandered part. Total science, mathematical and natural and human, is similarly but more extremely underdetermined by
+experience. The edge of the system must bVe kept squared with experience; the rest, with all its elaborate myths or fictions, has as its objective the simplicity of laws.
+42
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+MAIN TRENDS IN RECENT PHILOSOPHY
+
+Ontological questions, under this view, are on a par with questions
+of natural science. Consider the question whether to countenance
+
+classes as entities. This, as I have argued 'elsewhere,10 is the question
+whether to quantify with respect to variables which take classes as
+values. Now Carnap has maintained" that this is a question not of
+matters of fact but of choosing a convenient language form, a con-
+
+venient conceptual scheme or framework for science. With this I
+agree, but only on the proviso that the same be conceded regarding
+
+scientific hypotheses generally. Carnap has recognized2 that he is able
+to preserve a double standard for ontological questions and scientific
+hypotheses only by assuming an absolute distinction between the analytic and the synthetic; and I need not say again that this is a distinc.tion which I reject.
+
+Some issues do, I grant, seem more a question of convenient conceptual scheme and others more a question of brute fact. The issue
+over there being classes seems more a question of convenient conceptual scheme; the issue over there being centaurs, or brick houses on
+Elm Street, seems more a question of fact. But I have been urging
+
+that this difference is only one of degree, and that it turns upon our
+vaguely pragmatic inclination to adjust one strand of the fabric of
+science rather than another in accommodating some particular recal-
+
+citrant experience. Conservatism figures in such choices, and so does
+the quest for simplicity.
+
+Carnap, Lewis, and others take a pragmatic stand on the question
+of choosing between language forms, scientific frameworks; but their
+pragmatism leaves off at the imagined boundary between the analytic
+
+and the synthetic. In repudiating such a boundary I espouse a more
+
+thorough pragmatism. Each man is given a scientific heritage plus a
+continuing barrage of sensory stimulation; and the considerations
+
+which guide him in warping his scientific heritage to fit his continuing
+sensory promptings are, where rational, pragmatic.
+W. V. QUINE
+
+Harvard University
+
+10 E.g., in "Notes on Existence and Necessity," Journal of Philosophy, XL
+(I943), I3-I27.
+
+" Carnap, "Empiricism, Semantics, and Ontology," Revue
+philosophies IV (0950), 20-40.
+12 Op. cit., p. 32, footnote.
+
+43
+
+This content downloaded from 144.174.212.34 on Thu, 11 Apr 2019 12:15:43 UTC
+All use subject to https://about.jstor.org/terms
+
+

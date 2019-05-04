@@ -1,0 +1,1184 @@
+On Referring
+P. F. Strawson
+Mind, New Series, Vol. 59, No. 235. (Jul., 1950), pp. 320-344.
+Stable URL:
+http://links.jstor.org/sici?sici=0026-4423%28195007%292%3A59%3A235%3C320%3AOR%3E2.0.CO%3B2-U
+Mind is currently published by Oxford University Press.
+
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/about/terms.html. JSTOR's Terms and Conditions of Use provides, in part, that unless you have obtained
+prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you may use content in
+the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/journals/oup.html.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+
+The JSTOR Archive is a trusted digital repository providing for long-term preservation and access to leading academic
+journals and scholarly literature from around the world. The Archive is supported by libraries, scholarly societies, publishers,
+and foundations. It is an initiative of JSTOR, a not-for-profit organization with a mission to help the scholarly community take
+advantage of advances in technology. For more information regarding JSTOR, please contact support@jstor.org.
+
+http://www.jstor.org
+Fri Oct 26 13:47:56 2007
+
+111.-ON
+
+REFERRING 
+
+
+WE very commonly use expressions of certain kinds to mention
+or refer to some individual person or single object or particular
+event or place or process, in the course of doing what we should
+normally describe as making a statement about that person, object,
+place, event, or process. I shall call this way of using expressions
+the "uniquely referring use". The classes of expressions which are
+most commonly used in this way are : singular demonstrative
+pronouns (" this " and " that ") ; proper names (e.g. " Venice ",
+" Napoleon ", " John ") ; singular personal and impersonal
+pronouns (" he ", " she ", " I ", " you ", " it ") ; and phrases
+beginning with the definite articlefollowed by a noun, qualified or
+unqualified, in the singular (e.g. " the table", " the old man ",
+"the king of France"). Any expression of any of these classes can
+occur as the subject of what would traditionally be regarded as a
+singular subject-predicate sentence ; and would, so occurring,
+exemplify the use I wish to discuss.
+I do not want to say that expressions belonging to these classes
+never have any other use than the one I want to discuss. On the
+contrary, it is obvious that they do. It is obvious that anyone who
+uttered the sentence, "The whale is a mammal~',wouldbe using the
+expression " the whale " in a way quite different from the way it
+would be used by anyone who had occasion seriously to utter the
+sentence, "The whale struck the ship". In the first sentence one is
+obviously not mentioning, and in the second sentence one obviously
+is mentioning, a particular whale. Againif I said, "Napoleon was
+the greatest French soldier ", I should be using the word
+" Napoleon " to mention a certain individual, but I should not be
+using the phrase, " the greatest French soldier ", to mention an
+individual, but to say something about an individual I had already
+mentioned. It would be natural to say that in using this sentence
+I was talking about Napoleon and that what Iwas saying about him
+was that he was the greatest French soldier. But of course I could
+use the expression, " the greatest French soldier ", to mention an
+individual; for example, by saying: "The greatest French soldier
+died in exile". So it is obvious that at least some expressions belonging to the classes I mentioned can have uses other than the
+
+.
+
+P. F. STRAWSON
+
+: ON REFERRING
+
+321
+
+use I am anxious to discuss. Another thing" I do not want to
+say is that in any given sentence there is never more than one
+expression used in the way I propose to discuss. On the contrary,
+it is obvious that there may be more than one. For example,
+it would be natural to say that, in seriously using the sentence,
+" The whale struck the ship ", I was saying something about
+both a certain whale and a certain ship, that I was using each of
+the expressions "the whale " and " the ship " to mention a particular object ; or, in other words, that I was using each of these
+expressions in the uniquely referring way. In general, however,
+I shall confine my attention to cases where an expression used in
+this way occurs as the grammatical subject of a sentence.
+I think it is true to say that Russell's Theory of Descriptions,
+which is concerned with the last of the four classes of expressions
+I mentioned above (i.e. with expressions of the form " the so-andso ") is still widely accepted among logicians as giving a correct
+account of the use of such expressions in ordinary language.
+I want to show, in the first place, that this theory, so regarded,
+embodies some fundamental mistakes.
+What question or questions about phrases of the form "the
+so-and-so " was the Theory of Descriptions designed to answer ?
+I think that at least one of the questions may 'be illustrated as
+follows. Suppose some one were now to utter the sentence, "The
+king of France is wise ". No one would say that the sentence
+which had been uttered was meaningless. Everyone would agree
+that it was significant. But everyone knows that there is not at
+present a king of France. One of the questions the Theory of
+Descriptions was designed to answer was the question : how can
+such a sentence as " The king of France is wise " be significant
+even when there is nothing which answers to the description it
+contains, i.e., in this case, nothing which answers to the description " The king of France " ? And one of the reasons why
+Russell thought it important to give a correct answer to this
+question was that he thought it important to show that another
+answer which might be given was wrong. The answer that he
+thought was wrong, and to which he was anxious to supply an
+alternative, might be exhibited as the conclusion of either of the
+following two fallacious arguments. Let us call the sentence
+" The king of France is wise " the sentence S. Then the first
+argument is as follows :
+(1) The phrase, " the king of France ", is the subject of the
+sentence S.
+Therefore (2) if S is a significant sentence, S is a sentence about
+the king of France.
+
+322
+
+P. F. STRAWSON
+
+:
+
+But (3) if there in no sense exists a king of France, the sentence
+is not about anything, and hence not about the king of Prance.
+Therefore (4) since S is significant, there must in some sense
+(in spme world) exist (or subsist) the king of France.
+And the second argument is as follows :
+(1) If S is significant, it is either true or false.
+(2) S is true if the king of France is wise and false if the king
+of Prance is not wise.
+(3) But the statement that the king of France is wise and the
+statement that the king of France is not wise are alike true only
+if there is (in some sense, in some world) something which is the
+king of France.
+Hence (4) since S is significant, there follows the same conclusion
+as before.
+These are fairly obviously bad arguments, and,,as we should
+expect, Russell rejects them. The postulation of a world of
+strange entities, to which the king of France belongs, offends, he
+says, against ('that feeling for reality which ought to be preserved
+even in the most abstract studies ". The fact that Russell rejects
+these arguments. is, however, less interesting than the extent to
+which, in rejecting their conclusion, he concedes the more important of their principles. Let me refer to the phrase, "the
+king of Prance ", as the phrase D. Then I think Russell's reasons
+for rejecting these two arguments can be summarised as follows.
+The mistake arises, he says, from thinking that D, which is certainly the gmmmaticak subject of S, is also the logical subject of S.
+But D is not the logical subject of S. In fact S, although grammatically it has a si.ngular subject and a predicate, is not logically
+a subject-predicate sentence at all. The proposition it expresses
+is a complex kind of existeritial proposition, part of which might
+be described as a "uniquely existential" proposition. To
+exhibit the logical form of the proposition, we should re-write the
+sentence in a logically appropriate grammatical form ; in such
+a way that the deceptive similarity of S to a sentence expressing
+a subject-predicate proposition would disappear, and we should
+be safeguarded against arguments such as the bad ones I outlined
+above. Before recalling the details of Russell's analysis of S, let
+us notice what his answer, as I have so far given it, seems to imply.
+His answer seems to imply that in the case of a sentence which
+is similar to S in that (1) it is grammatically of the subjectpredicate form and (2) its grammatical subject does not refer to
+anything, then the only alternative to its being meaningless is that
+it should not really (i.e. logically) be of the subject-predicate form
+
+OX REFERRING
+
+323
+
+at all, but of some quite different form. And this in its turn seems
+to imply that if there are any sentences which are genuinel?
+of the subject-predicate form, then the very fact of their being
+significant, having a meaning, guarantees that there i s something
+referred to by the logical (and grammatical) subject. AIoreover,
+Russell's ansn-er seems to imply that there are such sentences.
+For if it is true that one may be misled by the grammatical similarity of S to other sentences into thinking that it is logically of
+the subject-predicate form, then surely there must be other
+sentences grammatically similar to S, which are of the subjectpredicate form. To show not only that Russell's answer seems
+to imply these conclusions, but that he accepted at least the first
+two of them, it is enough to consider what he saps about a class
+of expressions which he calls " logically proper names " and contrasts with expressions, like D, which he calls " definite descriptions ". Of logically proper names Russell says or implies
+the follon-ing things :
+(1) That they and they alone can occur as subjects of sentences
+which are genuinely of the subject-predic,at e f orm :
+(2) that an expression intended to be a logically proper name
+is meaningless unless there is some single object for which it
+stands : for the meaning of such an expression just is the individual
+object n-hich the expression designates. To be a name at all,
+therefore, it must designate something.
+It is easy to see that if anyone believes these two propositions, then
+the only way for him to save the significance of the sentence
+S is to deny that it is a logically subject-predicate sentence.
+Generally, we may say that Russell recognises only txo ways in
+which sentences which seen:, from their grammatical structure, to
+be about some particular person or indil-idual object or event, can
+be significant :
+(1) The first is that their grammatical form should be misleading
+as to their logical form, and that they should be analysable,
+like S, as a special kind of existential sentence ;
+(2) The second is that their grammatical subject should be a
+logically proper name, of which the meaning is the individual
+thing it designates.
+
+I think that Russell is unquestionably wrong in this, and that
+sentences which are significant, and which begin with an expression
+used in the uniquely referring way fall into neither of these two
+classes. Expressions used in the uniquely referring may are never
+either logically proper names or descriptions, if what is meant by
+calling them " descriptions " is that they are to be analysed in
+
+324
+
+P. F. STRAWSON
+
+:
+
+accordance with the model provided by Russell's Theory of
+Descriptions.
+There are no logically proper names and there are no descriptions
+(in this sense).
+Let us now consider the details of Russell's analysis. According
+to Russell, anyone who asserted S would be asserting that :
+(1) There is a king of France.
+(2) There is not more than one king of France.
+(3) There is nothing which is king of France and is not wise.
+I t is easy to see both how Russell arrived at this analysis, and how
+it enables him to answer the question with which we began, viz.
+the question : How can the sentence S be significant when there
+is no king of France ? The way in which he arrived at the analysis
+was clearly by asking himself what would be the circumstances in
+which we would say that anyone who uttered the sentence S had
+made a true assertion. And it does seem pretty clear, and I
+have no wish to dispute, that the sentences (1)-(3) above do
+describe circumstances which are at least necessary conditions of
+anyone making a true assertion by uttering the sentence S. But,
+as I hope to show, to say this is not at all the same thing as to say
+that Russell has given a correct account of the use of the sentence
+S or even that he has given an account which, though incomplete,
+is correct as far as it goes ; and is certainly not a t all the same thing
+as to say that the model translation provided is a correct model
+for all (or for any) singular sentences beginning with a phrase of
+the form " the so-and-so ".
+It is also easy to see how this analysis enables Russell to answer
+the question of how the sentence S can be significant, even when
+there is no king of France, For, if this analysis is correct, anyone
+who utters the sentence S to-day would be jointly asserting
+three propositions, one of which (viz. that there is a king of France)
+would be false ; and since the conjunction of three propositions,
+of which one is false. is itself false. the assertion as a whole would'
+be significant, but false. So neither of the bad arguments for
+subsistent entities would apply to such an assertion.
+
+As a step towards showing that Russell's solation of his problem
+is mistaken, and towards providing the correct solution, I want
+now to draw certain distinctions. For this purpose I shall, for the
+remainder of thissection,refer to an expressionwhichhas a uniquely
+referring use as " an expression " for short ; and to a sentence
+
+ON REFERRING
+
+325
+
+beginning with such an expression as " a sentence " for short.
+The distinctions I shall draw are rather rough and ready, and,
+no doubt, difficult cases could be produced which would call for
+their refinement. But I think they will serve my purpose. The
+distinctions are between :
+(Al) a sentence,
+(A2) a use of a sentence,
+(A3) an utterance of a sentence,
+and, correspondingly, between :
+(Bl) an expression,
+(B2) a use of an expression,
+(B3) an utterance of an expression.
+Consider again the sentence, " The king of Prance is wise ". It
+is easy to imagine that this sentence was uttered at various times
+from, say, the beginning of the seventeenth century onwards,
+during the reigns of each successive French monarch ; and easy
+to imagine that it was also uttered during the subsequent periods
+in which France was not a monarchy. Notice that it was natural
+for me to speak of "the sentence " or "this sentence " being
+uttered at various times during this period ; or, in other words,
+that it would be natural and correct to speak of one and the same
+sentence being uttered on all these various occasions. It is in
+the sense in which it would be correct to speak of one and the
+same sentence being uttered on all these vaGous occasions that I
+want to use the expression (Al) " a sentence". There are, however. obvious differences betxeen different occasions o f the use
+of this sentence. For instance, if one man uttered it in the reign
+of Louis XIV and another man uttered it in the reign of Louis XV,
+that they were respectively
+it would be natural to say (to ass~~me)
+talking about different people; and it might be held that the
+first man, in using the sentence, made a true assertion, while the
+second man, in using the same sentence, made a false assertion.
+If on the other hand two different men simultaneously uttered the
+sentence (e.g. if one wrote it and the other spoke it) during the reign
+of Louis XIV, it would be natural to say (assume) that they were
+both talking about the same person, and, in that case, in using the
+sentence. thev
+,. must either both have made a true assertion or both
+have made a false assertion. And this illustrates what I mean by
+a .use of a sentence. The tmo men who uttered the sentence, one
+in the reign of Louis XV and one in the reign of Louis XIV, each
+made a Sfferent use of the same sentence : -whereas the two men
+who uttered the sentence simultaneously inthe reign of Louis XIV,
+2
+
+
+326
+
+P. F. STRAWSON :
+
+made the same use of the same sentence. Obviously in the case
+of this sentence, and equally obviously in the case of many others,
+we cannot talk of the sentence being true or false, but only of its
+being used to make a true or false assertion, or (if this is preferred)
+to express a true or a false proposition. And equally obviously we
+cannot talk of the sentence being about a particular person, for the
+same sentence may be used a t different times to talk about quite
+different particular persons, but only of a use of the sentence to talk
+about a particular person. Finally it will make sufficiently clear
+what I mean by an utterance of a sentence if I say that the two
+men who simultaneously uttered the sentence in the reign of Louis
+XIV made two different utterances of the same sentence, though
+they made the same use of the sentence.
+If we now consider not the whole sentence, " The king of Prance
+is wise ", but that part of it which is the expression, "the king
+of fiance ", it is obvious that we can make analogous, though not
+identical distinctions between (1)the expression, (2) a use of the
+expression and (3) an utterance of the expression. The distinctions will not be identical ; we obviously cannot correctly
+talk of the expression " the king of France " being used to express
+a true or false proposition, since in general only sentences can
+be used truly or falsely ; and similarly it is only by using a sentence
+and not by using an expression alone, that you can talk about
+a particular person. Instead, we shall say in this case that
+you use the expression to mention or refir t o a particular person
+in the course of using the sentence to talk about him. But obviously in this case, and a great many others, the expression
+(Bl) cannot be said to mention, or refer to, anything, any more
+than the sentence can be said to be true or false. The same
+expression can have different mentioning-uses, as the same
+sentence can be used to make statements with different truthvalues. " Mentioning ", or " referring ", is not something an
+expression does ; it is something that some one can use an expression to do. Mentioning, or referring to, something is a
+characteristic of a use of an expression, just as " being about "
+something, and truth-or-falsity, are characteristics of a use of a
+sentence.
+A very different example may help to make these distinctions
+clearer. Consider another case of an expression which has a
+This usage of ' use ' is, of course, different from (a) the current usage
+in which ' use ' (of a particular word, phrase, sentence) = (roughly) ' rules
+for using ' = (roughly) ' meaning ' ; and from (b) my own usage in the
+phrase " uniquely referring use of expressions " in which ' use ' =
+(roughly) ' way of using '.
+
+ON REFERRING
+
+327
+
+uniquely referring use, viz. the expression " I " ; and consider
+the sentence, " I am hot ". Countless people may use this same
+sentence ; but it is logically impossible for two different people
+to make the same use of this sentence : or, if this is preferred,
+to use it to express the same proposition. The expression " I "
+may correctly be used by (and only by) any one of innumerable
+people to refer to himself. To say this is to say something
+about the expression " I " : it is, in a sense, to give its meaning.
+This is the sort of thing that can be said about expressions. But
+it makes no sense to say of the expression " I " that it refers
+to a particular person. This is the sort of thing that can be said
+only cf a particular use of the expression.
+Let me use "type " as an abbreviation for " sentence or
+expression ". Then I am not saying that there are sentences and
+expression (types), and uses of them, and utterances of them, as
+there are ships and shoes and sealing-wax. I am saying that we
+cannot say the same things about types, uses of types, and utterances
+of types. And the fact is that we do talk about types ; and that
+confusion is apt to result from the failure to notice the differences
+between what we can say about these and what we can say
+only about the uses of types. We are apt to fancy we are talking
+about sentences and expressions when we are talking about the
+uses of sentences and expressions.
+This is what Russell does. Generally, as against Russell, I
+shall say this. Meaning (in at least one important sense) is
+a function of the sentence or expression ; mentioning and referring
+and truth or falsity, are functions of the use of the sentence or
+expression. To give the meaning of an expression (in the sense
+in which I am using the word) is to give general directions for its
+use to refer to or mention particular objects or persons ; to give
+the meaning of a sentence is to give general directions for its use
+in making true or false assertions. I t is not to talk about any
+particular occasion of the use of the sentence or expression. The
+meaning of an expression cannot be identified with the object it
+is used, on a particular occasion, to refer to. The meaning of
+. a sentence cannot be identified with the assertion it is used, on
+a particular occasion, to make. For to talk about the meaning of
+a n expression or sentence is not to talk about its use on a particular occasion, but about the rules, habits, conventions governing
+its correct use, on all occasions, to refer or to assert. So the question of whether a sentence or expression is signijicant or not
+has nothing whatever to do with the question of whether the
+sentence, uttered on a particular occasion, is, on that occasion,
+being used to make a true-or-false assertion or not, or of whether
+
+328 	
+
+P. F. STRAWSON
+
+:
+
+the expression is, on that occasion, being used to refer to, or
+mention, anything at all.
+The source of Russell's mistake was that he thought that referring or mentioning, if it occurred at all, must be meaning. He
+did not distinguish B1 from B2 ; he confused expressions with
+their use in a particular context ; and so confused meaning with
+mentioning, with referring. If I talk about my handkerchief,
+I can, perhaps, produce the object I am referring to out of my
+pocket. I can't produce the meaning of the expression, "my
+handkerchief ", out of my pocket. Because Russell confused
+meaning with mentioning, he thought that if there were any
+expressions having a uniquely referring use, which were what they
+seemed (i.e. logical subjects) and not something else in disguise,
+their meaning must be the particular object which they were used
+to refer to. Hence the troublesome mythology of the logically
+proper name. But if some one asks me the meaning of the expression " this "-once
+Russell's favourite candidate for this
+status-I do not hand him the object I have just used the expression to refer to, adding at the same time that the meaning
+of the word changes every time it is used. Nor do I hand him all
+the objects it ever has been, or might be, used to refer to. I
+explain and illustrate the conventions governrng the use of the
+expression. This i s giving the meaning of the expression. I t is
+quite different from giving (in any sense of giving) the object
+to which it refers ; for the expression itself does not refer to
+anything ; though it can be used, on different occasions, to refer
+to innumerable things. Now as a mattel of fact there is, in
+, 	 English, a sense of the word " mean " in which this word does
+approximate to " indicate, mention or refer to " ; e.g. when
+somebody (unpleasantly) says, " I mean you " ; or when I point
+and say, " That's the one I mean ". But the one I meant is
+quite different from the meaning of the e x p ~ e s s i mI used to talk of it.
+In this special sense of " mean ". it is people who mean, not expressions. People use expressions to refer to particular things.
+Rut the meaning of an expression is not the set of things or the
+single thing it may correctly be used to refer to : the meaning is
+the set of rules, habits, conventions for its use in referring.
+It is the same with sentences : even more obviously so. Every
+one knows that the sentence, " The table is covered with books ",
+is significant, and every one knows what it means. But if I ask,
+" What object is that sentence about ? " I am asking an absurd
+question-a question which cannot be asked about the sentence,
+but only about some use of the sentence : and in this case the
+sentence hasn't been used, it has only been taken as an example.
+
+ON REFERRING
+
+329
+
+In knowing what it means, you are knowing how it could correctly
+be used to talk about things : so knowing the meaning hasn't
+anything to do with knowing about any particular use of the
+sentence to talk about anything. Similarly, if I ask : " Is the
+sentence true or false ? " I am asking an absurd question,
+which becomes no less absurd if I add, " I t must be one or the
+other since it's significant ". The question is absurd, because the
+sentence is neither true nor false any more than it's about some
+object. Of course the fact that it's significant is the same as the
+fact that it carz correctly be used to talk about something and that,
+in so using it, some one will be making a true or false assertion.
+And I will add that it will be used to make a. true or false assertion
+only if the person using it i s talking about something. If, when
+he utters it, he is not talking about anything, then his use is not
+a genuine one, but a spurious or pseudo-use : he is not making
+either a true or a false assertion, though he may think he is. And
+this points the way to the correct answer to the puzzle to which
+the Theory of Descriptions gives a fatally incorrect answer. The
+important point is that the question of whether the sentence is
+significant or not is quite independent of the question that can
+be raised about a particular use of it, viz. the question whether
+it is a genuine or a spurious use, whether it is being used to talk
+about something, or in make-believe, or as an example in philosophy. The question whether the sentence is significant or not is
+the question whether there exist such language habits, conventions
+or rules that the sentence logically could be used to talk about
+something ; and is hence quite independent of the question
+whether it is being so used on a particular occasion.
+
+Consider again the sentence, " The king of France is wise ",
+and the true and false things Russell says about it.
+There are at least two true things which Russell would say
+about the sentence :
+(1) The first is that it is significant ; that if anyone were now
+to utter it, he would be uttering a significant sentence.
+(2) The second is that anyone now uttering the sentence would
+be making a true assertion only if there in fact a t present existed
+one and only one king of France, and if he were wise.
+What are the false things which Russell would say about the
+sentence ? Thev are :
+(1) That anyone now uttering it would be making a true assertion or a false assertion ;
+
+330
+
+P. F. STRAWSON
+
+:
+
+(2) That part of what he would be asserting would be that
+there at present existed one and only one king of France.
+I have already given some reasons for thinking that these two
+statements are incorrect. Now suppose some one were in fact to
+say to you with a perfectly serious air : " The king of France is
+wise ". Would you say, " That's untrue " ? I think it's quite
+certain that you wouldn't. But suppose he went on to ask you
+whether you thought that what he had just said mas true, or was
+false ; whether you agreed or disagreed with what he had just
+said. I think you would be inclined, with some hesitation, to
+say that you didn't do either ; that the question of whether his
+statement was true or false simply didn't arise, because there was
+no such person as the king of France.l You might, if he were
+obviously serious (had a dazed astray-in-the-centuries look),
+say something like : " I'm afraid you must be under a misapprehension. France is not a monarchy. There is no king
+of France." And this brings out the point that if a man seriously
+uttered the sentence, his uttering it would in some sense be
+evidence that he believed that there was a king of France. It would
+not be evidence for his believing this simply in the way in which a
+man's reaching for his raincoat is evidence for his believing that it
+is raining. But nor would it be evidence for his believing this
+in the way in which a man's saying, " It's raining " is evidence
+for his believing that it is raining. We might put it as follows.
+To say, " The king of France is wise " is, in some sense of " imply ",
+to imply that there is a king of France. But this is a very special
+and odd sense of " imply ". " Implies " in this sense is certainly
+not equivalent to " entails " (or " logically implies "). And
+this comes out from the facf that when, in response to his statement, we say (as we should) " There is no king of France ", we
+should certainly not say we were contradicting the statement that
+the king of Brance is wise. We are certainly not saying that it's
+false. We are, rather, giving a reason for saying that the question
+of whether it's true or false simply doesn't arise.
+And this is where the distinction I drew earlier can help us.
+The sentence, " The king of France is wise ", is certainly signscant ; but this does not mean that any particular use of it is
+true or false. We use it truly or falsely when me use it to talk
+about some one ; when, in using the expression, " The king of
+France ", we are in fact mentioning some one. The fact that the
+sentence and the expression, ~espectively,are significant just is the
+fact that the sentence could be used, in certain circumstances, to
+Since this article was written, there has appeared a clear statement
+of this point by Mr Geach in Analysis Vol. 10, No. 4, March, 1950.
+
+ON REFERRING
+
+331
+
+say something true or false, that the expression,could be used, in
+certain circumstances to mention a particular person ; and to
+know their meaning is to know what sort of circumstances these
+are. So when we utter the sentence without in fact mentioning
+anybody by the use of the phrase, " The king of France ", the
+sentence doesn't cease to be significant : we simply fail to say
+anything true or false because we simply fail to mention anybody
+by this particular use of that perfectly significant phrase. It is,
+if you like, a spurious use of the sentence, and a spurious use of the
+expression ; though we may (or may not) mistakenly think it a
+genuine use.
+And such spurious uses are very fami1ia.r. Sophisticated
+romancing, sophisticated fiction,l depend upon them. If I began,
+"The king of France is wise ",and went on, "and he lives in a golden
+castle and has a hundred wives", and so on, a hearer would understand me perfectly well, without supposing either that I was talking
+about a particular person, or that I was making a false statement
+to the effect that there existed such a person as my words described. (It is worth adding that where the use of sentences and
+expressions is overtly fictional, the sense of the word " about "
+may change. As Moore said, it is perfectly natural and correct
+to say that some of the statements in Pickwick Papers are about
+Mr. Pickwick. But where the use of sentences and expressions
+is not overtly fictional, this use of " about " seems less correct ;
+i.e. it would not in general be correct to say that a statement was
+about Mr. X or the so-and-so, unless there were such a person or
+thing. So it is where the romancing is in danger of being taken
+seriously that we might answer the question, " Who is he talking
+about ? " with " He's not talking about anybody " ; but, in
+saying this, we are not saying that what he is saying is either
+false or nonsense.)
+Overtly fictional uses apart, however, I said just now that to use
+such an expression as " The king of France " at the beginning of a
+sentence was, in some sense of " imply ", to imply that there was a
+king of France. When a man uses such an expression, he does not
+assert, nor does what he says entail, a uniquely existential pro;
+position. But one of the conventional functions of the definite
+article is to act as a signal that a unique reference is being made
+-a signal, not a disguised assertion. When we begin a sentence
+with " the such-and-such " the use of " the " shows, but does not
+state, that we are, or intend to be, referring to one particular
+individual of the species " such-and-such ". Which particular
+individual is a matter to be determined from context, time, place
+The unsophisticated kind begins :
+
+"
+
+Once upon time there was
+
+. . .".
+
+332
+
+P. F. STRAWSON :
+
+and any other features of the situation of utterance. Now,
+whenever a man uses any expression, the presumption is that he
+thinks he is using it correctly : so when he uses the expression, "the
+such-and-such ", in a uniquely referring way, the presumption
+is that he thinks both that there is some individual of that species,
+and that the context of use will sufficiently determine which one
+he has in mind. To use the word " the " in this way is then to
+imply (in the relevant sense of "imply ") that the existential
+conditions described by Russell are fulfilled. But to use " the "
+in this way is not to state that those conditions are fulfilled.
+If I begin a sentence with an expression of the form, "the so-andso", and then am prevented from saying more, I have made no
+statement of any kind ; but I may have succeeded in mentioning
+some one or something.
+The uniquely existential assertion supposed by Russell to be part
+of any assertion in which a uniquely referring use is made of an
+expression of the form "the so-and-so " is, he observes, a compound of two assertions. To say that there is a is to say something compatible with there being several (bs ; to say there is not
+more than one (b is to say something compatible with there being
+none. To say there is one (b and one only is to compound these two
+assertions. I have so far been concerned mostly with the alleged
+assertion of existence and less with the alleged assertion of
+uniqueness. An example which throws the emphasis on to the
+latter will serve to bring out more clearly the sense of "implied" in
+which a uniquely existential assertion is implied, but not entailed,
+by the use of expressions in the uniquely referring way. Consider
+the sentence, " The table is covered with books ". It is quite
+certain that in any normal use of this sentence, the expression " the
+table " would be used to make a unique reference, i.e. to refer to
+some one table. I t is a quite strict use of the definite article, in
+the sense in which Russell talks on p. 30 of Principia Mathematics,
+of using the article " strictly, so as to imply uniqueness ". On the
+same page Russell says that a phrase of the form " the so-and-so ",
+used strictly, "will only have an application in the event of
+there being one so-and-so and no more ". Now it is obviously
+quite false that the phrase "the table " in the sentence " the
+table is covered with books ", used normally, will " only have an
+application in the event of there being one table and no more ".
+I t is indeed tautologically true that, in such a use, the phrase will
+have an application only in the event of there being one table and
+no more which is being refewed to, and that it will be understood
+to have an application only in the event of there being one table
+and no more which it is understood as being used to refer to.
+
++
+
+ON REFERRING
+
+333
+
+To use the sentence is not to assert, but it is (in the special sense
+discussed) to imply, that there is only one thing which is both
+of the kind specified (i.e. a table) and is being referred to by the
+speaker. It is obviously not to assert this. To refer is not to say
+you are referring. To say there is some table or other to which you
+are referring is not the same as referring to a particular table.
+We should have no use for such phrases as "the individual I
+referred to " unless there were something which counted as
+referring. (It would make no sense to say you had pointed if there
+were nothing which counted as pointing.) So once more I draw
+the conclusion that referring to or mentioning a particular thing
+cannot be dissolved into any kind of assertion. To refer is not
+to assert, though you refer in order to go on to assert.
+Let me now take an example of the uniquely referring use of an
+expression not of the form, "the so-and-so ". Suppose I advance
+my hands, cautiously cupped, towards someone, saying, as I do so,
+" This is a fine red one ". He, looking into my hands and seeing
+nothing there, may say : " What is ? What are you talking
+about ? " Or perhaps, " But there's nothing in your hands ".
+Of course it would be absurd to say that in saying " But you've
+got nothing in your hands ", he was denying or contradicting what
+I said. So " this " is not a disguised description in Russell's
+sense. Nor is it a logically proper name. For one must know
+what the sentence means in order to react in that way to the
+utterance of it. It is precisely because the significance of the word
+" this " is independent of any particular reference it may be used
+to make, though not independent of the way it may be used to
+refer, that I can, as in this example, use it to pretend to be
+referring to something.
+The general moral of all this is that communication is much
+less a matter of explicit or disguised assertion than logicians
+used to suppose. The particular application of this general
+moral in which I am interested is its application to the case of
+making a unique reference. It is a part of the significance of
+expressions of the kind I am discussing that they can be used,
+in an immense variety of contexts, to make unique references.
+It is no part of their significance to assert that they are being so
+used or that the conditions of their being so used are fulfilled.
+So
+the wholly important distinction we are required to draw
+.
+is between :
+(1) using an expression to make a unique reference ; and
+(2) asserting that there is one and only one individual which
+has certain characteristics (e.g. is of a certain kind, or stands in a
+certain relation to the speaker, or both).
+-
+
+334
+
+P. F. STRAWSON
+
+:
+
+This is, in other words, the distinction between
+(I) sentences containing an expression used to indicate or
+mention or refer to a particular person or thing ; and
+(2) uniquely existential sentences.
+What Russell does is progressively to assimilate more and more
+sentences of class (1) to sentences of class (2), and consequently to
+involve himself in insuperable difficulties about logical subjects, and
+about values for individual variables generally : difficulties which
+have led him finally to the logically disastrous theory of names
+developed in the Enquiry and in Human Knowledge. That view
+of the meaning of logical-subject-expressions which provides the
+whole incentive to the Theory of Descriptions at the same time
+precludes the possibility of Russell's ever &ding any satisfactory
+substitutes for those expressionswhich, beginning with substantival
+phrases, he progressively degrades from the status of logical
+subjects.1 It is not simply, as is sometimes said, the fascination
+of the relation between a name and its bearer, that is the root O F
+the trouble. Not even names come up to the impossible standard
+set. I t is rather the combination of two more radical misconceptions : first, the failure to grasp the importance of the
+distinction (section I1 above) between what may be said of an
+expression and what may be said of a particular use of it ; second,
+a failure to recognise the uniquely referring use of expressions for
+the harmless, necessary thing it is, distinct from, but complementary to, the predicative or ascriptive use of expressions. The
+expressions which can in fact occur as singular logical subjects
+are expressions of the class I listed at the outset (demonstratives,
+substantival phrases, proper names, pronouns) : to say this is to
+say that these expressions, together with context (in the widest
+sense) are what one uses to make unique references. The point
+of the conventions governing. the uses of such expressions is,
+along with the situation of utterance, to secure uniqueness of
+reference. But to do this, enough is enough. We do not, and
+we cannot, while referring, attain the point of complete explicitness at which the referring function is no longer performed. The
+actual unique reference made, if any, is a matter of the particular
+use in the particular context ; the significance of the expression
+used is the set of rules or conventions which permit such references
+to be made. Hence we can, using significant expressions, pretend
+to refer, in make-believe or in fiction, or mistakenly think we
+are referring when we are not referring to anything.
+This shows the need for distinguishing two kinds (among many
+=And this in spite of the danger-signal of that phrase, "misleading
+grammatical form ".
+
+ON REFERRING
+
+.
+
+335
+
+others) of linguistic conventions or rules : rules for referring,
+and rules for attributing and ascribing ; and for an investigation
+of the former. If we recognise this distinction of use for what it is,
+we are on the way to solving a number of ancient logical and
+metaphysical puzzles.
+My last two sections are concerned, but only in the barest outline,
+with these questions.
+One of the main purposes for which we use language is the
+purpose of stating facts about things and persons and events.
+If we want to fulfil this purpose, we must have some way of
+forestalling the question, "What (who, which one) are you talking
+about ? " as well as t,he question, "What are you saying about it
+(him, her) ? " The task of forestalling the first question is the
+referring (or identifying) task. The task of forestalling the second
+is the attributive (or descriptive or classificatory or ascriptive) task.
+In the conventional English sentence which is used to state, or to
+claim to state, a fact about an individual thing or person or event,
+the performance of these two tasks can be roughly and approximately assigned to separable expressions.1 And in such a sentence,
+this assigning of expressions to their separate roles correspondsto the
+conventional grammatical classification of subject and predicate.
+There is nothing sacrosanct about the employment of separable
+expressions for these two tasks. Other methods could be, and
+are, employed. There is, for instance, the method of uttering a
+single word or attributive phrase in the conspicuous presence of
+the object referred to ; or that analogous method exemplified by,
+e.g. the painting of the words " unsafe for lorries " on a bridge, or
+the tying of a label reading " first prize " on a vegetable marrow.
+Or one can imagine an elaborate game in which one never used
+an expression in the uniquely referring way at all, but uttered only
+uniquely existential sentences, trying to enable the hearer to
+identify what was being talked of by means of an accumulation
+of relative clauses. (This description of the purposes of the game
+shows in what sense it would be a game : this is not the normal
+use we make of existential sentences.) Two points require
+emphasis. The first is that the necessity of performing these two
+tasks in order to state particular facts requires no transcendental
+explanation : to call attention to it is partly to elucidate the
+meaning of the phrase, " stating a fact ". The second is that
+even this elucidation is made in terms derivative from the grammar
+I neglect relational sentences ; for these require, not a modification in
+of the detail.
+the principle of what I say, but a c~mplicat~ion
+
+336
+
+P. F. STRAWSON:
+
+of the conventional singular sentence ; that even the overtly
+functional, linguistic distinction between the identifying and
+attributive roles that words may play in language is prompted
+by the fact that ordinary speech offers us separable expressions
+to which the different functions may be plausibly and approximately assigned. And this functional distinction has cast long
+philosophical shadows. The distinctions between particular
+and universal, between substance and quality, are such pseudomaterial shadows, cast by the grammar of the conventional
+sentence, in which separable expressions play distinguishable
+roles.
+To use a separate expression to perform the first of these tasks
+is to use an expression in the uniquely referring way. I want now
+to say something in general about the conventions of use for expressions used in this way, and to contrast them with conventions
+of ascriptive use. I then proceed to the brief illustration of these
+general remarks and to some further applications of them.
+What in general is required for making a unique reference
+is, obviously, some device, or devices, for showing both that a
+unique reference is intended and what unique reference it is ; some
+device requiring and enabling the hearer or reader to identify
+what is being talked about. In securing this result, the context of
+utterance is of an importance which it is almost impossible to
+exaggerate ; and by " context " I mean, at least, the time, the
+place, the situation, the identity of the speaker, the subjects which
+form the immediate focus of interest, and the personal histories of
+both the speaker and those he is addressing. Besides context, there
+is, of course, convention;-linguistic convention. But, except
+in the case of genuine pioper names, of which I shall have more
+to say later, the fulfilment of more or less precisely stateable
+contextual conditions is colzventionally (or, in a wide sense of the
+word, ZogimZZy) required for the correct referring use of expressions
+in a sense in which this is not true of correct ascri~tiveuses.
+The requirement for the correct application of an expression in its
+ascriptive use to a certain thing is simply that the thing should
+be of a certain kind, have certain characteristics. The requirement
+for the correct application of an expression in its referring use to
+a certain thing is something over and above any requirement
+derived from such ascriptive meaning as the expression may have ;
+it is, namely, the requirement that the thing should be in a certain
+relation to the speaker and to the context of utterance. Let me
+call this the contextual requirement. Thus, for example, in the
+limiting case of the word " I " the contextual requirement is that
+the thing should be identical with the speaker ; but in the case of
+
+ON REFERRING
+
+337
+
+most expressions which have a referring use this requirement
+cannot be so precisely specified. A further, and perfectly general,
+difference between conventions for referring and conventions for
+describing is one we have already encountered, viz. that the fulfilment of the conditions for a correct ascriptive use of an expression is a part of what is stated by such a use ; but the fulfilment of the conditions for a correct referring use of an expression
+is never part of what is stated, though it is (in the relevant sense
+of "implied ") implied by such a use.
+Conventions for referring have been neglected or misinterpreted
+by logicians. The reasons for this neglect are not hard to see,
+though they are hard to state briefly. Two of them are, ronghly :
+(1)the preoccupation of most logicians with definitions ; (2) the
+preoccupation of some logicians with formal systems. (1) A
+definition, in the most familiar sense, is a specification of the
+conditions of the correct ascriptive or classificatory use of an
+expression. Definitions take no account of contextual requirements. So that in so far as the search for the meaning or the
+search for the analysis of an expression is conceived as the search
+for a dehition, the neglect or misinterpretation of conventions
+other than ascriptive is inevitable. Perhaps it would be better
+to say (for I do not wish to legislate about " meaning " or " analysis ") that logicians have failed to notice that problems of use are
+wider than problems of analysis and meaning. (2) The influence
+of the preoccupation with mathematics and formal logic is most
+clearly seen (to take no more recent examples) in the cases of
+Leibniz and Russell. The constructor of calculuses, not concerned
+or required to make factual statements, approaches applied
+logic with a prejudice. I t is natural that he should assume that
+the types of convention with whose adequacy in one field he is
+familiar should be really adequate, if only one could see how, in a
+quite different field-that of statements of fact. Thus we have
+Leibniz striving desperately to make the uniqueness of unique
+references a matter of logic in the narrow sense, and Russell
+striving desperately to do the same thing, in a different way,
+both for the implication of uniqueness and for that of
+existence.
+I t should be clear that the distinction I am trying to draw is
+primarily one between different rales or parts that expressions
+may play in language, and not primarily one between different
+groups of expressions ; for some expressions may appear in either
+rdle. Some of the kinds of words I shall speak of have predominantly, if not exclusively, a referring rale. This is most obviously
+true of pronouns and ordinary proper names. Some can occur
+
+338
+
+P. F. STRAWSON :
+
+as wholes or parts of expressions which have a predominantly
+referring use, and as wholes or parts of expressions which have
+a predominantly ascriptive or classificatory use. The obvious
+cases are common nouns ; or common nouns preceded by adjectives, including participial adjectives ; or, less obviously,
+adjectives or participial adjectives alone. Expressions capable
+of having a referring use also differ from one another in a t least
+the three following, not mutually independent, ways :
+(1) They differ in the extent to which the reference they are
+used to make is dependent on the context of their utterance.
+Words like " I " and "it " stand at one end of this
+scale-the end of maximum dependence--and phrases like
+"the author of Waverley " and "the eighteenth king of
+France " at the other.
+(2) They differ in the degree of " descriptive meaning " they
+possess : by " descriptive meaning " I intend " conventional
+limitation, in application, to things of a certain general
+kind, or possessing certain general characteristics ". At
+one end of this scale stand the proper names we most
+commonly use in ordinary discourse ; men, dogs and motorbicycles may be called " Horace ". The pure name has no
+descriptive meaning (except such as it may acquire a.s a
+result of some one of its uses as a name). A word like " he "
+has minimal descriptive meaning, but has some. Substantival phrases like " the round table "have the maximum
+descriptive meaning. An interesting intermediate position
+is occupied by 'impure ' proper names like " The Round
+Table "-substantival
+phrases which have grown capital
+letters.
+(3) Finally, they may be divided into the following two classes :
+(i) those of which the correct referring use is regulated by
+some general referring-cum-ascriptive conventions. To this
+class belong both pronouns, which have the least descriptive
+meaning, and substantival phrases which have the most ;
+(ii) those of which the correct referring use is regulated by
+no general conventions, either of the contextual or the
+ascriptive kind, but by conventions which are ad hoc for
+each particular use (though not for each particular utterance).
+Roughly speaking, the most familiar kind of proper names
+belong to this class. Ignorance of a man's name is not
+ignorance of the language. This is why we do not speak
+of the meaning of proper names. (But it won't do to say
+they are meaningless.) Again an intermediate position
+
+'
+
+'
+
+ON REFERRING
+
+339
+
+is occupied by such phrases as " The Old Pretender "
+Only an old pretender may be so referred to ; but to know
+which old pretender is not to know a general, but an
+ad hoc, convention.
+In the case of phrases of the form " the so-and-so " used referringly, the use of " the " together with the position of the phrase
+in the sentence (i.e. at the beginning, or following a transitive
+verb or preposition) acts as a signal that a unique reference is being
+made ; and the following noun, or noun and adjective, together
+with the context of utterance, shows what unique reference is being
+made. In general the functional difference between common
+nouns and adjectives is that the former are naturally and commonly
+used referringly, while the latter are not commonly, or so naturally,
+used in this way, except as qualifying nouns ; though they can be
+and are, so used alone. And of course this functional difference is
+not independent of the descriptive force peculiar to each word. In
+general we should expect the descriptive force of nouns to be such
+that they are more efficient tools for the job of showing what
+unique reference is intended when such a reference is signalised ;
+and we should also expect the descriptive force of the words we
+naturally and commonly use to make unique reference to mirror
+our interest in the salient, relatively permanent and behavioural
+characteristics of things. These two expectations are not independent of one another ; and, if we look at the differences
+between the commoner sort of common nouns and the commoner
+sort of adjectives, we find them both fulfilled. These are differences of the kind that Locke quaintly reports, when he speaks of
+our ideas of substances being collections of simple ideas ; when he
+says that "powers make up a great part of our ideas of substances " ; and when he goes on to contrast the identity of real
+and nominal essence in the case of simple ideas with their lack
+of identity and the shiftingness of the nominal essence in the case
+of substances. " Substance " itself is the troublesome tribute
+Locke pays to his dirr: awareness of the difference in predominant
+linguistic function that lingered even when the noun had been
+expanded into a more or less indefinite string of adjectives.
+Russell repeats Locke's mistake with a difference when, admitting
+the inference from syntax to reality to the extent of feeling that
+he can get rid of this metaphysical unknown only if he can purify
+language of the referring function altogether, he draws up his
+programme for " abolishing particulars " ; a programme, in
+fact, for abolishing the distinction of logical use which I am here
+a t pains to emphasise.
+
+340
+
+P. F. STRAWSON :'
+
+The contextual requirement for the referring use of pronouns
+may be stated with the greatest precision in some cases (e.g. " I '
+and "you ") and only with the greatest vagueness in others
+("it " and "this "). I propose to say nothing further about
+pronouns, except to point to an additional symptom of the
+failure to recognise the uniquely referring use for what it is ; the
+fact, namely, that certain logicians have actually sought to elucidate the nature of a variable by offering such sentences as " he is
+sick ", " i t is green ", as examples of something in ordinary
+speech like a sentential function. Now of course it is true that the
+word " he " may be used on different occasions to refer to different
+people or different animals : so may the word " John " and the
+phrase " the cat ". What deters such logicians from treating
+these two expressions as quasi-variables is, in the first case, the
+lingering superstition that a name is logically tied to a single
+individual, and, in the second case, the descriptive meaning of the
+word " cat ". But " he ", which has a wide range of applications
+and minimal descriptive force, only acquires a use as a referring
+word. It is tbis fact, together with the failure to accord to
+expressions used referringly, the place in logic which belongs to
+them (the place held open for the mythical logically proper name),
+that accounts for the misleading attempt to elucidate the nature
+of the variable by reference to such words as " he ", " she ", " it ".
+Of ordinary proper names it is sometimes said that they are
+essentially words each of which is used to refer to just one individual. This is obviously false. Many ordinary personal
+namehnames par excellence-are correctly used to refer to
+numbers of people. An ordinary personal name, is, roughly, a
+word, used referringly, of which the use is not dictated by any
+descriptive meaning the word may have, and is not prescribed
+by any such general rule for use as a referring expression (or a
+part of a referring expression) as we find in the case of such
+words as " I ", " this " and " the ", but is governed by ad hoc
+conventions for each particular set of applications of the word
+to a given person. The important point is that the correctness
+of such applications does not follow from any general rule or
+convention for the use of the word as such. (The limit of absurdity and obvious circularity is reached in the attempt to treat
+names as disguised description in Russell's sense ; for what is in
+the special sense implied, but not entailed, by my now referring
+to some one by name is simply the existence of some one, now being
+referred to, who is conventionally referred to by that name.) Even
+this feature of names, however, is only a symptom of the purpose
+for which they are employed. At present our choice of names is
+
+ON REFERRING
+
+341
+
+partly arbitrary, partly dependent on legal and social observances.
+I t would be perfectly possible to have a thorough-going systerrb
+of names, based e.g. on dates of birth, or on a minute classification
+of physiological and anatomical differences. But the success of
+any such system would depend entirely on the convenience of the
+resulting name-allotments for the purpose of making unique
+references ; and this would depend on the multiplicity of the
+classifications used and the degree to which they cut haphazard
+across normal social groupings. Given a sufficient degree of
+both, the selectivity supplied by context would do the rest ; just
+as is the case with our present naming habits. Had we such a
+system, we could use name-words descriptively (as we do at present,
+to a limited extent and in a different way, with some famous
+names) as well as referringly. But it is by criteria derived from
+consideration of the requirements of the referring task that we
+should assess the adequacy of any system of naming. Prom the
+naming point of view, no kind of classification would be better
+or worse than any other simply because of the kind of classification-natal or anatomical-that it was.
+I have already mentioned the class of quasi-names, of substantival phrases which grow capital letters, and of which such
+phrases as " the Glorious Revolution ", " the Great JJTar", " the
+Annunciation ", " the Round Table " are examples. While the
+descriptive meaning of the words which follow the definite article
+is still relevant to their referring role, the capital letters are a
+sign of that extra-logical selectivity in their referring use, which
+is characteristic of pure names. Such phrases are found in
+print or in writing when one member of some class of events or
+things is of quite outstanding interest in a certain society. These
+phrases are embryonic names. A phrase may, for obvious
+reasons, pass into, and out of, this class (e.g. " the Great War ").
+
+1want to conclude by considering, all too briefly, three further
+problems about referring uses.
+( a ) Indefinite references. Not all referring uses of singular
+expressions forestall the question " What (who, which one)
+are you talking about ? " There are some .which either invite this
+question, or disclaim the intention or ability to answer it. Examples are such sentence-beginnings as " A man told me that
+. . .", "Some one told me that. . . ." The orthodox (Russellian)
+doctrine is that such sentences are existential, but not uniquely
+existential. This seems wrong in several ways. I t is ludicrous to
+
+suggest that part of what is asserted is that the class of men or
+persons is not empty. Certainly this is implied in the by now
+familiar sense of implication ; but the implication is also as much
+an implication of the uniqueness of the particular object of reference
+as \%?henI beein a sentence with such a phrase as " the table ".
+The differen;; between the use of theLdefinite and indefinite
+articles is, very roughly, as follows. We use " the " either
+when a previous reference has been made. and when " t h e "
+signalises that the same reference is being made ; or when, in the
+absence of a previous indefinite reference, the context (including
+the hear's assumed knowledge) is expected to enable the hearer to
+tell what reference is being made. We use " a " either when these
+conditions are not fulfilleud, or when, although a definite reference
+could be made, we wish to keep dark the identity of the individual
+to whom, or to which, we are referring. This is the a ~ c huse
+of such a phrase as " a certain person " or " some one " ; where it
+could be expanded, not into " some one, but you wouldn't (or I
+don't) know who " but into " some one, but I'm not telling you
+who."
+(b) Ident$cation statements. By this label I intend statements
+like the following :
+(ia) That is the man who swam the channel twice on one day.
+(iia) Napoleon was the man who ordered the execution of the
+Duc D'Enghien.
+The puzzle about these statements is that their grammatical
+predicates do not seem to be used in a straightforwardly ascriptive
+way as are the grammatical predicates of the statements :
+(ib) That man swam the channel twice in one day.
+(iib) Napoleon ordered the execution of the Duc D'Enghien.
+But if, in order to avoid blurring the difference between (ia) and
+(ib) and (iia) and (iib), one says that the phrases which form the
+grammatical complements of (ia) and (iia) are being used referringly, one becomes puzzled about what is being said in these
+sentences. We seem then to be referrinn
+" to the same uerson twice
+over and either saying nothing about him and thus making no
+statement, or identifying him with himself and thus producing a
+trivial identity.
+The bogey of triviality can be dismissed. This only arises
+for those who think of the object referred to by the use of an expression as its meaning, and thus think of the subject and complement of these sentences as meaning the same because they
+could be used to refer to the same person.
+I think the differences between ientences in the (a) group and
+sentences in the (b) group can best be understood by considering
+
+343
+
+ON REFERRING
+
+the differences between the circumstances in which you would
+say (ia) and the circumstances in which you would say (ib). You
+would say (ia) instead of (ib) if you knew or believed that your
+hearer knew or believed that some one had swum the channel twice
+in one day. You say (ia) when you take your hearer to be in the
+position of one who can ask : " Who swam the channel twice in one
+day '2 " (And in asking this, he is not saying that anyone did,
+though his asking it implies-in the relevant sense-that some one
+did.) Such sentences are like answers t,o such questions. They
+are better called " identification-statements " than " identities ".
+Sentence (ial does not assert more or less than sentence (ibl.
+, ,
+It is just that you say (ia) to a man whom you take to know
+certain things that you take to be unknown to the man to
+whom you say (ib).
+This is, in the barest essentials, the solution to Russell's puzzle
+about " denoting phrases " joining by " is " ; one of the puzzles
+which he claims for the Theory of Descriptions the merit of solving.
+(c) The logic of subjects and predicates. Much of what I have
+said of the uniquely referring use of expressions can be extended,
+with suitable modifications, to the non-uniquely referring use of
+expressions ; i.e. to some uses of expressions consisting of " the "
+" all the ", " all ", " some ", " some of the ", etc. followed by a
+noun, qualified or unqualified, in the plural ; to some uses of
+" they ", " them ", " those ", " these " ; and to conjunctions of
+names. Exmessions
+of the first kind have a s~ecialinterest.
+,.
+Roughly speaking, orthodox modern criticism, inspired by mathematical logic, of such traditional doctrines as that of the Square of
+Opposition and of some of the forms of the syllogism traditionally
+recomised
+as valid. rests on the familiar failure to recowise the
+"
+special sense in which existential assertions may be implied by the
+referring use of expressions. The universal propositions of the
+fourfold schedule, it is said, must either be given a negatively
+existential interpretation (e.g., for A, "there are no Xs which
+are not Ys ") or they must be interpreted as conjunctions of
+negatively and positively existential statements of, e.g., the form
+(for A) " there are no Xs which are not Ys, and there are Xs ".
+The I and 0 forms are normally given a positively existential
+interpretation. It is then seen that, whichever of the above alternatives is selected, some of the traditional laws have to be
+abandoned. The dilemma, however, is a bogus one. If we interpret the propositions of the schedule as neither positively, nor
+negatively, nor positively and negatively, existential, but as
+sentences such that the question of whether they are being used to
+make true or false assertions does not arise except when the existential
+\
+
+,
+
+L,
+
+344
+
+'
+
+P. F. STRAWSON : ON REFERRING
+
+condition is fu@lled for the subject term, then all the traditional
+laws hold good together. And this interpretation is far closer to
+the most common uses of expressions beginning with " all " and
+" some " that is any Russellian alternative. For these expressions
+are most commonly used in the referring way. A literal-minded
+and childless man asked whether all his children are asleep will certainly not answer " Yes " on the ground that he has none ; but nor
+will he answer " No " on this ground. Since he has no children,
+the question does not arise. To say this is not to say that I
+may not use the sentence, "All my children are asleep ", with the
+intention of letting some one know that I have children, or of
+deceiving him into thinking that I have. Nor is it any weakening
+of my thesis to concede that singular phrases of the form "the
+so-and-so " may sometimes be used with a similar purpose.
+Neither Aristotelian nor Russellian rules give the exact logic of
+any expression of ordinary language ; for ordinary language has
+no exact logic.
+Oxford University
+
+
