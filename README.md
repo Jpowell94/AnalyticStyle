@@ -98,6 +98,8 @@ stylo(corpus.dir = "philosophy_style_corpus",
 
 on my corpus of documents, I produced this bootstraping tree:
 
+![Bootstrap Tree](https://bitbucket.org/JesseRP/analyticstyle/raw/002c4be6ae17678a31a6295a1116f7e89437eb74/jesserussellpowell_Consensus_2-202_MFWs_Culled_0__Classic%20Delta_C_0.5__001.png)
+
 
 
 ##Findings
