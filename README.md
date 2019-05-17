@@ -166,6 +166,6 @@ None of this is meant to serve nor possibly could serve as an end to the questio
 #Works Cited
 
 * Eder, M., Rybicki, J. and Kestemont, M. (2016). Stylometry with R:
-  a package for computational text analysis. R   Journal 8(1): 107-121.
+  a package for computational text analysis. R Journal 8(1): 107-121.
   <https://journal.r-project.org/archive/2016/J-2016-007/index.html>
 
