@@ -25,7 +25,7 @@ In particular, I chose the works I deemed to be most appropriate and most repres
   6. Karl Popper's attacks on "Historicism" and "pseudo-science", which he saw as prototypical examples the works of Marx, Freud, and Theodor Adorno.
   7. The 1958 Royaumont Colloquium, concerning Ryle, Quine, and Mearleu-Ponty (among others).
   8. The dispute between John Searle and Derrida concerning the correct interpretation of J.L. Austin.
-  9.[The televized debate](https://www.youtube.com/watch?v=7TUD4gfvtDY) between Foucault and Chomsky on Human Nature.
+  9. The [televized debate](https://www.youtube.com/watch?v=7TUD4gfvtDY) between Foucault and Chomsky on Human Nature.
   
   
 My analysis consisted in using various stylometric functions and methods of analysis found in [**stylo**](https://journal.r-project.org/archive/2016/RJ-2016-007/index.html)(Eder, M., Rybicki, J. and Kestemont, M. 2016), such as the Zeta metric and related extensions to identify discriminating words between the two sets of texts, various principle component analysis done on a set of 26 texts and 17 authors, building a bootstrap consensus tree, and various text analysis functions such as Heirarchical Clustering analysis on the documents, and measuring keyness, using metrics such as term frequency-inverse document frequency, and so on. (see ["Text Mining with R"](https://www.tidytextmining.com/))
