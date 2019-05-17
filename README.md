@@ -1,14 +1,15 @@
 
 # What is Analytic Style?
 
-This repository contains files for my stylometric analysis of a corpus I created, containing a subset of the analytic philosophy canon, a textual tradition beginning with the work of Gotlob Frege (1848-1925), Betrand Russell (1872-1970), G.E. Moore (1873-1958), and Ludwig Wittgenstein (1889-1951), and ending with the works of English language philosophers in the late 1950's early 1960's, togther with a subset of the continental philosophical canon, (see "*Continental Philosophy: A Very Short Introduction*". Critchley, Simon. 2001), understood as the sum of: 
+This repository contains files for my stylometric analysis of a corpus I created, containing a subset of the analytic philosophy canon, a textual tradition beginning with the work of Gotlob Frege (1848-1925), Betrand Russell (1872-1970), G.E. Moore (1873-1958), and Ludwig Wittgenstein (1889-1951), and ending with the works of English language philosophers in the late 1950's early 1960's, togther with a subset of the continental philosophical canon, (see "*Continental Philosophy: A Very Short Introduction*". Critchley, Simon. 2001), understood to be the sum of at least the following philosphical traditions: 
 
   1. German Idealism, British Idealism, and Romanticism. 
-  2. The critics of metaphysics and "masters of suspicion" including Feuerbach, Marx, Nietzsche,                 Freud, Bergson, and so on. 
-  3. Germanophone phenomenology and existential philosophy, (Husserl, Max Scheler, Karl Jaspers, and             Heidegger). 
-  4. French phenomenology, Hegelianism, and anti-Hegelianism (some of whome are also called                      "Existentialists") including Kojeve, Sartre, Merleau-Pont, Levinas, Bataille, and Simon de Beauvoir,        among others. 
+  2. The critics of metaphysics and "masters of suspicion" including Feuerbach, Marx, Nietzsche, Freud, Bergson, and so on. 
+  3. Germanophone phenomenology and existential philosophy, (Husserl, Max Scheler, Karl Jaspers, and Heidegger). 
+  4. French phenomenology, Hegelianism, and anti-Hegelianism (some of whome are also called "Existentialists") including Kojeve, Sartre, Merleau-Pont, Levinas, Bataille, and Simon de
+     Beauvoir, among others. 
   5. Hermeneutics (Dilthey, Gadamer, Ricoeur) 
-  6. Western Marxism, the Frankfurt school, including Lukacs, Benjamin, Horkheimer, Adorno,                      Marcuse, Habermas, etc. 
+  6. Western Marxism, the Frankfurt school, including Lukacs, Benjamin, Horkheimer, Adorno, Marcuse, Habermas, etc. 
   7. French Structuralism and structuralism, including Levi-Strauss, Lacan, and Althusser 
   8. Post-Structuralism, exemplified in the works of Foucault, Derrida, and Deleuze 
   9. "Post-modernism" here meant to refer to the work of Lyotard, and Baudrillard at least. 
@@ -20,11 +21,11 @@ In particular, I chose the works I deemed to be most appropriate and most repres
   2. The debates between Moore and Russell and the British Idealists.
   3. The debate between Russell and Bergson.
   4. The disagreement beween Heidegger and Carnap over metaphysics.
-  5. The disagreements between Horkheimer and the Critical School, and the Logical Positivists in the Vienna      Circle and Berlin Circle groups.
-  6. Karl Popper's attacks on "Historicism" and "pseudo-science", which he saw as prototypical                   examples the works of Marx, Freud, and Theodor Adorno.
+  5. The disagreements between Horkheimer and the Critical School, and the Logical Positivists in the Vienna Circle and Berlin Circle groups.
+  6. Karl Popper's attacks on "Historicism" and "pseudo-science", which he saw as prototypical examples the works of Marx, Freud, and Theodor Adorno.
   7. The 1958 Royaumont Colloquium, concerning Ryle, Quine, and Mearleu-Ponty (among others).
-  8. The dispute between John Searle and Derrida concerning the correct interpretation of J.L.                   Austin.
-  9.[The televized debate](https://www.youtube.com/watch?v=7TUD4gfvtDY) between Foucault and Chomsky on         Human Nature.
+  8. The dispute between John Searle and Derrida concerning the correct interpretation of J.L. Austin.
+  9.[The televized debate](https://www.youtube.com/watch?v=7TUD4gfvtDY) between Foucault and Chomsky on Human Nature.
   
   
 My analysis consisted in using various stylometric functions and methods of analysis found in [**stylo**](https://journal.r-project.org/archive/2016/RJ-2016-007/index.html)(Eder, M., Rybicki, J. and Kestemont, M. 2016), such as the Zeta metric and related extensions to identify discriminating words between the two sets of texts, various principle component analysis done on a set of 26 texts and 17 authors, building a bootstrap consensus tree, and various text analysis functions such as Heirarchical Clustering analysis on the documents, and measuring keyness, using metrics such as term frequency-inverse document frequency, and so on. (see ["Text Mining with R"](https://www.tidytextmining.com/))
@@ -143,7 +144,8 @@ We can see a few things immediately:
 
 1. Though all philosophy is concerned with arguments, and continental philosophy is surely concerned with logic, it seems that analytics *really are* uniquely obsessed with it.
 2. Analytic philosphers are concerned with linguistic entities in a special way that continental philosphers are not. 
-3. Continental philosophers seem especially fond of discussing features of our everyday lives as we experience them, as is evidenced by *dream* and *perception*, but also *consciousness*, *life*, and *being*.
+3. Continental philosophers seem especially fond of discussing features of our everyday lives as we experience them, as is evidenced by *dream* and *perception*, but also *consciousness*,
+   *life*, and *being*.
 4. Marxists notions seem to dominate; Marxist theory is disproportionally represented.
 
 one way we might sum these differences up: The contintal writers much prefer to use words having to do with **intentionality**, with human subjectivity and experience, and human intentional action. The analytic really is best conceived as a person preferring to use terms about **language** and **logic**; the one is concerned with Being and **action**, the other with **knowing**, **proof**, and **explanation**, and by way of all these, **computation**. I think this characterizes the way in which they are concerned
