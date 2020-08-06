@@ -83,7 +83,7 @@ All that is left after tokenization is to calculate the Craig Zeta.
 
 # Bootstrapping: A Test of MFW's effectiveness
 
-I will quickyl demonstrate why you should trust these methods and consider most frequent words to adequately capture features of authorship by building a **bootstrapping consensus tee** from my documents. Bootstrapping consesus trees are consensus trees built using a distance metric, where a consesus tree is a way of estimating the level of "support" for claudes in a tree, clusters of nodes of the tree.
+I will quickly demonstrate why you should trust these methods and consider most frequent words to adequately capture features of authorship by building a **bootstrapping consensus tee** from my documents. Bootstrapping consesus trees are consensus trees built using a distance metric, where a consesus tree is a way of estimating the level of "support" for claudes in a tree, clusters of nodes of the tree.
 
 ![Consensus Tree](https://bitbucket.org/JesseRP/analyticstyle/raw/2b31b9406bbc3f841d8e2b73d85c64a1fc71920d/ConsensusTreeDiagram.jpg) 
 
