@@ -107,7 +107,7 @@ My corpus of documents produced this bootstraping tree:
 ![Bootstrap Tree](https://bitbucket.org/JesseRP/analyticstyle/raw/002c4be6ae17678a31a6295a1116f7e89437eb74/jesserussellpowell_Consensus_2-202_MFWs_Culled_0__Classic%20Delta_C_0.5__001.png)
 
 
-One with any familiarity with these texts would see to the exemplary effectiveness of this method to attribute authorship and style: "WordandObject" and "TwoDogmasofEmpiricism" are both written by W.V.O. Quine, something that this model predicted by correctly clustering those documents. the same is true of "ThreeModelsfortheDescriptionofLanguage" and "SyntacticeStructures", both written by Noam Chomsky. Furthermore, "Capital" and "DialecticofEnlightment" are clustered, and this makes perfect sense; Horkheimer was a Marxist himself, if his work was not clustered with Marx, the model would have a glaring defect, and yet it got it right. Interestingly, it groups Heidegger with the Analytics.
+One with any familiarity with these texts would see to the exemplary effectiveness of this method to attribute authorship and style: "WordandObject" and "TwoDogmasofEmpiricism" are both written by W.V.O. Quine, something that this model predicted by correctly clustering those documents. The same is true of "ThreeModelsfortheDescriptionofLanguage" and "SyntacticeStructures", both written by Noam Chomsky. Furthermore, "Capital" and "DialecticofEnlightment" are clustered, and this makes perfect sense; Horkheimer was a Marxist himself, if his work was not clustered with Marx, the model would have a glaring defect, and yet it got it right. Interestingly, it groups Heidegger with the Analytics.
 
 
 ## Findings
