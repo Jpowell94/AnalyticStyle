@@ -47,7 +47,7 @@ In time this approach to philosophy became the unquestionable dominant metaphilo
 
 There are two issues with describing English philosophy as post-analytic though. The first is that it is not a label used by most philosophers, journals, and philosophical associations to describe themselves or what it is that they do. [There are more assocations of analytic philosophy today than there have ever been before](http://www.dif.unige.it/esap), and it is practiced more and more in non-English philosophical communities. Clearly then, we have not moved past being analytic in the sense that we still prefer to call ourselves analytic. The second issue is more interesting and formed part one part of the motivation for this project. It is clear also that if we mean for post-analytic to denote a particular "ism", that there is no "ism" associated with post-analytic philosophy. Philosophers calling themselves analytic hold a wide variety of competing beliefs about central philosophical issues, and what’s more, they are not particularly good at guessing what the most popular positions taken by their peers are, as was shown by David Bourget and David Chalmers in their [Philpapers survey and metasurvey](https://philpapers.org/surveys/). Again it seems clear that there just is no one thing to be called post-analytic philosophy or analytic philosophy understood as a particular doctrine or set of beliefs today. 
 
-So why do they call themselves analytic, and what do they mean? Of the kinds of answers typically given, two are the ones this project was concieved of as scrutinizing: what I will call the **the stylistic answer**, is the that analytic philosophy today is any philosophy written in a particular style, called the **analytic style**. 
+So why do they call themselves analytic, and what do they mean? Of the kinds of answers typically given, two are the ones this project was conceived of as scrutinizing: what I will call the **the stylistic answer**, is the that analytic philosophy today is any philosophy written in a particular style, called the **analytic style**. 
 
 ## Analytic Style?
 Under a naive conception of analytic style, it is supposed to be characterized by the unique level of emphasis it places on **argumentation**, **clarity**, and **rigor**, in comparison to "non-analytic" philosophy. But history tells us that none of these three features are distinctive of analytic philosophy. Argumentation has always been emphasized in philosophy; Wittgenstein, unquestionably one of the most influential authors in the analytic tradition, was called a mystic by Carnap, his works requiring a great deal of interpretation and to this day reasonable disagreements are had about what he really meant in works like the Philosophical investigations; Husserl argued that philosophy is a "rigorous science", where his phenomenological definition of rigor is as similar to any one analytic definition as any two of them are to each other.
@@ -65,9 +65,9 @@ So much influence, that the fact that philosophers working in the analytic tradi
 
  
 # Method
-## Selecting Disciminative Features
+## Selecting Discriminative Features
 
-To analyze style, I focused on various measure I can perform on the **most frequent words** of each document. I here take it that document specific word frequency rankings, especially as concerns so called *function words*, such as prepositions, articles, and so on, are a reliable type of **author invariant**; the MFW's of a document are a type of linguistic item that appear in documents only by virtue of being written by a particular author, with sets of words occuring across multiple documents with similar frequencies constituting an important part of an author's style. In particular, I use **Craig's Zeta** measure to identify a statistically significant difference in feature distribution between the analytic part of my corpus and the Continental part of my corpus, which I have labeled the "Humanities" portion instead. According to Eder , Rybicki and, Kestemont in "Stylometry with R: A Package for Computational Text Analysis",
+To analyze style, I focused on various measure I can perform on the **most frequent words** of each document. I here take it that document specific word frequency rankings, especially as concerns so called *function words*, such as prepositions, articles, and so on, are a reliable type of **author invariant**; the MFW's of a document are a type of linguistic item that appear in documents only by virtue of being written by a particular author, with sets of words occurring across multiple documents with similar frequencies constituting an important part of an author's style. In particular, I use **Craig's Zeta** measure to identify a statistically significant difference in feature distribution between the analytic part of my corpus and the Continental part of my corpus, which I have labeled the "Humanities" portion instead. According to Eder , Rybicki and, Kestemont in "Stylometry with R: A Package for Computational Text Analysis",
 
 >[The Craig Zeta metric] is popular for selecting discriminative stylometric features in a binary classification setting. (pg. 117)
 
@@ -77,13 +77,13 @@ in other words, by using the "oppose()" function in stylo, we can identify signi
 ## Preprocessing
 First we take all of the documents I have put together and treat all of the self-identified analytic authors as *one and the same* author, and similarly for the continental authors. This allows me to treat all of the documents written by the various authors in my corpus as being written by one of two people, and then by running well established tests for checking differences between two authors I can establish differences between two sets of authors.
 
-Next is to *tokenize* each document, seperating them into the tokens (words) that they contain as parts.
+Next is to *tokenize* each document, separating them into the tokens (words) that they contain as parts.
 
 All that is left after tokenization is to calculate the Craig Zeta.
 
 # Bootstrapping: A Test of MFW's effectiveness
 
-I will quickly demonstrate why you should trust these methods and consider most frequent words to adequately capture features of authorship by building a **bootstrapping consensus tee** from my documents. Bootstrapping consesus trees are consensus trees built using a distance metric, where a consesus tree is a way of estimating the level of "support" for claudes in a tree, clusters of nodes of the tree.
+I will quickly demonstrate why you should trust these methods and consider most frequent words to adequately capture features of authorship by building a **bootstrapping consensus tee** from my documents. Bootstrapping consensus trees are consensus trees built using a distance metric, where a consensus tree is a way of estimating the level of "support" for clades in a tree, clusters of nodes of the tree.
 
 ![Consensus Tree](https://bitbucket.org/JesseRP/analyticstyle/raw/2b31b9406bbc3f841d8e2b73d85c64a1fc71920d/ConsensusTreeDiagram.jpg) 
 
@@ -141,7 +141,7 @@ combined.features <- c(zeta.results$words.preferred[1:20],
                        zeta.results$words.avoided[1:20])
 ```
 
-To identify most characteristic words using [Craig's Zeta Function](https://www.rdocumentation.org/packages/stylo/versions/0.6.9/topics/zeta.craig), I produced the following list of words characteristic of the analytic and Continental authors in my corpus:
+to identify the most characteristic words with the [Craig's Zeta Function](https://www.rdocumentation.org/packages/stylo/versions/0.6.9/topics/zeta.craig), I produced the following list of words characteristic of the analytic and Continental authors in my corpus:
 
 ![Characteristic Words](https://bitbucket.org/JesseRP/analyticstyle/raw/aaeebfb289da511fc4aa1cc21d34aaf6c71ea534/Image%205-3-19%20at%208.48%20PM.jpg)
 
